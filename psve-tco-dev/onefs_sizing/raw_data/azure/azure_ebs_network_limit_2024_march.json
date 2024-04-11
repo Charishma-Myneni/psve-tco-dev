@@ -1,0 +1,51 @@
+{
+    "Standard_D32ds_v5": {
+        "base-ebs-bw-limit-mbps": 865,
+        "burst-ebs-bw-limit-mbps": 2000,
+        "network-egress-bandwidth-mbps": 2000
+    }, 
+    "Standard_D48ds_v5": {
+        "base-ebs-bw-limit-mbps": 1315,
+        "burst-ebs-bw-limit-mbps": 3000,
+        "network-egress-bandwidth-mbps": 3000
+    }, 
+    "Standard_D64ds_v5": {
+        "base-ebs-bw-limit-mbps": 1735,
+        "burst-ebs-bw-limit-mbps": 3000,
+        "network-egress-bandwidth-mbps": 3750
+    }, 
+    "Standard_D96ds_v5": {
+        "base-ebs-bw-limit-mbps": 2600,
+        "burst-ebs-bw-limit-mbps": 4000,
+        "network-egress-bandwidth-mbps": 4375
+    },
+    "Standard_E32ds_v5": {
+        "base-ebs-bw-limit-mbps": 865,
+        "burst-ebs-bw-limit-mbps": 2000,
+        "network-egress-bandwidth-mbps": 2000
+    }, 
+    "Standard_E48ds_v5": {
+        "base-ebs-bw-limit-mbps": 1315,
+        "burst-ebs-bw-limit-mbps": 3000,
+        "network-egress-bandwidth-mbps": 3000
+    }, 
+    "Standard_E64ds_v5": {
+        "base-ebs-bw-limit-mbps": 1735,
+        "burst-ebs-bw-limit-mbps": 3000,
+        "network-egress-bandwidth-mbps": 3750
+    }, 
+    "Standard_E96ds_v5": {
+        "base-ebs-bw-limit-mbps": 2600,
+        "burst-ebs-bw-limit-mbps": 4000,
+        "network-egress-bandwidth-mbps": 4375
+    }, 
+    "Standard_E104ids_v5": {
+        "base-ebs-bw-limit-mbps": 4000,
+        "burst-ebs-bw-limit-mbps": 4000,
+        "network-egress-bandwidth-mbps": 12500
+    },
+    "_comment": {
+        "1": "May use Azure API to query these EBS limit instead later.",
+        "2": "And also include Network limit as well."
+    }
+}

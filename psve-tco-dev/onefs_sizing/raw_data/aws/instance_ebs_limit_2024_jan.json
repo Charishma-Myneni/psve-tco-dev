@@ -1,0 +1,13 @@
+{
+    "m5dn.8xlarge": 850, 
+    "m5dn.12xlarge": 1187.5, 
+    "m5dn.16xlarge": 1700,
+    "m5dn.24xlarge": 2375,
+    "m6idn.8xlarge": 3125, 
+    "m6idn.12xlarge": 4687, 
+    "m6idn.16xlarge": 6250, 
+    "m6idn.24xlarge": 9375,
+    "m5d.24xlarge": 2375,
+    "i3en.12xlarge": 1187.5,
+    "_comment": "May use AWS API to query these EBS limit instead later."
+}

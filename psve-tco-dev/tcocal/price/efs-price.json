@@ -1,0 +1,429 @@
+{
+  "us-east-1": {
+    "one_zone_storage": {
+      "price": 0.16,
+      "unit": "GB-Mo",
+      "description": "$0.16 per GB-Mo for One Zone Storage in US East (N. Virginia)",
+      "storage_class": "One Zone-General Purpose",
+      "location": "US East (N. Virginia)"
+    },
+    "standard_storage": {
+      "price": 0.3,
+      "unit": "GB-Mo",
+      "description": "USD $0.30 per GB-Mo for Standard storage (USE1)",
+      "storage_class": "General Purpose",
+      "currency": "USD",
+      "location": "US East (N. Virginia)"
+    }
+  },
+  "us-east-2": {
+    "one_zone_storage": {
+      "price": 0.16,
+      "unit": "GB-Mo",
+      "description": "$0.16 per GB-Mo for One Zone Storage in US East (Ohio)",
+      "storage_class": "One Zone-General Purpose",
+      "location": "US East (Ohio)"
+    },
+    "standard_storage": {
+      "price": 0.3,
+      "unit": "GB-Mo",
+      "description": "USD $0.30 per GB-Mo for Standard storage (USE2)",
+      "storage_class": "General Purpose",
+      "currency": "USD",
+      "location": "US East (Ohio)"
+    }
+  },
+  "us-west-2": {
+    "standard_storage": {
+      "price": 0.3,
+      "unit": "GB-Mo",
+      "description": "USD $0.30 per GB-Mo for Standard storage (USW2)",
+      "storage_class": "General Purpose",
+      "currency": "USD",
+      "location": "US West (Oregon)"
+    },
+    "one_zone_storage": {
+      "price": 0.16,
+      "unit": "GB-Mo",
+      "description": "$0.16 per GB-Mo for One Zone Storage in US West (Oregon)",
+      "storage_class": "One Zone-General Purpose",
+      "location": "US West (Oregon)"
+    }
+  },
+  "eu-west-1": {
+    "one_zone_storage": {
+      "price": 0.176,
+      "unit": "GB-Mo",
+      "description": "$0.176 per GB-Mo for One Zone Storage in EU (Ireland)",
+      "storage_class": "One Zone-General Purpose",
+      "location": "EU (Ireland)"
+    },
+    "standard_storage": {
+      "price": 0.33,
+      "unit": "GB-Mo",
+      "description": "USD $0.33 per GB-Mo for Standard storage (EU)",
+      "storage_class": "General Purpose",
+      "currency": "USD",
+      "location": "EU (Ireland)"
+    }
+  },
+  "eu-central-1": {
+    "one_zone_storage": {
+      "price": 0.192,
+      "unit": "GB-Mo",
+      "description": "$0.192 per GB-Mo for One Zone Storage in EU (Frankfurt)",
+      "storage_class": "One Zone-General Purpose",
+      "location": "EU (Frankfurt)"
+    },
+    "standard_storage": {
+      "price": 0.36,
+      "unit": "GB-Mo",
+      "description": "USD $0.36 per GB-Mo for Standard storage (EUC1)",
+      "storage_class": "General Purpose",
+      "currency": "USD",
+      "location": "EU (Frankfurt)"
+    }
+  },
+  "ap-southeast-1": {
+    "one_zone_storage": {
+      "price": 0.192,
+      "unit": "GB-Mo",
+      "description": "$0.192 per GB-Mo for One Zone Storage in Asia Pacific (Singapore)",
+      "storage_class": "One Zone-General Purpose",
+      "location": "Asia Pacific (Singapore)"
+    },
+    "standard_storage": {
+      "price": 0.36,
+      "unit": "GB-Mo",
+      "description": "USD $0.36 per GB-Mo for Standard storage (APS1)",
+      "storage_class": "General Purpose",
+      "currency": "USD",
+      "location": "Asia Pacific (Singapore)"
+    }
+  },
+  "ap-northeast-1": {
+    "one_zone_storage": {
+      "price": 0.192,
+      "unit": "GB-Mo",
+      "description": "$0.192 per GB-Mo for One Zone Storage in Asia Pacific (Tokyo)",
+      "storage_class": "One Zone-General Purpose",
+      "location": "Asia Pacific (Tokyo)"
+    },
+    "standard_storage": {
+      "price": 0.36,
+      "unit": "GB-Mo",
+      "description": "USD $0.36 per GB-Mo for Standard storage (APN1)",
+      "storage_class": "General Purpose",
+      "currency": "USD",
+      "location": "Asia Pacific (Tokyo)"
+    }
+  },
+  "us-west-1": {
+    "one_zone_storage": {
+      "price": 0.176,
+      "unit": "GB-Mo",
+      "description": "$0.176 per GB-Mo for One Zone Storage in US West (N. California)",
+      "storage_class": "One Zone-General Purpose",
+      "location": "US West (N. California)"
+    },
+    "standard_storage": {
+      "price": 0.33,
+      "unit": "GB-Mo",
+      "description": "USD $0.33 per GB-Mo for Standard storage (USW1)",
+      "storage_class": "General Purpose",
+      "currency": "USD",
+      "location": "US West (N. California)"
+    }
+  },
+  "af-south-1": {
+    "one_zone_storage": {
+      "price": 0.208,
+      "unit": "GB-Mo",
+      "description": "$0.208 per GB-Mo for One Zone Storage in Africa (Cape Town)",
+      "storage_class": "One Zone-General Purpose",
+      "location": "Africa (Cape Town)"
+    },
+    "standard_storage": {
+      "price": 0.39,
+      "unit": "GB-Mo",
+      "description": "USD $0.39 per GB-Mo for Standard storage (AFS1)",
+      "storage_class": "General Purpose",
+      "currency": "USD",
+      "location": "Africa (Cape Town)"
+    }
+  },
+  "ap-east-1": {
+    "one_zone_storage": {
+      "price": 0.208,
+      "unit": "GB-Mo",
+      "description": "$0.208 per GB-Mo for One Zone Storage in Asia Pacific (Hong Kong)",
+      "storage_class": "One Zone-General Purpose",
+      "location": "Asia Pacific (Hong Kong)"
+    },
+    "standard_storage": {
+      "price": 0.39,
+      "unit": "GB-Mo",
+      "description": "USD $0.39 per GB-Mo for Standard storage (APE1)",
+      "storage_class": "General Purpose",
+      "currency": "USD",
+      "location": "Asia Pacific (Hong Kong)"
+    }
+  },
+  "ap-south-2": {
+    "standard_storage": {
+      "price": 0.33,
+      "unit": "GB-Mo",
+      "description": "USD0.33 per GB-Mo for TimedStorage-ByteHrs in Asia Pacific (Hyderabad)",
+      "storage_class": "General Purpose",
+      "currency": "USD",
+      "location": "Asia Pacific (Hyderabad)"
+    }
+  },
+  "ap-southeast-3": {
+    "standard_storage": {
+      "price": 0.36,
+      "unit": "GB-Mo",
+      "description": "USD $0.36 per GB-Mo for Standard storage in Asia Pacific (Jakarta)",
+      "storage_class": "General Purpose",
+      "currency": "USD",
+      "location": "Asia Pacific (Jakarta)"
+    }
+  },
+  "ap-southeast-4": {
+    "standard_storage": {
+      "price": 0.36,
+      "unit": "GB-Mo",
+      "description": "USD0.36 per GB-Mo for TimedStorage-ByteHrs in Asia Pacific (Melbourne)",
+      "storage_class": "General Purpose",
+      "currency": "USD",
+      "location": "Asia Pacific (Melbourne)"
+    }
+  },
+  "ap-south-1": {
+    "one_zone_storage": {
+      "price": 0.176,
+      "unit": "GB-Mo",
+      "description": "$0.176 per GB-Mo for One Zone Storage in Asia Pacific (Mumbai)",
+      "storage_class": "One Zone-General Purpose",
+      "location": "Asia Pacific (Mumbai)"
+    },
+    "standard_storage": {
+      "price": 0.33,
+      "unit": "GB-Mo",
+      "description": "USD $0.33 per GB-Mo for Standard storage (APS3)",
+      "storage_class": "General Purpose",
+      "currency": "USD",
+      "location": "Asia Pacific (Mumbai)"
+    }
+  },
+  "ap-northeast-3": {
+    "one_zone_storage": {
+      "price": 0.192,
+      "unit": "GB-Mo",
+      "description": "USD $0.192 per GB-Mo for One Zone storage (APN3)",
+      "storage_class": "One Zone-General Purpose",
+      "location": "Asia Pacific (Osaka)"
+    },
+    "standard_storage": {
+      "price": 0.36,
+      "unit": "GB-Mo",
+      "description": "USD $0.36 per GB-Mo for Standard storage (APN3)",
+      "storage_class": "General Purpose",
+      "currency": "USD",
+      "location": "Asia Pacific (Osaka)"
+    }
+  },
+  "ap-northeast-2": {
+    "one_zone_storage": {
+      "price": 0.176,
+      "unit": "GB-Mo",
+      "description": "$0.176 per GB-Mo for One Zone Storage in Asia Pacific (Seoul)",
+      "storage_class": "One Zone-General Purpose",
+      "location": "Asia Pacific (Seoul)"
+    },
+    "standard_storage": {
+      "price": 0.33,
+      "unit": "GB-Mo",
+      "description": "USD $0.33 per GB-Mo for Standard storage (APN2)",
+      "storage_class": "General Purpose",
+      "currency": "USD",
+      "location": "Asia Pacific (Seoul)"
+    }
+  },
+  "ap-southeast-2": {
+    "standard_storage": {
+      "price": 0.36,
+      "unit": "GB-Mo",
+      "description": "USD $0.36 per GB-Mo for Standard storage (APS2)",
+      "storage_class": "General Purpose",
+      "currency": "USD",
+      "location": "Asia Pacific (Sydney)"
+    },
+    "one_zone_storage": {
+      "price": 0.192,
+      "unit": "GB-Mo",
+      "description": "$0.192 per GB-Mo for One Zone Storage in Asia Pacific (Sydney)",
+      "storage_class": "One Zone-General Purpose",
+      "location": "Asia Pacific (Sydney)"
+    }
+  },
+  "ca-central-1": {
+    "one_zone_storage": {
+      "price": 0.176,
+      "unit": "GB-Mo",
+      "description": "$0.176 per GB-Mo for One Zone Storage in Canada (Central)",
+      "storage_class": "One Zone-General Purpose",
+      "location": "Canada (Central)"
+    },
+    "standard_storage": {
+      "price": 0.33,
+      "unit": "GB-Mo",
+      "description": "USD $0.33 per GB-Mo for Standard storage (CAN1)",
+      "storage_class": "General Purpose",
+      "currency": "USD",
+      "location": "Canada (Central)"
+    }
+  },
+  "eu-west-2": {
+    "standard_storage": {
+      "price": 0.33,
+      "unit": "GB-Mo",
+      "description": "USD $0.33 per GB-Mo for Standard storage (EUW2)",
+      "storage_class": "General Purpose",
+      "currency": "USD",
+      "location": "EU (London)"
+    },
+    "one_zone_storage": {
+      "price": 0.176,
+      "unit": "GB-Mo",
+      "description": "$0.176 per GB-Mo for One Zone Storage in EU (London)",
+      "storage_class": "One Zone-General Purpose",
+      "location": "EU (London)"
+    }
+  },
+  "eu-south-1": {
+    "standard_storage": {
+      "price": 0.36,
+      "unit": "GB-Mo",
+      "description": "USD $0.36 per GB-Mo for Standard storage (EUS1)",
+      "storage_class": "General Purpose",
+      "currency": "USD",
+      "location": "EU (Milan)"
+    },
+    "one_zone_storage": {
+      "price": 0.192,
+      "unit": "GB-Mo",
+      "description": "$0.192 per GB-Mo for One Zone Storage in EU (Milan)",
+      "storage_class": "One Zone-General Purpose",
+      "location": "EU (Milan)"
+    }
+  },
+  "eu-west-3": {
+    "one_zone_storage": {
+      "price": 0.176,
+      "unit": "GB-Mo",
+      "description": "$0.176 per GB-Mo for One Zone Storage in EU (Paris)",
+      "storage_class": "One Zone-General Purpose",
+      "location": "EU (Paris)"
+    },
+    "standard_storage": {
+      "price": 0.33,
+      "unit": "GB-Mo",
+      "description": "USD $0.33 per GB-Mo for Standard storage (EUW3)",
+      "storage_class": "General Purpose",
+      "currency": "USD",
+      "location": "EU (Paris)"
+    }
+  },
+  "eu-south-2": {
+    "standard_storage": {
+      "price": 0.33,
+      "unit": "GB-Mo",
+      "description": "USD0.33 per GB-Mo for TimedStorage-ByteHrs in Europe (Spain)",
+      "storage_class": "General Purpose",
+      "currency": "USD",
+      "location": "Europe (Spain)"
+    }
+  },
+  "eu-north-1": {
+    "standard_storage": {
+      "price": 0.3,
+      "unit": "GB-Mo",
+      "description": "USD $0.30 per GB-Mo for Standard storage (EUN1)",
+      "storage_class": "General Purpose",
+      "currency": "USD",
+      "location": "EU (Stockholm)"
+    },
+    "one_zone_storage": {
+      "price": 0.16,
+      "unit": "GB-Mo",
+      "description": "$0.16 per GB-Mo for One Zone Storage in EU (Stockholm)",
+      "storage_class": "One Zone-General Purpose",
+      "location": "EU (Stockholm)"
+    }
+  },
+  "eu-central-2": {
+    "standard_storage": {
+      "price": 0.43,
+      "unit": "GB-Mo",
+      "description": "USD0.43 per GB-Mo for TimedStorage-ByteHrs in Europe (Zurich)",
+      "storage_class": "General Purpose",
+      "currency": "USD",
+      "location": "Europe (Zurich)"
+    }
+  },
+  "me-south-1": {
+    "standard_storage": {
+      "price": 0.36,
+      "unit": "GB-Mo",
+      "description": "USD $0.36 per GB-Mo for Standard storage (MES1)",
+      "storage_class": "General Purpose",
+      "currency": "USD",
+      "location": "Middle East (Bahrain)"
+    },
+    "one_zone_storage": {
+      "price": 0.192,
+      "unit": "GB-Mo",
+      "description": "$0.192 per GB-Mo for One Zone Storage in Middle East (Bahrain)",
+      "storage_class": "One Zone-General Purpose",
+      "location": "Middle East (Bahrain)"
+    }
+  },
+  "me-central-1": {
+    "standard_storage": {
+      "price": 0.36,
+      "unit": "GB-Mo",
+      "description": "USD0.36 per GB-Mo for TimedStorage-ByteHrs in Middle East (UAE)",
+      "storage_class": "General Purpose",
+      "currency": "USD",
+      "location": "Middle East (UAE)"
+    }
+  },
+  "il-central-1": {
+    "standard_storage": {
+      "price": 0.4,
+      "unit": "GB-Mo",
+      "description": "USD0.40 per GB-Mo for TimedStorage-ByteHrs in Israel (Tel Aviv)",
+      "storage_class": "General Purpose",
+      "currency": "USD",
+      "location": "Israel (Tel Aviv)"
+    }
+  },
+  "sa-east-1": {
+    "one_zone_storage": {
+      "price": 0.304,
+      "unit": "GB-Mo",
+      "description": "$0.304 per GB-Mo for One Zone Storage in South America (Sao Paulo)",
+      "storage_class": "One Zone-General Purpose",
+      "location": "South America (Sao Paulo)"
+    },
+    "standard_storage": {
+      "price": 0.57,
+      "unit": "GB-Mo",
+      "description": "USD $0.57 per GB-Mo for Standard storage (SAE1)",
+      "storage_class": "General Purpose",
+      "currency": "USD",
+      "location": "South America (Sao Paulo)"
+    }
+  }
+}

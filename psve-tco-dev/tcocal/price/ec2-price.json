@@ -1,0 +1,1174 @@
+{
+  "us-east-1": {
+    "m5dn.8xlarge": {
+      "on-demand": 2.176,
+      "on-demand-description": "$2.176 per On Demand Linux m5dn.8xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 0.846,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "US East (N. Virginia)"
+    },
+    "m5dn.12xlarge": {
+      "on-demand": 3.264,
+      "on-demand-description": "$3.264 per On Demand Linux m5dn.12xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 1.269,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "US East (N. Virginia)"
+    },
+    "m5dn.16xlarge": {
+      "on-demand": 4.352,
+      "on-demand-description": "$4.352 per On Demand Linux m5dn.16xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 1.692,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "US East (N. Virginia)"
+    },
+    "m5dn.24xlarge": {
+      "on-demand": 6.528,
+      "on-demand-description": "$6.528 per On Demand Linux m5dn.24xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.538,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "US East (N. Virginia)"
+    },
+    "m6idn.8xlarge": {
+      "on-demand": 2.54592,
+      "on-demand-description": "$2.54592 per On Demand Linux m6idn.8xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 0.98985,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "US East (N. Virginia)"
+    },
+    "m6idn.12xlarge": {
+      "on-demand": 3.81888,
+      "on-demand-description": "$3.81888 per On Demand Linux m6idn.12xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 1.48478,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "US East (N. Virginia)"
+    },
+    "m6idn.16xlarge": {
+      "on-demand": 5.09184,
+      "on-demand-description": "$5.09184 per On Demand Linux m6idn.16xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 1.97971,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "US East (N. Virginia)"
+    },
+    "m6idn.24xlarge": {
+      "on-demand": 7.63776,
+      "on-demand-description": "$7.63776 per On Demand Linux m6idn.24xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.96956,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "US East (N. Virginia)"
+    },
+    "m5d.24xlarge": {
+      "on-demand": 5.424,
+      "on-demand-description": "$5.424 per On Demand Linux m5d.24xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.343,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "US East (N. Virginia)"
+    },
+    "i3en.12xlarge": {
+      "on-demand": 5.424,
+      "on-demand-description": "$5.424 per On Demand Linux i3en.12xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.36,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "US East (N. Virginia)"
+    }
+  },
+  "us-east-2": {
+    "m5dn.8xlarge": {
+      "on-demand": 2.176,
+      "on-demand-description": "$2.176 per On Demand Linux m5dn.8xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 0.846,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "US East (Ohio)"
+    },
+    "m5dn.12xlarge": {
+      "on-demand": 3.264,
+      "on-demand-description": "$3.264 per On Demand Linux m5dn.12xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 1.269,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "US East (Ohio)"
+    },
+    "m5dn.16xlarge": {
+      "on-demand": 4.352,
+      "on-demand-description": "$4.352 per On Demand Linux m5dn.16xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 1.692,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "US East (Ohio)"
+    },
+    "m5dn.24xlarge": {
+      "on-demand": 6.528,
+      "on-demand-description": "$6.528 per On Demand Linux m5dn.24xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.538,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "US East (Ohio)"
+    },
+    "m6idn.8xlarge": {
+      "on-demand": 2.54592,
+      "on-demand-description": "$2.54592 per On Demand Linux m6idn.8xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 0.98985,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "US East (Ohio)"
+    },
+    "m6idn.12xlarge": {
+      "on-demand": 3.81888,
+      "on-demand-description": "$3.81888 per On Demand Linux m6idn.12xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 1.48478,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "US East (Ohio)"
+    },
+    "m6idn.16xlarge": {
+      "on-demand": 5.09184,
+      "on-demand-description": "$5.09184 per On Demand Linux m6idn.16xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 1.97971,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "US East (Ohio)"
+    },
+    "m6idn.24xlarge": {
+      "on-demand": 7.63776,
+      "on-demand-description": "$7.63776 per On Demand Linux m6idn.24xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.96956,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "US East (Ohio)"
+    },
+    "m5d.24xlarge": {
+      "on-demand": 5.424,
+      "on-demand-description": "$5.424 per On Demand Linux m5d.24xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.343,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "US East (Ohio)"
+    },
+    "i3en.12xlarge": {
+      "on-demand": 5.424,
+      "on-demand-description": "$5.424 per On Demand Linux i3en.12xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.36,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "US East (Ohio)"
+    }
+  },
+  "us-west-2": {
+    "m5dn.8xlarge": {
+      "on-demand": 2.176,
+      "on-demand-description": "$2.176 per On Demand Linux m5dn.8xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 0.846,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "US West (Oregon)"
+    },
+    "m5dn.12xlarge": {
+      "on-demand": 3.264,
+      "on-demand-description": "$3.264 per On Demand Linux m5dn.12xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 1.269,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "US West (Oregon)"
+    },
+    "m5dn.16xlarge": {
+      "on-demand": 4.352,
+      "on-demand-description": "$4.352 per On Demand Linux m5dn.16xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 1.692,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "US West (Oregon)"
+    },
+    "m5dn.24xlarge": {
+      "on-demand": 6.528,
+      "on-demand-description": "$6.528 per On Demand Linux m5dn.24xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.538,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "US West (Oregon)"
+    },
+    "m6idn.8xlarge": {
+      "on-demand": 2.54592,
+      "on-demand-description": "$2.54592 per On Demand Linux m6idn.8xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 0.98985,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "US West (Oregon)"
+    },
+    "m6idn.12xlarge": {
+      "on-demand": 3.81888,
+      "on-demand-description": "$3.81888 per On Demand Linux m6idn.12xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 1.48478,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "US West (Oregon)"
+    },
+    "m6idn.16xlarge": {
+      "on-demand": 5.09184,
+      "on-demand-description": "$5.09184 per On Demand Linux m6idn.16xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 1.97971,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "US West (Oregon)"
+    },
+    "m6idn.24xlarge": {
+      "on-demand": 7.63776,
+      "on-demand-description": "$7.63776 per On Demand Linux m6idn.24xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.96956,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "US West (Oregon)"
+    },
+    "m5d.24xlarge": {
+      "on-demand": 5.424,
+      "on-demand-description": "$5.424 per On Demand Linux m5d.24xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.343,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "US West (Oregon)"
+    },
+    "i3en.12xlarge": {
+      "on-demand": 5.424,
+      "on-demand-description": "$5.424 per On Demand Linux i3en.12xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.36,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "US West (Oregon)"
+    }
+  },
+  "eu-west-1": {
+    "m5dn.8xlarge": {
+      "on-demand": 2.432,
+      "on-demand-description": "$2.432 per On Demand Linux m5dn.8xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 1.051,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "EU (Ireland)"
+    },
+    "m5dn.12xlarge": {
+      "on-demand": 3.648,
+      "on-demand-description": "$3.648 per On Demand Linux m5dn.12xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 1.576,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "EU (Ireland)"
+    },
+    "m5dn.16xlarge": {
+      "on-demand": 4.864,
+      "on-demand-description": "$4.864 per On Demand Linux m5dn.16xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.101,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "EU (Ireland)"
+    },
+    "m5dn.24xlarge": {
+      "on-demand": 7.296,
+      "on-demand-description": "$7.296 per On Demand Linux m5dn.24xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 3.152,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "EU (Ireland)"
+    },
+    "m6idn.8xlarge": {
+      "on-demand": 2.84544,
+      "on-demand-description": "$2.84544 per On Demand Linux m6idn.8xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 1.22923,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "EU (Ireland)"
+    },
+    "m6idn.12xlarge": {
+      "on-demand": 4.26816,
+      "on-demand-description": "$4.26816 per On Demand Linux m6idn.12xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 1.84385,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "EU (Ireland)"
+    },
+    "m6idn.16xlarge": {
+      "on-demand": 5.69088,
+      "on-demand-description": "$5.69088 per On Demand Linux m6idn.16xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.45846,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "EU (Ireland)"
+    },
+    "m6idn.24xlarge": {
+      "on-demand": 8.53632,
+      "on-demand-description": "$8.53632 per On Demand Linux m6idn.24xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 3.68769,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "EU (Ireland)"
+    },
+    "m5d.24xlarge": {
+      "on-demand": 6.048,
+      "on-demand-description": "$6.048 per On Demand Linux m5d.24xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.613,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "EU (Ireland)"
+    },
+    "i3en.12xlarge": {
+      "on-demand": 6.0,
+      "on-demand-description": "$6.00 per On Demand Linux i3en.12xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.608,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "EU (Ireland)"
+    }
+  },
+  "eu-central-1": {
+    "m5dn.8xlarge": {
+      "on-demand": 2.592,
+      "on-demand-description": "$2.592 per On Demand Linux m5dn.8xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 1.12,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "EU (Frankfurt)"
+    },
+    "m5dn.12xlarge": {
+      "on-demand": 3.888,
+      "on-demand-description": "$3.888 per On Demand Linux m5dn.12xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 1.68,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "EU (Frankfurt)"
+    },
+    "m5dn.16xlarge": {
+      "on-demand": 5.184,
+      "on-demand-description": "$5.184 per On Demand Linux m5dn.16xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.239,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "EU (Frankfurt)"
+    },
+    "m5dn.24xlarge": {
+      "on-demand": 7.776,
+      "on-demand-description": "$7.776 per On Demand Linux m5dn.24xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 3.359,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "EU (Frankfurt)"
+    },
+    "m6idn.8xlarge": {
+      "on-demand": 3.03264,
+      "on-demand-description": "$3.03264 per On Demand Linux m6idn.8xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 1.3101,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "EU (Frankfurt)"
+    },
+    "m6idn.12xlarge": {
+      "on-demand": 4.54896,
+      "on-demand-description": "$4.54896 per On Demand Linux m6idn.12xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 1.96515,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "EU (Frankfurt)"
+    },
+    "m6idn.16xlarge": {
+      "on-demand": 6.06528,
+      "on-demand-description": "$6.06528 per On Demand Linux m6idn.16xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.6202,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "EU (Frankfurt)"
+    },
+    "m6idn.24xlarge": {
+      "on-demand": 9.09792,
+      "on-demand-description": "$9.09792 per On Demand Linux m6idn.24xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 3.9303,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "EU (Frankfurt)"
+    },
+    "m5d.24xlarge": {
+      "on-demand": 6.528,
+      "on-demand-description": "$6.528 per On Demand Linux m5d.24xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.82,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "EU (Frankfurt)"
+    },
+    "i3en.12xlarge": {
+      "on-demand": 6.48,
+      "on-demand-description": "$6.48 per On Demand Linux i3en.12xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.829,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "EU (Frankfurt)"
+    }
+  },
+  "ap-southeast-1": {
+    "m5dn.8xlarge": {
+      "on-demand": 2.672,
+      "on-demand-description": "$2.672 per On Demand Linux m5dn.8xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 1.053,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Asia Pacific (Singapore)"
+    },
+    "m5dn.12xlarge": {
+      "on-demand": 4.008,
+      "on-demand-description": "$4.008 per On Demand Linux m5dn.12xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 1.58,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Asia Pacific (Singapore)"
+    },
+    "m5dn.16xlarge": {
+      "on-demand": 5.344,
+      "on-demand-description": "$5.344 per On Demand Linux m5dn.16xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.107,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Asia Pacific (Singapore)"
+    },
+    "m5dn.24xlarge": {
+      "on-demand": 8.016,
+      "on-demand-description": "$8.016 per On Demand Linux m5dn.24xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 3.16,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Asia Pacific (Singapore)"
+    },
+    "m6idn.8xlarge": {
+      "on-demand": 3.12624,
+      "on-demand-description": "$3.12624 per On Demand Linux m6idn.8xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 1.23236,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Asia Pacific (Singapore)"
+    },
+    "m6idn.12xlarge": {
+      "on-demand": 4.68936,
+      "on-demand-description": "$4.68936 per On Demand Linux m6idn.12xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 1.84855,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Asia Pacific (Singapore)"
+    },
+    "m6idn.16xlarge": {
+      "on-demand": 6.25248,
+      "on-demand-description": "$6.25248 per On Demand Linux m6idn.16xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.46473,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Asia Pacific (Singapore)"
+    },
+    "m6idn.24xlarge": {
+      "on-demand": 9.37872,
+      "on-demand-description": "$9.37872 per On Demand Linux m6idn.24xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 3.69709,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Asia Pacific (Singapore)"
+    },
+    "m5d.24xlarge": {
+      "on-demand": 6.768,
+      "on-demand-description": "$6.768 per On Demand Linux m5d.24xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.924,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Asia Pacific (Singapore)"
+    },
+    "i3en.12xlarge": {
+      "on-demand": 6.504,
+      "on-demand-description": "$6.504 per On Demand Linux i3en.12xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.831,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Asia Pacific (Singapore)"
+    }
+  },
+  "ap-northeast-1": {
+    "m5dn.8xlarge": {
+      "on-demand": 2.8,
+      "on-demand-description": "$2.80 per On Demand Linux m5dn.8xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 1.21,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Asia Pacific (Tokyo)"
+    },
+    "m5dn.12xlarge": {
+      "on-demand": 4.2,
+      "on-demand-description": "$4.20 per On Demand Linux m5dn.12xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 1.814,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Asia Pacific (Tokyo)"
+    },
+    "m5dn.16xlarge": {
+      "on-demand": 5.6,
+      "on-demand-description": "$5.60 per On Demand Linux m5dn.16xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.419,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Asia Pacific (Tokyo)"
+    },
+    "m5dn.24xlarge": {
+      "on-demand": 8.4,
+      "on-demand-description": "$8.40 per On Demand Linux m5dn.24xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 3.629,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Asia Pacific (Tokyo)"
+    },
+    "m6idn.8xlarge": {
+      "on-demand": 3.276,
+      "on-demand-description": "$3.276 per On Demand Linux m6idn.8xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 1.41523,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Asia Pacific (Tokyo)"
+    },
+    "m6idn.12xlarge": {
+      "on-demand": 4.914,
+      "on-demand-description": "$4.914 per On Demand Linux m6idn.12xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.12285,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Asia Pacific (Tokyo)"
+    },
+    "m6idn.16xlarge": {
+      "on-demand": 6.552,
+      "on-demand-description": "$6.552 per On Demand Linux m6idn.16xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.83046,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Asia Pacific (Tokyo)"
+    },
+    "m6idn.24xlarge": {
+      "on-demand": 9.828,
+      "on-demand-description": "$9.828 per On Demand Linux m6idn.24xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 4.2457,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Asia Pacific (Tokyo)"
+    },
+    "m5d.24xlarge": {
+      "on-demand": 7.008,
+      "on-demand-description": "$7.008 per On Demand Linux m5d.24xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 3.027,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Asia Pacific (Tokyo)"
+    },
+    "i3en.12xlarge": {
+      "on-demand": 6.384,
+      "on-demand-description": "$6.384 per On Demand Linux i3en.12xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.776,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Asia Pacific (Tokyo)"
+    }
+  },
+  "us-west-1": {
+    "m6idn.8xlarge": {
+      "on-demand": 2.93504,
+      "on-demand-description": "$2.93504 per On Demand Linux m6idn.8xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 1.13132,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "US West (N. California)"
+    },
+    "m6idn.12xlarge": {
+      "on-demand": 4.40256,
+      "on-demand-description": "$4.40256 per On Demand Linux m6idn.12xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 1.69698,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "US West (N. California)"
+    },
+    "m6idn.16xlarge": {
+      "on-demand": 5.87008,
+      "on-demand-description": "$5.87008 per On Demand Linux m6idn.16xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.26263,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "US West (N. California)"
+    },
+    "m6idn.24xlarge": {
+      "on-demand": 8.80512,
+      "on-demand-description": "$8.80512 per On Demand Linux m6idn.24xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 3.39395,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "US West (N. California)"
+    },
+    "m5d.24xlarge": {
+      "on-demand": 6.384,
+      "on-demand-description": "$6.384 per On Demand Linux m5d.24xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.758,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "US West (N. California)"
+    },
+    "i3en.12xlarge": {
+      "on-demand": 6.0,
+      "on-demand-description": "$6.00 per On Demand Linux i3en.12xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.608,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "US West (N. California)"
+    }
+  },
+  "af-south-1": {
+    "m5d.24xlarge": {
+      "on-demand": 7.2,
+      "on-demand-description": "$7.20 per On Demand Linux m5d.24xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 3.11,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Africa (Cape Town)"
+    },
+    "i3en.12xlarge": {
+      "on-demand": 7.128,
+      "on-demand-description": "$7.128 per On Demand Linux i3en.12xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 3.134,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Africa (Cape Town)"
+    }
+  },
+  "ap-east-1": {
+    "m5d.24xlarge": {
+      "on-demand": 7.44,
+      "on-demand-description": "$7.44 per On Demand Linux m5d.24xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 3.214,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Asia Pacific (Hong Kong)"
+    },
+    "i3en.12xlarge": {
+      "on-demand": 7.16,
+      "on-demand-description": "$7.16 per On Demand Linux i3en.12xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 3.117,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Asia Pacific (Hong Kong)"
+    }
+  },
+  "ap-south-2": {
+    "m5d.24xlarge": {
+      "on-demand": 5.856,
+      "on-demand-description": "$5.856 per On Demand Linux m5d.24xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.53,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Asia Pacific (Hyderabad)"
+    },
+    "i3en.12xlarge": {
+      "on-demand": 6.168,
+      "on-demand-description": "$6.168 per On Demand Linux i3en.12xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.693,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Asia Pacific (Hyderabad)"
+    }
+  },
+  "ap-southeast-3": {
+    "m5d.24xlarge": {
+      "on-demand": 6.768,
+      "on-demand-description": "$6.768 per On Demand Linux m5d.24xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.924,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Asia Pacific (Jakarta)"
+    },
+    "i3en.12xlarge": {
+      "on-demand": 6.504,
+      "on-demand-description": "$6.504 per On Demand Linux i3en.12xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.831,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Asia Pacific (Jakarta)"
+    }
+  },
+  "ap-southeast-4": {
+    "m5d.24xlarge": {
+      "on-demand": 6.816,
+      "on-demand-description": "$6.816 per On Demand Linux m5d.24xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.945,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Asia Pacific (Melbourne)"
+    },
+    "i3en.12xlarge": {
+      "on-demand": 6.504,
+      "on-demand-description": "$6.504 per On Demand Linux i3en.12xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.831,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Asia Pacific (Melbourne)"
+    }
+  },
+  "ap-south-1": {
+    "m5d.24xlarge": {
+      "on-demand": 5.856,
+      "on-demand-description": "$5.856 per On Demand Linux m5d.24xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.53,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Asia Pacific (Mumbai)"
+    },
+    "i3en.12xlarge": {
+      "on-demand": 6.168,
+      "on-demand-description": "$6.168 per On Demand Linux i3en.12xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.693,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Asia Pacific (Mumbai)"
+    }
+  },
+  "ap-northeast-3": {
+    "m5d.24xlarge": {
+      "on-demand": 7.008,
+      "on-demand-description": "$7.008 per On Demand Linux m5d.24xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 3.027,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Asia Pacific (Osaka)"
+    },
+    "i3en.12xlarge": {
+      "on-demand": 6.384,
+      "on-demand-description": "$6.384 per On Demand Linux i3en.12xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.77,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Asia Pacific (Osaka)"
+    }
+  },
+  "ap-northeast-2": {
+    "m5d.24xlarge": {
+      "on-demand": 6.672,
+      "on-demand-description": "$6.672 per On Demand Linux m5d.24xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.882,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Asia Pacific (Seoul)"
+    },
+    "i3en.12xlarge": {
+      "on-demand": 6.384,
+      "on-demand-description": "$6.384 per On Demand Linux i3en.12xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.776,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Asia Pacific (Seoul)"
+    }
+  },
+  "ap-southeast-2": {
+    "m6idn.8xlarge": {
+      "on-demand": 3.21984,
+      "on-demand-description": "$3.21984 per On Demand Linux m6idn.8xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 1.39097,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Asia Pacific (Sydney)"
+    },
+    "m6idn.12xlarge": {
+      "on-demand": 4.82976,
+      "on-demand-description": "$4.82976 per On Demand Linux m6idn.12xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.08646,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Asia Pacific (Sydney)"
+    },
+    "m6idn.16xlarge": {
+      "on-demand": 6.43968,
+      "on-demand-description": "$6.43968 per On Demand Linux m6idn.16xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.78194,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Asia Pacific (Sydney)"
+    },
+    "m6idn.24xlarge": {
+      "on-demand": 9.65952,
+      "on-demand-description": "$9.65952 per On Demand Linux m6idn.24xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 4.17291,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Asia Pacific (Sydney)"
+    },
+    "m5d.24xlarge": {
+      "on-demand": 6.816,
+      "on-demand-description": "$6.816 per On Demand Linux m5d.24xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.945,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Asia Pacific (Sydney)"
+    },
+    "i3en.12xlarge": {
+      "on-demand": 6.504,
+      "on-demand-description": "$6.504 per On Demand Linux i3en.12xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.831,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Asia Pacific (Sydney)"
+    }
+  },
+  "ca-central-1": {
+    "m5d.24xlarge": {
+      "on-demand": 6.048,
+      "on-demand-description": "$6.048 per On Demand Linux m5d.24xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.613,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Canada (Central)"
+    },
+    "i3en.12xlarge": {
+      "on-demand": 6.0,
+      "on-demand-description": "$6.00 per On Demand Linux i3en.12xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.608,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Canada (Central)"
+    }
+  },
+  "eu-west-2": {
+    "m5d.24xlarge": {
+      "on-demand": 6.288,
+      "on-demand-description": "$6.288 per On Demand Linux m5d.24xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.716,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "EU (London)"
+    },
+    "i3en.12xlarge": {
+      "on-demand": 6.312,
+      "on-demand-description": "$6.312 per On Demand Linux i3en.12xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.743,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "EU (London)"
+    }
+  },
+  "eu-south-1": {
+    "m5d.24xlarge": {
+      "on-demand": 6.336,
+      "on-demand-description": "$6.336 per On Demand Linux m5d.24xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.737,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "EU (Milan)"
+    },
+    "i3en.12xlarge": {
+      "on-demand": 6.293,
+      "on-demand-description": "$6.293 per On Demand Linux i3en.12xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.763,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "EU (Milan)"
+    }
+  },
+  "eu-west-3": {
+    "m5d.24xlarge": {
+      "on-demand": 6.336,
+      "on-demand-description": "$6.336 per On Demand Linux m5d.24xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.737,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "EU (Paris)"
+    },
+    "i3en.12xlarge": {
+      "on-demand": 6.312,
+      "on-demand-description": "$6.312 per On Demand Linux i3en.12xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.735,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "EU (Paris)"
+    }
+  },
+  "eu-south-2": {
+    "m5d.24xlarge": {
+      "on-demand": 6.048,
+      "on-demand-description": "$6.048 per On Demand Linux m5d.24xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.613,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Europe (Spain)"
+    },
+    "i3en.12xlarge": {
+      "on-demand": 6.0,
+      "on-demand-description": "$6.00 per On Demand Linux i3en.12xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.608,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Europe (Spain)"
+    }
+  },
+  "eu-north-1": {
+    "m6idn.8xlarge": {
+      "on-demand": 2.656,
+      "on-demand-description": "$2.656 per On Demand Linux m6idn.8xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 1.00397,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "EU (Stockholm)"
+    },
+    "m6idn.12xlarge": {
+      "on-demand": 3.984,
+      "on-demand-description": "$3.984 per On Demand Linux m6idn.12xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 1.50595,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "EU (Stockholm)"
+    },
+    "m6idn.16xlarge": {
+      "on-demand": 5.312,
+      "on-demand-description": "$5.312 per On Demand Linux m6idn.16xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.00794,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "EU (Stockholm)"
+    },
+    "m6idn.24xlarge": {
+      "on-demand": 7.968,
+      "on-demand-description": "$7.968 per On Demand Linux m6idn.24xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 3.0119,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "EU (Stockholm)"
+    },
+    "m5d.24xlarge": {
+      "on-demand": 5.76,
+      "on-demand-description": "$5.76 per On Demand Linux m5d.24xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.488,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "EU (Stockholm)"
+    },
+    "i3en.12xlarge": {
+      "on-demand": 5.688,
+      "on-demand-description": "$5.688 per On Demand Linux i3en.12xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.499,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "EU (Stockholm)"
+    }
+  },
+  "eu-central-2": {
+    "m5d.24xlarge": {
+      "on-demand": 7.181,
+      "on-demand-description": "$7.181 per On Demand Linux m5d.24xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 3.102,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Europe (Zurich)"
+    },
+    "i3en.12xlarge": {
+      "on-demand": 7.128,
+      "on-demand-description": "$7.128 per On Demand Linux i3en.12xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 3.112,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Europe (Zurich)"
+    }
+  },
+  "me-south-1": {
+    "m5d.24xlarge": {
+      "on-demand": 6.653,
+      "on-demand-description": "$6.653 per On Demand Linux m5d.24xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.874,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Middle East (Bahrain)"
+    },
+    "i3en.12xlarge": {
+      "on-demand": 6.571,
+      "on-demand-description": "$6.571 per On Demand Linux i3en.12xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.894,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Middle East (Bahrain)"
+    }
+  },
+  "me-central-1": {
+    "m5d.24xlarge": {
+      "on-demand": 6.653,
+      "on-demand-description": "$6.653 per On Demand Linux m5d.24xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.874,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Middle East (UAE)"
+    },
+    "i3en.12xlarge": {
+      "on-demand": 6.6,
+      "on-demand-description": "$6.60 per On Demand Linux i3en.12xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.868,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Middle East (UAE)"
+    }
+  },
+  "il-central-1": {
+    "m5d.24xlarge": {
+      "on-demand": 6.35,
+      "on-demand-description": "$6.35 per On Demand Linux m5d.24xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.743,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Israel (Tel Aviv)"
+    },
+    "i3en.12xlarge": {
+      "on-demand": 6.3,
+      "on-demand-description": "$6.30 per On Demand Linux i3en.12xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 2.738,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "Israel (Tel Aviv)"
+    }
+  },
+  "sa-east-1": {
+    "m5d.24xlarge": {
+      "on-demand": 8.64,
+      "on-demand-description": "$8.64 per On Demand Linux m5d.24xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 3.732,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "South America (Sao Paulo)"
+    },
+    "i3en.12xlarge": {
+      "on-demand": 8.64,
+      "on-demand-description": "$8.64 per On Demand Linux i3en.12xlarge Instance Hour",
+      "unit": "Hrs",
+      "ec2-saving-plan-3-years-no-upfront": 3.769,
+      "currency": "USD",
+      "tenancy": "Shared",
+      "location": "South America (Sao Paulo)"
+    }
+  }
+}

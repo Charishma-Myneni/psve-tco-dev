@@ -1,0 +1,36 @@
+{
+    "instance-families": {
+        "m5dn": [
+            "m5dn.8xlarge", "m5dn.12xlarge", "m5dn.16xlarge", "m5dn.24xlarge"
+        ],
+        "m6idn": [
+            "m6idn.8xlarge", "m6idn.12xlarge", "m6idn.16xlarge", "m6idn.24xlarge"
+        ],
+        "m5d": [
+            "m5d.24xlarge"
+        ],
+        "i3en": [
+            "i3en.12xlarge"
+        ]
+    },
+    "node-count": [4, 5, 6],
+    "protection-level": "+2n",
+    "efficiency": {
+        "4": 0.5,
+        "5": 0.6,
+        "6": 0.67
+    },
+    "volumn-types": {
+        "gp3": {
+            "volume-size-support-type": "range",
+            "volume-min-size-tib": 1,
+            "volume-max-size-tib": 16,
+            "volumn-count-per-node": [5, 6, 10, 12, 15, 18, 20]
+        }, 
+        "st1": {
+            "volume-size-support-type": "option",
+            "volume-size-options-tib": [4, 10],
+            "volumn-count-per-node": [5, 6]
+        }
+    }
+}

@@ -1,0 +1,196 @@
+{
+  "gp3": {
+    "m5dn": [
+      {
+        "name": "m5dn.8xlarge",
+        "per-node-read-perf": 844.9,
+        "per-node-write-perf": 192.3
+      },
+      {
+        "name": "m5dn.12xlarge",
+        "per-node-read-perf": 1168.5,
+        "per-node-write-perf": 309.9
+      },
+      {
+        "name": "m5dn.16xlarge",
+        "per-node-read-perf": 1700,
+        "per-node-write-perf": 309.9
+      },
+      {
+        "name": "m5dn.24xlarge",
+        "per-node-read-perf": 2320.9,
+        "per-node-write-perf": 321.6
+      }
+    ],
+    "m6idn": [
+      {
+        "name": "m6idn.8xlarge",
+        "per-node-read-perf": 1467.5,
+        "per-node-write-perf": 445.7
+      },
+      {
+        "name": "m6idn.12xlarge",
+        "per-node-read-perf": 2693.3,
+        "per-node-write-perf": 354.7
+      },
+      {
+        "name": "m6idn.16xlarge",
+        "per-node-read-perf": 2693.3,
+        "per-node-write-perf": 340.1
+      },
+      {
+        "name": "m6idn.24xlarge",
+        "per-node-read-perf": 2693.3,
+        "per-node-write-perf": 340.1
+      }
+    ],
+    "m5d": [
+      {
+        "name": "m5d.24xlarge",
+        "per-node-read-perf": 1604.3,
+        "per-node-write-perf": 316.6
+      }
+    ],
+    "i3en": [
+      {
+        "name": "i3en.12xlarge",
+        "per-node-read-perf": 1187.5,
+        "per-node-write-perf": 390.8
+      }
+    ]
+  },
+  "st1": {
+    "5d4t": {
+      "m5dn": [
+        {
+          "name": "m5dn.8xlarge",
+          "per-node-read-perf": 850,
+          "per-node-write-perf": 281.4
+        },
+        {
+          "name": "m5dn.12xlarge",
+          "per-node-read-perf": 1187.5,
+          "per-node-write-perf": 281.4
+        },
+        {
+          "name": "m5dn.16xlarge",
+          "per-node-read-perf": 1328.6,
+          "per-node-write-perf": 281.4
+        }
+      ],    
+      "m5d": [
+        {
+          "name": "m5d.24xlarge",
+          "per-node-read-perf": 1328.6,
+          "per-node-write-perf": 281.4
+        }
+      ],
+      "i3en": [
+        {
+          "name": "i3en.12xlarge",
+          "per-node-read-perf": 1187.5,
+          "per-node-write-perf": 281.4
+        }
+      ]
+    },      
+    "6d4t": {
+      "m5dn": [
+        {
+          "name": "m5dn.8xlarge",
+          "per-node-read-perf": 850,
+          "per-node-write-perf": 290.1
+        },
+        {
+          "name": "m5dn.12xlarge",
+          "per-node-read-perf": 1187.5,
+          "per-node-write-perf": 290.1
+        },
+        {
+          "name": "m5dn.16xlarge",
+          "per-node-read-perf": 1349.6,
+          "per-node-write-perf": 290.1
+        }
+      ],    
+      "m5d": [
+        {
+          "name": "m5d.24xlarge",
+          "per-node-read-perf": 1349.6,
+          "per-node-write-perf": 290.1
+        }
+      ],
+      "i3en": [
+        {
+          "name": "i3en.12xlarge",
+          "per-node-read-perf": 1187.5,
+          "per-node-write-perf": 290.1
+        }
+      ]
+    },
+    "5d10t": {
+      "m5dn": [
+        {
+          "name": "m5dn.8xlarge",
+          "per-node-read-perf": 850,
+          "per-node-write-perf": 329
+        },
+        {
+          "name": "m5dn.12xlarge",
+          "per-node-read-perf": 1187.5,
+          "per-node-write-perf": 329
+        },
+        {
+          "name": "m5dn.16xlarge",
+          "per-node-read-perf": 1486.2,
+          "per-node-write-perf": 329
+        }
+      ],    
+      "m5d": [
+        {
+          "name": "m5d.24xlarge",
+          "per-node-read-perf": 1486.2,
+          "per-node-write-perf": 329
+        }
+      ],
+      "i3en": [
+        {
+          "name": "i3en.12xlarge",
+          "per-node-read-perf": 1187.5,
+          "per-node-write-perf": 329
+        }
+      ]
+    },
+    "6d10t":{
+      "m5dn": [
+        {
+          "name": "m5dn.8xlarge",
+          "per-node-read-perf": 850,
+          "per-node-write-perf": 344
+        },
+        {
+          "name": "m5dn.12xlarge",
+          "per-node-read-perf": 1187.5,
+          "per-node-write-perf": 344
+        },
+        {
+          "name": "m5dn.16xlarge",
+          "per-node-read-perf": 1538.7,
+          "per-node-write-perf": 344
+        }
+      ],    
+      "m5d": [
+        {
+          "name": "m5d.24xlarge",
+          "per-node-read-perf": 1538.7,
+          "per-node-write-perf": 344
+        }
+      ],
+      "i3en": [
+        {
+          "name": "i3en.12xlarge",
+          "per-node-read-perf": 1187.5,
+          "per-node-write-perf": 344
+        }
+      ]
+    }    
+  }
+}

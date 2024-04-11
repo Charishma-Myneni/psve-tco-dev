@@ -1,0 +1,3294 @@
+{
+  "PriceList": [
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "1000 MiB/s",
+          "volumeType": "General Purpose",
+          "maxIopsvolume": "16000",
+          "usagetype": "LAX1-EBS:VolumeUsage.gp3",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "SSD-backed",
+          "regionCode": "us-west-2-lax-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "gp3",
+          "location": "US West (Los Angeles)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "2SJF6FW5NU9HMNDT"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "2SJF6FW5NU9HMNDT.JRTCKXETXF": {
+            "priceDimensions": {
+              "2SJF6FW5NU9HMNDT.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.096 per GB-month of General Purpose (gp3) provisioned storage - US West (Los Angeles)",
+                "appliesTo": [],
+                "rateCode": "2SJF6FW5NU9HMNDT.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0960000000"
+                }
+              }
+            },
+            "sku": "2SJF6FW5NU9HMNDT",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "1000 MiB/s",
+          "volumeType": "General Purpose",
+          "maxIopsvolume": "16000",
+          "usagetype": "UGW1-EBS:VolumeUsage.gp3",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "SSD-backed",
+          "regionCode": "us-gov-west-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "gp3",
+          "location": "AWS GovCloud (US-West)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "2V8Z2ZJ25MXN5VGH"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "2V8Z2ZJ25MXN5VGH.JRTCKXETXF": {
+            "priceDimensions": {
+              "2V8Z2ZJ25MXN5VGH.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.096 per GB-month of General Purpose (gp3) provisioned storage - AWS GovCloud (US-West)",
+                "appliesTo": [],
+                "rateCode": "2V8Z2ZJ25MXN5VGH.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0960000000"
+                }
+              }
+            },
+            "sku": "2V8Z2ZJ25MXN5VGH",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "1000 MiB/s",
+          "volumeType": "General Purpose",
+          "maxIopsvolume": "16000",
+          "usagetype": "EUC1-EBS:VolumeUsage.gp3",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "SSD-backed",
+          "regionCode": "eu-central-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "gp3",
+          "location": "EU (Frankfurt)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "43AUDFP7M3XV6YHQ"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "43AUDFP7M3XV6YHQ.JRTCKXETXF": {
+            "priceDimensions": {
+              "43AUDFP7M3XV6YHQ.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.0952 per GB-month of General Purpose (gp3) provisioned storage - EU (Frankfurt)",
+                "appliesTo": [],
+                "rateCode": "43AUDFP7M3XV6YHQ.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0952000000"
+                }
+              }
+            },
+            "sku": "43AUDFP7M3XV6YHQ",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "1000 MiB/s",
+          "volumeType": "General Purpose",
+          "maxIopsvolume": "16000",
+          "usagetype": "EUS2-EBS:VolumeUsage.gp3",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "SSD-backed",
+          "regionCode": "eu-south-2",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "gp3",
+          "location": "Europe (Spain)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "4STH5FTTSDG422F5"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "4STH5FTTSDG422F5.JRTCKXETXF": {
+            "priceDimensions": {
+              "4STH5FTTSDG422F5.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.088 per GB-month of General Purpose (gp3) provisioned storage - Europe (Spain)",
+                "appliesTo": [],
+                "rateCode": "4STH5FTTSDG422F5.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0880000000"
+                }
+              }
+            },
+            "sku": "4STH5FTTSDG422F5",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "1000 MiB/s",
+          "volumeType": "General Purpose",
+          "maxIopsvolume": "16000",
+          "usagetype": "MES1-EBS:VolumeUsage.gp3",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "SSD-backed",
+          "regionCode": "me-south-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "gp3",
+          "location": "Middle East (Bahrain)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "AKK73M9HW4TYMT2Q"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "AKK73M9HW4TYMT2Q.JRTCKXETXF": {
+            "priceDimensions": {
+              "AKK73M9HW4TYMT2Q.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.0968 per GB-month of General Purpose (gp3) provisioned storage - Middle East (Bahrain)",
+                "appliesTo": [],
+                "rateCode": "AKK73M9HW4TYMT2Q.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0968000000"
+                }
+              }
+            },
+            "sku": "AKK73M9HW4TYMT2Q",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "1000 MiB/s",
+          "volumeType": "General Purpose",
+          "maxIopsvolume": "16000",
+          "usagetype": "USW2-EBS:VolumeUsage.gp3",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "SSD-backed",
+          "regionCode": "us-west-2",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "gp3",
+          "location": "US West (Oregon)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "BB8UJWJ4XPFJB95G"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "BB8UJWJ4XPFJB95G.JRTCKXETXF": {
+            "priceDimensions": {
+              "BB8UJWJ4XPFJB95G.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.08 per GB-month of General Purpose (gp3) provisioned storage - US West (Oregon)",
+                "appliesTo": [],
+                "rateCode": "BB8UJWJ4XPFJB95G.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0800000000"
+                }
+              }
+            },
+            "sku": "BB8UJWJ4XPFJB95G",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "1000 MiB/s",
+          "volumeType": "General Purpose",
+          "maxIopsvolume": "16000",
+          "usagetype": "EUC2-EBS:VolumeUsage.gp3",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "SSD-backed",
+          "regionCode": "eu-central-2",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "gp3",
+          "location": "Europe (Zurich)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "C6C47FFCGVA52UV4"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "C6C47FFCGVA52UV4.JRTCKXETXF": {
+            "priceDimensions": {
+              "C6C47FFCGVA52UV4.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.1142 per GB-month of General Purpose (gp3) provisioned storage - EU (Zurich)",
+                "appliesTo": [],
+                "rateCode": "C6C47FFCGVA52UV4.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.1142000000"
+                }
+              }
+            },
+            "sku": "C6C47FFCGVA52UV4",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "1000 MiB/s",
+          "volumeType": "General Purpose",
+          "maxIopsvolume": "16000",
+          "usagetype": "APN1-EBS:VolumeUsage.gp3",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "SSD-backed",
+          "regionCode": "ap-northeast-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "gp3",
+          "location": "Asia Pacific (Tokyo)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "C8Y3GJZBQTH8T5JV"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "C8Y3GJZBQTH8T5JV.JRTCKXETXF": {
+            "priceDimensions": {
+              "C8Y3GJZBQTH8T5JV.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.096 per GB-month of General Purpose (gp3) provisioned storage - Asia Pacific (Tokyo)",
+                "appliesTo": [],
+                "rateCode": "C8Y3GJZBQTH8T5JV.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0960000000"
+                }
+              }
+            },
+            "sku": "C8Y3GJZBQTH8T5JV",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "1000 MiB/s",
+          "volumeType": "General Purpose",
+          "maxIopsvolume": "16000",
+          "usagetype": "APS3-EBS:VolumeUsage.gp3",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "SSD-backed",
+          "regionCode": "ap-south-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "gp3",
+          "location": "Asia Pacific (Mumbai)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "D7RMW443YWTMZ4V5"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "D7RMW443YWTMZ4V5.JRTCKXETXF": {
+            "priceDimensions": {
+              "D7RMW443YWTMZ4V5.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.0912 per GB-month of General Purpose (gp3) provisioned storage - Asia Pacific (Mumbai)",
+                "appliesTo": [],
+                "rateCode": "D7RMW443YWTMZ4V5.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0912000000"
+                }
+              }
+            },
+            "sku": "D7RMW443YWTMZ4V5",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "1000 MiB/s",
+          "volumeType": "General Purpose",
+          "maxIopsvolume": "16000",
+          "usagetype": "APS5-EBS:VolumeUsage.gp3",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "SSD-backed",
+          "regionCode": "ap-south-2",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "gp3",
+          "location": "Asia Pacific (Hyderabad)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "DN7R2S9XT3D6VVE2"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "DN7R2S9XT3D6VVE2.JRTCKXETXF": {
+            "priceDimensions": {
+              "DN7R2S9XT3D6VVE2.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.0912 per GB-month of General Purpose (gp3) provisioned storage - Asia Pacific (Hyderabad)",
+                "appliesTo": [],
+                "rateCode": "DN7R2S9XT3D6VVE2.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0912000000"
+                }
+              }
+            },
+            "sku": "DN7R2S9XT3D6VVE2",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "1000 MiB/s",
+          "volumeType": "General Purpose",
+          "maxIopsvolume": "16000",
+          "usagetype": "CAN1-EBS:VolumeUsage.gp3",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "SSD-backed",
+          "regionCode": "ca-central-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "gp3",
+          "location": "Canada (Central)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "DQ3VBGBXYAYM4JS5"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "DQ3VBGBXYAYM4JS5.JRTCKXETXF": {
+            "priceDimensions": {
+              "DQ3VBGBXYAYM4JS5.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.088 per GB-month of General Purpose (gp3) provisioned storage - Canada (Central)",
+                "appliesTo": [],
+                "rateCode": "DQ3VBGBXYAYM4JS5.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0880000000"
+                }
+              }
+            },
+            "sku": "DQ3VBGBXYAYM4JS5",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "1000 MiB/s",
+          "volumeType": "General Purpose",
+          "maxIopsvolume": "16000",
+          "usagetype": "USW1-EBS:VolumeUsage.gp3",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "SSD-backed",
+          "regionCode": "us-west-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "gp3",
+          "location": "US West (N. California)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "EVEXZNAGZAHWUGG3"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "EVEXZNAGZAHWUGG3.JRTCKXETXF": {
+            "priceDimensions": {
+              "EVEXZNAGZAHWUGG3.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.096 per GB-month of General Purpose (gp3) provisioned storage - US West (N. California)",
+                "appliesTo": [],
+                "rateCode": "EVEXZNAGZAHWUGG3.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0960000000"
+                }
+              }
+            },
+            "sku": "EVEXZNAGZAHWUGG3",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "1000 MiB/s",
+          "volumeType": "General Purpose",
+          "maxIopsvolume": "16000",
+          "usagetype": "PHX1-EBS:VolumeUsage.gp3",
+          "locationType": "AWS Local Zone",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "SSD-backed",
+          "regionCode": "us-west-2-phx-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "gp3",
+          "location": "US West (Phoenix)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "EXJMJZ9KS9NDA5V3"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "EXJMJZ9KS9NDA5V3.JRTCKXETXF": {
+            "priceDimensions": {
+              "EXJMJZ9KS9NDA5V3.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.12 per GB-month of General Purpose (gp3) provisioned storage - US West (Phoenix)",
+                "appliesTo": [],
+                "rateCode": "EXJMJZ9KS9NDA5V3.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.1200000000"
+                }
+              }
+            },
+            "sku": "EXJMJZ9KS9NDA5V3",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "1000 MiB/s",
+          "volumeType": "General Purpose",
+          "maxIopsvolume": "16000",
+          "usagetype": "ILC1-EBS:VolumeUsage.gp3",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "SSD-backed",
+          "regionCode": "il-central-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "gp3",
+          "location": "Israel (Tel Aviv)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "FCTQQFY77C7N59QU"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "FCTQQFY77C7N59QU.JRTCKXETXF": {
+            "priceDimensions": {
+              "FCTQQFY77C7N59QU.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.1056 per GB-month of General Purpose (gp3) provisioned storage - Israel (Tel Aviv)",
+                "appliesTo": [],
+                "rateCode": "FCTQQFY77C7N59QU.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.1056000000"
+                }
+              }
+            },
+            "sku": "FCTQQFY77C7N59QU",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "1000 MiB/s",
+          "volumeType": "General Purpose",
+          "maxIopsvolume": "16000",
+          "usagetype": "SAE1-EBS:VolumeUsage.gp3",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "SSD-backed",
+          "regionCode": "sa-east-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "gp3",
+          "location": "South America (Sao Paulo)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "FJRJF7DYJ65UXC5J"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "FJRJF7DYJ65UXC5J.JRTCKXETXF": {
+            "priceDimensions": {
+              "FJRJF7DYJ65UXC5J.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.152 per GB-month of General Purpose (gp3) provisioned storage - South America (Sao Paulo)",
+                "appliesTo": [],
+                "rateCode": "FJRJF7DYJ65UXC5J.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.1520000000"
+                }
+              }
+            },
+            "sku": "FJRJF7DYJ65UXC5J",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "1000 MiB/s",
+          "volumeType": "General Purpose",
+          "maxIopsvolume": "16000",
+          "usagetype": "UGE1-EBS:VolumeUsage.gp3",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "SSD-backed",
+          "regionCode": "us-gov-east-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "gp3",
+          "location": "AWS GovCloud (US-East)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "GW9MU4CBTY4MGZ9G"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "GW9MU4CBTY4MGZ9G.JRTCKXETXF": {
+            "priceDimensions": {
+              "GW9MU4CBTY4MGZ9G.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.096 per GB-month of General Purpose (gp3) provisioned storage - AWS GovCloud (US-East)",
+                "appliesTo": [],
+                "rateCode": "GW9MU4CBTY4MGZ9G.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0960000000"
+                }
+              }
+            },
+            "sku": "GW9MU4CBTY4MGZ9G",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "1000 MiB/s",
+          "volumeType": "General Purpose",
+          "maxIopsvolume": "16000",
+          "usagetype": "EUN1-EBS:VolumeUsage.gp3",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "SSD-backed",
+          "regionCode": "eu-north-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "gp3",
+          "location": "EU (Stockholm)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "H33YTQG3Y9XKNSF3"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "H33YTQG3Y9XKNSF3.JRTCKXETXF": {
+            "priceDimensions": {
+              "H33YTQG3Y9XKNSF3.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.0836 per GB-month of General Purpose (gp3) provisioned storage - EU (Stockholm)",
+                "appliesTo": [],
+                "rateCode": "H33YTQG3Y9XKNSF3.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0836000000"
+                }
+              }
+            },
+            "sku": "H33YTQG3Y9XKNSF3",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "1000 MiB/s",
+          "volumeType": "General Purpose",
+          "maxIopsvolume": "16000",
+          "usagetype": "EUS1-EBS:VolumeUsage.gp3",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "SSD-backed",
+          "regionCode": "eu-south-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "gp3",
+          "location": "EU (Milan)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "HYRBEVWZ2DZNWDMW"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "HYRBEVWZ2DZNWDMW.JRTCKXETXF": {
+            "priceDimensions": {
+              "HYRBEVWZ2DZNWDMW.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.0924 per GB-month of General Purpose (gp3) provisioned storage - EU (Milan)",
+                "appliesTo": [],
+                "rateCode": "HYRBEVWZ2DZNWDMW.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0924000000"
+                }
+              }
+            },
+            "sku": "HYRBEVWZ2DZNWDMW",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "1000 MiB/s",
+          "volumeType": "General Purpose",
+          "maxIopsvolume": "16000",
+          "usagetype": "EBS:VolumeUsage.gp3",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "SSD-backed",
+          "regionCode": "us-east-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "gp3",
+          "location": "US East (N. Virginia)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "JG3KUJMBRGHV3N8G"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "JG3KUJMBRGHV3N8G.JRTCKXETXF": {
+            "priceDimensions": {
+              "JG3KUJMBRGHV3N8G.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.08 per GB-month of General Purpose (gp3) provisioned storage - US East (N. Virginia)",
+                "appliesTo": [],
+                "rateCode": "JG3KUJMBRGHV3N8G.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0800000000"
+                }
+              }
+            },
+            "sku": "JG3KUJMBRGHV3N8G",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "1000 MiB/s",
+          "volumeType": "General Purpose",
+          "maxIopsvolume": "16000",
+          "usagetype": "APE1-EBS:VolumeUsage.gp3",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "SSD-backed",
+          "regionCode": "ap-east-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "gp3",
+          "location": "Asia Pacific (Hong Kong)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "KAA2M5BAEH3BGDKM"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "KAA2M5BAEH3BGDKM.JRTCKXETXF": {
+            "priceDimensions": {
+              "KAA2M5BAEH3BGDKM.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.1056 per GB-month of General Purpose (gp3) provisioned storage - Asia Pacific (Hong Kong)",
+                "appliesTo": [],
+                "rateCode": "KAA2M5BAEH3BGDKM.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.1056000000"
+                }
+              }
+            },
+            "sku": "KAA2M5BAEH3BGDKM",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "1000 MiB/s",
+          "volumeType": "General Purpose",
+          "maxIopsvolume": "16000",
+          "usagetype": "USE2-EBS:VolumeUsage.gp3",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "SSD-backed",
+          "regionCode": "us-east-2",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "gp3",
+          "location": "US East (Ohio)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "M6UGCCQ3CDJQAA37"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "M6UGCCQ3CDJQAA37.JRTCKXETXF": {
+            "priceDimensions": {
+              "M6UGCCQ3CDJQAA37.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.08 per GB-month of General Purpose (gp3) provisioned storage - US East (Ohio)",
+                "appliesTo": [],
+                "rateCode": "M6UGCCQ3CDJQAA37.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0800000000"
+                }
+              }
+            },
+            "sku": "M6UGCCQ3CDJQAA37",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "1000 MiB/s",
+          "volumeType": "General Purpose",
+          "maxIopsvolume": "16000",
+          "usagetype": "EUW2-EBS:VolumeUsage.gp3",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "SSD-backed",
+          "regionCode": "eu-west-2",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "gp3",
+          "location": "EU (London)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "MJ9PYUE89BCM5XDZ"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "MJ9PYUE89BCM5XDZ.JRTCKXETXF": {
+            "priceDimensions": {
+              "MJ9PYUE89BCM5XDZ.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.0928 per GB-month of General Purpose (gp3) provisioned storage - EU (London)",
+                "appliesTo": [],
+                "rateCode": "MJ9PYUE89BCM5XDZ.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0928000000"
+                }
+              }
+            },
+            "sku": "MJ9PYUE89BCM5XDZ",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "1000 MiB/s",
+          "volumeType": "General Purpose",
+          "maxIopsvolume": "16000",
+          "usagetype": "APN2-EBS:VolumeUsage.gp3",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "SSD-backed",
+          "regionCode": "ap-northeast-2",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "gp3",
+          "location": "Asia Pacific (Seoul)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "MTK7D9SGKGYR3JD6"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "MTK7D9SGKGYR3JD6.JRTCKXETXF": {
+            "priceDimensions": {
+              "MTK7D9SGKGYR3JD6.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.0912 per GB-month of General Purpose (gp3) provisioned storage - Asia Pacific (Seoul)",
+                "appliesTo": [],
+                "rateCode": "MTK7D9SGKGYR3JD6.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0912000000"
+                }
+              }
+            },
+            "sku": "MTK7D9SGKGYR3JD6",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "1000 MiB/s",
+          "volumeType": "General Purpose",
+          "maxIopsvolume": "16000",
+          "usagetype": "DFW1-EBS:VolumeUsage.gp3",
+          "locationType": "AWS Local Zone",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "SSD-backed",
+          "regionCode": "us-east-1-dfw-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "gp3",
+          "location": "US East (Dallas)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "N8B7PMDVFVEGF8SM"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "N8B7PMDVFVEGF8SM.JRTCKXETXF": {
+            "priceDimensions": {
+              "N8B7PMDVFVEGF8SM.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.12 per GB-month of General Purpose (gp3) provisioned storage - US East (Dallas)",
+                "appliesTo": [],
+                "rateCode": "N8B7PMDVFVEGF8SM.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.1200000000"
+                }
+              }
+            },
+            "sku": "N8B7PMDVFVEGF8SM",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "1000 MiB/s",
+          "volumeType": "General Purpose",
+          "maxIopsvolume": "16000",
+          "usagetype": "MEC1-EBS:VolumeUsage.gp3",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "SSD-backed",
+          "regionCode": "me-central-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "gp3",
+          "location": "Middle East (UAE)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "PKB3QVRWYAQ7BHMV"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "PKB3QVRWYAQ7BHMV.JRTCKXETXF": {
+            "priceDimensions": {
+              "PKB3QVRWYAQ7BHMV.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.0968 per GB-month of General Purpose (gp3) provisioned storage - Middle East (UAE)",
+                "appliesTo": [],
+                "rateCode": "PKB3QVRWYAQ7BHMV.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0968000000"
+                }
+              }
+            },
+            "sku": "PKB3QVRWYAQ7BHMV",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "1000 MiB/s",
+          "volumeType": "General Purpose",
+          "maxIopsvolume": "16000",
+          "usagetype": "APS2-EBS:VolumeUsage.gp3",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "SSD-backed",
+          "regionCode": "ap-southeast-2",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "gp3",
+          "location": "Asia Pacific (Sydney)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "QR74UAP3E9WUYT9B"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "QR74UAP3E9WUYT9B.JRTCKXETXF": {
+            "priceDimensions": {
+              "QR74UAP3E9WUYT9B.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.096 per GB-month of General Purpose (gp3) provisioned storage - Asia Pacific (Sydney)",
+                "appliesTo": [],
+                "rateCode": "QR74UAP3E9WUYT9B.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0960000000"
+                }
+              }
+            },
+            "sku": "QR74UAP3E9WUYT9B",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "1000 MiB/s",
+          "volumeType": "General Purpose",
+          "maxIopsvolume": "16000",
+          "usagetype": "CNW1-EBS:VolumeUsage.gp3",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "SSD-backed",
+          "regionCode": "cn-northwest-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "gp3",
+          "location": "China (Ningxia)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "R83VXG9NAPDASEGN"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "R83VXG9NAPDASEGN.5Y9WH78GDR": {
+            "priceDimensions": {
+              "R83VXG9NAPDASEGN.5Y9WH78GDR.Q7UJUT2CE6": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "0.5312 CNY per GB-month of General Purpose (gp3) provisioned storage - China (Ningxia)",
+                "appliesTo": [],
+                "rateCode": "R83VXG9NAPDASEGN.5Y9WH78GDR.Q7UJUT2CE6",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "CNY": "0.5312000000"
+                }
+              }
+            },
+            "sku": "R83VXG9NAPDASEGN",
+            "effectiveDate": "2023-11-01T00:00:00Z",
+            "offerTermCode": "5Y9WH78GDR",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231207201031",
+      "publicationDate": "2023-12-07T20:10:31Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "1000 MiB/s",
+          "volumeType": "General Purpose",
+          "maxIopsvolume": "16000",
+          "usagetype": "APN3-EBS:VolumeUsage.gp3",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "SSD-backed",
+          "regionCode": "ap-northeast-3",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "gp3",
+          "location": "Asia Pacific (Osaka)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "SPAH8B7AACS4Y86V"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "SPAH8B7AACS4Y86V.JRTCKXETXF": {
+            "priceDimensions": {
+              "SPAH8B7AACS4Y86V.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.096 per GB-month of General Purpose (gp3) provisioned storage - Asia Pacific (Osaka)",
+                "appliesTo": [],
+                "rateCode": "SPAH8B7AACS4Y86V.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0960000000"
+                }
+              }
+            },
+            "sku": "SPAH8B7AACS4Y86V",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "1000 MiB/s",
+          "volumeType": "General Purpose",
+          "maxIopsvolume": "16000",
+          "usagetype": "APS4-EBS:VolumeUsage.gp3",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "SSD-backed",
+          "regionCode": "ap-southeast-3",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "gp3",
+          "location": "Asia Pacific (Jakarta)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "SZZSUHFFV7Z5J74G"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "SZZSUHFFV7Z5J74G.JRTCKXETXF": {
+            "priceDimensions": {
+              "SZZSUHFFV7Z5J74G.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.096 per GB-month of General Purpose (gp3) provisioned storage - Asia Pacific (Jakarta)",
+                "appliesTo": [],
+                "rateCode": "SZZSUHFFV7Z5J74G.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0960000000"
+                }
+              }
+            },
+            "sku": "SZZSUHFFV7Z5J74G",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "1000 MiB/s",
+          "volumeType": "General Purpose",
+          "maxIopsvolume": "16000",
+          "usagetype": "APS6-EBS:VolumeUsage.gp3",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "SSD-backed",
+          "regionCode": "ap-southeast-4",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "gp3",
+          "location": "Asia Pacific (Melbourne)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "TURASS28MA33WGPM"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "TURASS28MA33WGPM.JRTCKXETXF": {
+            "priceDimensions": {
+              "TURASS28MA33WGPM.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.096 per GB-month of General Purpose (gp3) provisioned storage - Asia Pacific (Melbourne)",
+                "appliesTo": [],
+                "rateCode": "TURASS28MA33WGPM.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0960000000"
+                }
+              }
+            },
+            "sku": "TURASS28MA33WGPM",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "1000 MiB/s",
+          "volumeType": "General Purpose",
+          "maxIopsvolume": "16000",
+          "usagetype": "EU-EBS:VolumeUsage.gp3",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "SSD-backed",
+          "regionCode": "eu-west-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "gp3",
+          "location": "EU (Ireland)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "TXACT7E3PV6ZX2NM"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "TXACT7E3PV6ZX2NM.JRTCKXETXF": {
+            "priceDimensions": {
+              "TXACT7E3PV6ZX2NM.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.088 per GB-month of General Purpose (gp3) provisioned storage - EU (Ireland)",
+                "appliesTo": [],
+                "rateCode": "TXACT7E3PV6ZX2NM.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0880000000"
+                }
+              }
+            },
+            "sku": "TXACT7E3PV6ZX2NM",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "1000 MiB/s",
+          "volumeType": "General Purpose",
+          "maxIopsvolume": "16000",
+          "usagetype": "APS1-EBS:VolumeUsage.gp3",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "SSD-backed",
+          "regionCode": "ap-southeast-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "gp3",
+          "location": "Asia Pacific (Singapore)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "X8SY8CJFS8WV7VQN"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "X8SY8CJFS8WV7VQN.JRTCKXETXF": {
+            "priceDimensions": {
+              "X8SY8CJFS8WV7VQN.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.096 per GB-month of General Purpose (gp3) provisioned storage - Asia Pacific (Singapore)",
+                "appliesTo": [],
+                "rateCode": "X8SY8CJFS8WV7VQN.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0960000000"
+                }
+              }
+            },
+            "sku": "X8SY8CJFS8WV7VQN",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "1000 MiB/s",
+          "volumeType": "General Purpose",
+          "maxIopsvolume": "16000",
+          "usagetype": "EUW3-EBS:VolumeUsage.gp3",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "SSD-backed",
+          "regionCode": "eu-west-3",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "gp3",
+          "location": "EU (Paris)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "XCKADFE99D2BK5V6"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "XCKADFE99D2BK5V6.JRTCKXETXF": {
+            "priceDimensions": {
+              "XCKADFE99D2BK5V6.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.0928 per GB-month of General Purpose (gp3) provisioned storage - EU (Paris)",
+                "appliesTo": [],
+                "rateCode": "XCKADFE99D2BK5V6.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0928000000"
+                }
+              }
+            },
+            "sku": "XCKADFE99D2BK5V6",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "1000 MiB/s",
+          "volumeType": "General Purpose",
+          "maxIopsvolume": "16000",
+          "usagetype": "AFS1-EBS:VolumeUsage.gp3",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "SSD-backed",
+          "regionCode": "af-south-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "gp3",
+          "location": "Africa (Cape Town)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "XWCTMRRUJM7TGYST"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "XWCTMRRUJM7TGYST.JRTCKXETXF": {
+            "priceDimensions": {
+              "XWCTMRRUJM7TGYST.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.1047 per GB-month of General Purpose (gp3) provisioned storage - Africa (Cape Town)",
+                "appliesTo": [],
+                "rateCode": "XWCTMRRUJM7TGYST.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.1047000000"
+                }
+              }
+            },
+            "sku": "XWCTMRRUJM7TGYST",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "1000 MiB/s",
+          "volumeType": "General Purpose",
+          "maxIopsvolume": "16000",
+          "usagetype": "CNN1-EBS:VolumeUsage.gp3",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "SSD-backed",
+          "regionCode": "cn-north-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "gp3",
+          "location": "China (Beijing)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "ZD9QEEHX9M7X9HWU"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "ZD9QEEHX9M7X9HWU.99YE2YK9UR": {
+            "priceDimensions": {
+              "ZD9QEEHX9M7X9HWU.99YE2YK9UR.Q7UJUT2CE6": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "0.5968 CNY per GB-month of General Purpose (gp3) provisioned storage- China (Beijing)",
+                "appliesTo": [],
+                "rateCode": "ZD9QEEHX9M7X9HWU.99YE2YK9UR.Q7UJUT2CE6",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "CNY": "0.5968000000"
+                }
+              }
+            },
+            "sku": "ZD9QEEHX9M7X9HWU",
+            "effectiveDate": "2023-11-01T00:00:00Z",
+            "offerTermCode": "99YE2YK9UR",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231207201031",
+      "publicationDate": "2023-12-07T20:10:31Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "500 MiB/s",
+          "volumeType": "Throughput Optimized HDD",
+          "maxIopsvolume": "500 - based on 1 MiB I/O size",
+          "usagetype": "EUW2-EBS:VolumeUsage.st1",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "HDD-backed",
+          "regionCode": "eu-west-2",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "st1",
+          "location": "EU (London)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "2EJBKCSCEBYU67TC"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "2EJBKCSCEBYU67TC.JRTCKXETXF": {
+            "priceDimensions": {
+              "2EJBKCSCEBYU67TC.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.053 per GB-month of Throughput Optimized HDD (st1) provisioned storage - EU (London)",
+                "appliesTo": [],
+                "rateCode": "2EJBKCSCEBYU67TC.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0530000000"
+                }
+              }
+            },
+            "sku": "2EJBKCSCEBYU67TC",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "500 MiB/s",
+          "volumeType": "Throughput Optimized HDD",
+          "maxIopsvolume": "500 - based on 1 MiB I/O size",
+          "usagetype": "EUS1-EBS:VolumeUsage.st1",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "HDD-backed",
+          "regionCode": "eu-south-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "st1",
+          "location": "EU (Milan)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "4DCMSWP4YT8E8MZ9"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "4DCMSWP4YT8E8MZ9.JRTCKXETXF": {
+            "priceDimensions": {
+              "4DCMSWP4YT8E8MZ9.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "USD0.0525 per GB-Mo for EBS:VolumeUsage.st1 in EU (Milan)",
+                "appliesTo": [],
+                "rateCode": "4DCMSWP4YT8E8MZ9.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0525000000"
+                }
+              }
+            },
+            "sku": "4DCMSWP4YT8E8MZ9",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "500 MiB/s",
+          "volumeType": "Throughput Optimized HDD",
+          "maxIopsvolume": "500 - based on 1 MiB I/O size",
+          "usagetype": "EUN1-EBS:VolumeUsage.st1",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "HDD-backed",
+          "regionCode": "eu-north-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "st1",
+          "location": "EU (Stockholm)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "53KF95MZ2X3ZGK68"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "53KF95MZ2X3ZGK68.JRTCKXETXF": {
+            "priceDimensions": {
+              "53KF95MZ2X3ZGK68.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.0475 per GB-month of Throughput Optimized HDD (st1) provisioned storage  - EU (Stockholm)",
+                "appliesTo": [],
+                "rateCode": "53KF95MZ2X3ZGK68.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0475000000"
+                }
+              }
+            },
+            "sku": "53KF95MZ2X3ZGK68",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "500 MiB/s",
+          "volumeType": "Throughput Optimized HDD",
+          "maxIopsvolume": "500 - based on 1 MiB I/O size",
+          "usagetype": "DFW1-EBS:VolumeUsage.st1",
+          "locationType": "AWS Local Zone",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "HDD-backed",
+          "regionCode": "us-east-1-dfw-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "st1",
+          "location": "US East (Dallas)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "682BZ2XJUMAKBVUP"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "682BZ2XJUMAKBVUP.JRTCKXETXF": {
+            "priceDimensions": {
+              "682BZ2XJUMAKBVUP.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.0675 per GB-month of Throughput Optimized HDD (st1) provisioned storage  - US East (Dallas)",
+                "appliesTo": [],
+                "rateCode": "682BZ2XJUMAKBVUP.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0675000000"
+                }
+              }
+            },
+            "sku": "682BZ2XJUMAKBVUP",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "500 MiB/s",
+          "volumeType": "Throughput Optimized HDD",
+          "maxIopsvolume": "500 - based on 1 MiB I/O size",
+          "usagetype": "USW1-EBS:VolumeUsage.st1",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "HDD-backed",
+          "regionCode": "us-west-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "st1",
+          "location": "US West (N. California)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "B424TMTEM4PYGV3K"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "B424TMTEM4PYGV3K.JRTCKXETXF": {
+            "priceDimensions": {
+              "B424TMTEM4PYGV3K.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.054 per GB-month of Throughput Optimized HDD (st1) provisioned storage - US West (Northern California)",
+                "appliesTo": [],
+                "rateCode": "B424TMTEM4PYGV3K.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0540000000"
+                }
+              }
+            },
+            "sku": "B424TMTEM4PYGV3K",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "500 MiB/s",
+          "volumeType": "Throughput Optimized HDD",
+          "maxIopsvolume": "500 - based on 1 MiB I/O size",
+          "usagetype": "EUS2-EBS:VolumeUsage.st1",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "HDD-backed",
+          "regionCode": "eu-south-2",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "st1",
+          "location": "Europe (Spain)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "B98ZMWZ3YP2QY2FT"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "B98ZMWZ3YP2QY2FT.JRTCKXETXF": {
+            "priceDimensions": {
+              "B98ZMWZ3YP2QY2FT.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.050 per GB-month of Throughput Optimized HDD (st1) provisioned storage  - Europe (Spain)",
+                "appliesTo": [],
+                "rateCode": "B98ZMWZ3YP2QY2FT.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0500000000"
+                }
+              }
+            },
+            "sku": "B98ZMWZ3YP2QY2FT",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "500 MiB/s",
+          "volumeType": "Throughput Optimized HDD",
+          "maxIopsvolume": "500 - based on 1 MiB I/O size",
+          "usagetype": "SAE1-EBS:VolumeUsage.st1",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "HDD-backed",
+          "regionCode": "sa-east-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "st1",
+          "location": "South America (Sao Paulo)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "BQYR79DTKAHXGW22"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "BQYR79DTKAHXGW22.JRTCKXETXF": {
+            "priceDimensions": {
+              "BQYR79DTKAHXGW22.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.086 per GB-month of Throughput Optimized HDD (st1) provisioned storage - South America (Sao Paulo)",
+                "appliesTo": [],
+                "rateCode": "BQYR79DTKAHXGW22.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0860000000"
+                }
+              }
+            },
+            "sku": "BQYR79DTKAHXGW22",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "500 MiB/s",
+          "volumeType": "Throughput Optimized HDD",
+          "maxIopsvolume": "500 - based on 1 MiB I/O size",
+          "usagetype": "EU-EBS:VolumeUsage.st1",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "HDD-backed",
+          "regionCode": "eu-west-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "st1",
+          "location": "EU (Ireland)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "CRDDQ58VQ7DU7373"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "CRDDQ58VQ7DU7373.JRTCKXETXF": {
+            "priceDimensions": {
+              "CRDDQ58VQ7DU7373.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.050 per GB-month of Throughput Optimized HDD (st1) provisioned storage  - EU (Ireland)",
+                "appliesTo": [],
+                "rateCode": "CRDDQ58VQ7DU7373.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0500000000"
+                }
+              }
+            },
+            "sku": "CRDDQ58VQ7DU7373",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "500 MiB/s",
+          "volumeType": "Throughput Optimized HDD",
+          "maxIopsvolume": "500 - based on 1 MiB I/O size",
+          "usagetype": "EUW3-EBS:VolumeUsage.st1",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "HDD-backed",
+          "regionCode": "eu-west-3",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "st1",
+          "location": "EU (Paris)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "EHKX3M49Y895SAGR"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "EHKX3M49Y895SAGR.JRTCKXETXF": {
+            "priceDimensions": {
+              "EHKX3M49Y895SAGR.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.053 per GB-month of Throughput Optimized HDD (st1) provisioned storage",
+                "appliesTo": [],
+                "rateCode": "EHKX3M49Y895SAGR.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0530000000"
+                }
+              }
+            },
+            "sku": "EHKX3M49Y895SAGR",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "500 MiB/s",
+          "volumeType": "Throughput Optimized HDD",
+          "maxIopsvolume": "500 - based on 1 MiB I/O size",
+          "usagetype": "APS2-EBS:VolumeUsage.st1",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "HDD-backed",
+          "regionCode": "ap-southeast-2",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "st1",
+          "location": "Asia Pacific (Sydney)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "FHQF8UD4V5RWYMZQ"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "FHQF8UD4V5RWYMZQ.JRTCKXETXF": {
+            "priceDimensions": {
+              "FHQF8UD4V5RWYMZQ.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.054 per GB-month of Throughput Optimized HDD (st1) provisioned storage  - Asia Pacific (Sydney)",
+                "appliesTo": [],
+                "rateCode": "FHQF8UD4V5RWYMZQ.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0540000000"
+                }
+              }
+            },
+            "sku": "FHQF8UD4V5RWYMZQ",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "500 MiB/s",
+          "volumeType": "Throughput Optimized HDD",
+          "maxIopsvolume": "500 - based on 1 MiB I/O size",
+          "usagetype": "UGE1-EBS:VolumeUsage.st1",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "HDD-backed",
+          "regionCode": "us-gov-east-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "st1",
+          "location": "AWS GovCloud (US-East)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "G7A2J8UYWG9CRU8M"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "G7A2J8UYWG9CRU8M.JRTCKXETXF": {
+            "priceDimensions": {
+              "G7A2J8UYWG9CRU8M.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.054 per GB-month of Throughput Optimized HDD (st1) provisioned storage - AWS GovCloud (US)",
+                "appliesTo": [],
+                "rateCode": "G7A2J8UYWG9CRU8M.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0540000000"
+                }
+              }
+            },
+            "sku": "G7A2J8UYWG9CRU8M",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "500 MiB/s",
+          "volumeType": "Throughput Optimized HDD",
+          "maxIopsvolume": "500 - based on 1 MiB I/O size",
+          "usagetype": "APS5-EBS:VolumeUsage.st1",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "HDD-backed",
+          "regionCode": "ap-south-2",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "st1",
+          "location": "Asia Pacific (Hyderabad)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "GBNZCRD2MVMTFGUS"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "GBNZCRD2MVMTFGUS.JRTCKXETXF": {
+            "priceDimensions": {
+              "GBNZCRD2MVMTFGUS.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.051 per GB-month of Throughput Optimized HDD (st1) provisioned storage - Asia Pacific (Hyderabad)",
+                "appliesTo": [],
+                "rateCode": "GBNZCRD2MVMTFGUS.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0510000000"
+                }
+              }
+            },
+            "sku": "GBNZCRD2MVMTFGUS",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "500 MiB/s",
+          "volumeType": "Throughput Optimized HDD",
+          "maxIopsvolume": "500 - based on 1 MiB I/O size",
+          "usagetype": "CNN1-EBS:VolumeUsage.st1",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "HDD-backed",
+          "regionCode": "cn-north-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "st1",
+          "location": "China (Beijing)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "GPAQPKKY75YEF52B"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "GPAQPKKY75YEF52B.99YE2YK9UR": {
+            "priceDimensions": {
+              "GPAQPKKY75YEF52B.99YE2YK9UR.Q7UJUT2CE6": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "0.336 CNY per GB-month of Throughput Optimized HDD (st1) provisioned storage",
+                "appliesTo": [],
+                "rateCode": "GPAQPKKY75YEF52B.99YE2YK9UR.Q7UJUT2CE6",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "CNY": "0.3360000000"
+                }
+              }
+            },
+            "sku": "GPAQPKKY75YEF52B",
+            "effectiveDate": "2023-11-01T00:00:00Z",
+            "offerTermCode": "99YE2YK9UR",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231207201031",
+      "publicationDate": "2023-12-07T20:10:31Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "500 MiB/s",
+          "volumeType": "Throughput Optimized HDD",
+          "maxIopsvolume": "500 - based on 1 MiB I/O size",
+          "usagetype": "APN2-EBS:VolumeUsage.st1",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "HDD-backed",
+          "regionCode": "ap-northeast-2",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "st1",
+          "location": "Asia Pacific (Seoul)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "JYTUVSA5B27W4BW2"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "JYTUVSA5B27W4BW2.JRTCKXETXF": {
+            "priceDimensions": {
+              "JYTUVSA5B27W4BW2.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.051 per GB-month of Throughput Optimized HDD (st1) provisioned storage - Asia Pacific (Seoul)",
+                "appliesTo": [],
+                "rateCode": "JYTUVSA5B27W4BW2.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0510000000"
+                }
+              }
+            },
+            "sku": "JYTUVSA5B27W4BW2",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "500 MiB/s",
+          "volumeType": "Throughput Optimized HDD",
+          "maxIopsvolume": "500 - based on 1 MiB I/O size",
+          "usagetype": "CAN1-EBS:VolumeUsage.st1",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "HDD-backed",
+          "regionCode": "ca-central-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "st1",
+          "location": "Canada (Central)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "K7JR7Z67TRDKP4FP"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "K7JR7Z67TRDKP4FP.JRTCKXETXF": {
+            "priceDimensions": {
+              "K7JR7Z67TRDKP4FP.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.05 per GB-month of Throughput Optimized HDD (st1) provisioned storage - Canada (Central)",
+                "appliesTo": [],
+                "rateCode": "K7JR7Z67TRDKP4FP.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0500000000"
+                }
+              }
+            },
+            "sku": "K7JR7Z67TRDKP4FP",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "500 MiB/s",
+          "volumeType": "Throughput Optimized HDD",
+          "maxIopsvolume": "500 - based on 1 MiB I/O size",
+          "usagetype": "UGW1-EBS:VolumeUsage.st1",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "HDD-backed",
+          "regionCode": "us-gov-west-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "st1",
+          "location": "AWS GovCloud (US-West)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "KKBR7WG3XPFH2XDM"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "KKBR7WG3XPFH2XDM.JRTCKXETXF": {
+            "priceDimensions": {
+              "KKBR7WG3XPFH2XDM.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.054 per GB-month of Throughput Optimized HDD (st1) provisioned storage - AWS GovCloud (US)",
+                "appliesTo": [],
+                "rateCode": "KKBR7WG3XPFH2XDM.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0540000000"
+                }
+              }
+            },
+            "sku": "KKBR7WG3XPFH2XDM",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "500 MiB/s",
+          "volumeType": "Throughput Optimized HDD",
+          "maxIopsvolume": "500 - based on 1 MiB I/O size",
+          "usagetype": "EUC2-EBS:VolumeUsage.st1",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "HDD-backed",
+          "regionCode": "eu-central-2",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "st1",
+          "location": "Europe (Zurich)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "KKKQECEP97WGQHCJ"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "KKKQECEP97WGQHCJ.JRTCKXETXF": {
+            "priceDimensions": {
+              "KKKQECEP97WGQHCJ.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.065 per GB-month of Throughput Optimized HDD (st1) provisioned storage - EU (Zurich)",
+                "appliesTo": [],
+                "rateCode": "KKKQECEP97WGQHCJ.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0650000000"
+                }
+              }
+            },
+            "sku": "KKKQECEP97WGQHCJ",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "500 MiB/s",
+          "volumeType": "Throughput Optimized HDD",
+          "maxIopsvolume": "500 - based on 1 MiB I/O size",
+          "usagetype": "AFS1-EBS:VolumeUsage.st1",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "HDD-backed",
+          "regionCode": "af-south-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "st1",
+          "location": "Africa (Cape Town)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "KQ4ZRFNKY9Q467T3"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "KQ4ZRFNKY9Q467T3.JRTCKXETXF": {
+            "priceDimensions": {
+              "KQ4ZRFNKY9Q467T3.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "USD0.0595 per GB-Mo for EBS:VolumeUsage.st1 in Africa (Cape Town)",
+                "appliesTo": [],
+                "rateCode": "KQ4ZRFNKY9Q467T3.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0595000000"
+                }
+              }
+            },
+            "sku": "KQ4ZRFNKY9Q467T3",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "500 MiB/s",
+          "volumeType": "Throughput Optimized HDD",
+          "maxIopsvolume": "500 - based on 1 MiB I/O size",
+          "usagetype": "USE2-EBS:VolumeUsage.st1",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "HDD-backed",
+          "regionCode": "us-east-2",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "st1",
+          "location": "US East (Ohio)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "M3YAF4UJ85RCDDMH"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "M3YAF4UJ85RCDDMH.JRTCKXETXF": {
+            "priceDimensions": {
+              "M3YAF4UJ85RCDDMH.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.045 per GB-month of Throughput Optimized HDD (st1) provisioned storage - US East (Ohio)",
+                "appliesTo": [],
+                "rateCode": "M3YAF4UJ85RCDDMH.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0450000000"
+                }
+              }
+            },
+            "sku": "M3YAF4UJ85RCDDMH",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "500 MiB/s",
+          "volumeType": "Throughput Optimized HDD",
+          "maxIopsvolume": "500 - based on 1 MiB I/O size",
+          "usagetype": "EUC1-EBS:VolumeUsage.st1",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "HDD-backed",
+          "regionCode": "eu-central-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "st1",
+          "location": "EU (Frankfurt)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "MSGXHGPU2XUF77P6"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "MSGXHGPU2XUF77P6.JRTCKXETXF": {
+            "priceDimensions": {
+              "MSGXHGPU2XUF77P6.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.054 per GB-month of Throughput Optimized HDD (st1) provisioned storage - EU (F rankfurt)",
+                "appliesTo": [],
+                "rateCode": "MSGXHGPU2XUF77P6.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0540000000"
+                }
+              }
+            },
+            "sku": "MSGXHGPU2XUF77P6",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "500 MiB/s",
+          "volumeType": "Throughput Optimized HDD",
+          "maxIopsvolume": "500 - based on 1 MiB I/O size",
+          "usagetype": "MES1-EBS:VolumeUsage.st1",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "HDD-backed",
+          "regionCode": "me-south-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "st1",
+          "location": "Middle East (Bahrain)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "NNBJDF592C2B87V9"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "NNBJDF592C2B87V9.JRTCKXETXF": {
+            "priceDimensions": {
+              "NNBJDF592C2B87V9.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "USD0.055 per GB-Mo for EBS:VolumeUsage.st1 in Middle East (Bahrain)",
+                "appliesTo": [],
+                "rateCode": "NNBJDF592C2B87V9.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0550000000"
+                }
+              }
+            },
+            "sku": "NNBJDF592C2B87V9",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "500 MiB/s",
+          "volumeType": "Throughput Optimized HDD",
+          "maxIopsvolume": "500 - based on 1 MiB I/O size",
+          "usagetype": "APN3-EBS:VolumeUsage.st1",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "HDD-backed",
+          "regionCode": "ap-northeast-3",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "st1",
+          "location": "Asia Pacific (Osaka)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "R4SGV4Z92MB4UESG"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "R4SGV4Z92MB4UESG.JRTCKXETXF": {
+            "priceDimensions": {
+              "R4SGV4Z92MB4UESG.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.054 per GB-month of Throughput Optimized HDD (st1) provisioned storage",
+                "appliesTo": [],
+                "rateCode": "R4SGV4Z92MB4UESG.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0540000000"
+                }
+              }
+            },
+            "sku": "R4SGV4Z92MB4UESG",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "500 MiB/s",
+          "volumeType": "Throughput Optimized HDD",
+          "maxIopsvolume": "500 - based on 1 MiB I/O size",
+          "usagetype": "APE1-EBS:VolumeUsage.st1",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "HDD-backed",
+          "regionCode": "ap-east-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "st1",
+          "location": "Asia Pacific (Hong Kong)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "R5GW2ZVWPXE2P3CQ"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "R5GW2ZVWPXE2P3CQ.JRTCKXETXF": {
+            "priceDimensions": {
+              "R5GW2ZVWPXE2P3CQ.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "USD0.0594 per GB-Mo for EBS:VolumeUsage.st1 in Asia Pacific (Hong Kong)",
+                "appliesTo": [],
+                "rateCode": "R5GW2ZVWPXE2P3CQ.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0594000000"
+                }
+              }
+            },
+            "sku": "R5GW2ZVWPXE2P3CQ",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "500 MiB/s",
+          "volumeType": "Throughput Optimized HDD",
+          "maxIopsvolume": "500 - based on 1 MiB I/O size",
+          "usagetype": "ILC1-EBS:VolumeUsage.st1",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "HDD-backed",
+          "regionCode": "il-central-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "st1",
+          "location": "Israel (Tel Aviv)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "RDBPKNDT5URNK8ZU"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "RDBPKNDT5URNK8ZU.JRTCKXETXF": {
+            "priceDimensions": {
+              "RDBPKNDT5URNK8ZU.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.06 per GB-month of Throughput Optimized HDD (st1) provisioned storage  - Israel (Tel Aviv)",
+                "appliesTo": [],
+                "rateCode": "RDBPKNDT5URNK8ZU.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0600000000"
+                }
+              }
+            },
+            "sku": "RDBPKNDT5URNK8ZU",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "500 MiB/s",
+          "volumeType": "Throughput Optimized HDD",
+          "maxIopsvolume": "500 - based on 1 MiB I/O size",
+          "usagetype": "APS4-EBS:VolumeUsage.st1",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "HDD-backed",
+          "regionCode": "ap-southeast-3",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "st1",
+          "location": "Asia Pacific (Jakarta)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "S99QZ2UFKVKX4NYP"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "S99QZ2UFKVKX4NYP.JRTCKXETXF": {
+            "priceDimensions": {
+              "S99QZ2UFKVKX4NYP.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.054 per GB-month of Throughput Optimized HDD (st1) provisioned storage - Asia Pacific (Jakarta)",
+                "appliesTo": [],
+                "rateCode": "S99QZ2UFKVKX4NYP.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0540000000"
+                }
+              }
+            },
+            "sku": "S99QZ2UFKVKX4NYP",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "500 MiB/s",
+          "volumeType": "Throughput Optimized HDD",
+          "maxIopsvolume": "500 - based on 1 MiB I/O size",
+          "usagetype": "MEC1-EBS:VolumeUsage.st1",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "HDD-backed",
+          "regionCode": "me-central-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "st1",
+          "location": "Middle East (UAE)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "SFS9K7U9U525RZVF"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "SFS9K7U9U525RZVF.JRTCKXETXF": {
+            "priceDimensions": {
+              "SFS9K7U9U525RZVF.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "USD0.055 per GB-Mo for EBS:VolumeUsage.st1 in Middle East (UAE)",
+                "appliesTo": [],
+                "rateCode": "SFS9K7U9U525RZVF.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0550000000"
+                }
+              }
+            },
+            "sku": "SFS9K7U9U525RZVF",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "500 MiB/s",
+          "volumeType": "Throughput Optimized HDD",
+          "maxIopsvolume": "500 - based on 1 MiB I/O size",
+          "usagetype": "APS6-EBS:VolumeUsage.st1",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "HDD-backed",
+          "regionCode": "ap-southeast-4",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "st1",
+          "location": "Asia Pacific (Melbourne)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "VBA299HG9CHQNYSU"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "VBA299HG9CHQNYSU.JRTCKXETXF": {
+            "priceDimensions": {
+              "VBA299HG9CHQNYSU.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.054 per GB-month of Throughput Optimized HDD (st1) provisioned storage  - Asia Pacific (Melbourne)",
+                "appliesTo": [],
+                "rateCode": "VBA299HG9CHQNYSU.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0540000000"
+                }
+              }
+            },
+            "sku": "VBA299HG9CHQNYSU",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "500 MiB/s",
+          "volumeType": "Throughput Optimized HDD",
+          "maxIopsvolume": "500 - based on 1 MiB I/O size",
+          "usagetype": "APS1-EBS:VolumeUsage.st1",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "HDD-backed",
+          "regionCode": "ap-southeast-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "st1",
+          "location": "Asia Pacific (Singapore)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "VWJ76A84ZUYMWZ43"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "VWJ76A84ZUYMWZ43.JRTCKXETXF": {
+            "priceDimensions": {
+              "VWJ76A84ZUYMWZ43.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.054 per GB-month of Throughput Optimized HDD (st1) provisioned storage - Asia Pacific (Singapore)",
+                "appliesTo": [],
+                "rateCode": "VWJ76A84ZUYMWZ43.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0540000000"
+                }
+              }
+            },
+            "sku": "VWJ76A84ZUYMWZ43",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "500 MiB/s",
+          "volumeType": "Throughput Optimized HDD",
+          "maxIopsvolume": "500 - based on 1 MiB I/O size",
+          "usagetype": "APN1-EBS:VolumeUsage.st1",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "HDD-backed",
+          "regionCode": "ap-northeast-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "st1",
+          "location": "Asia Pacific (Tokyo)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "XFKFYKTCXSEG2DMU"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "XFKFYKTCXSEG2DMU.JRTCKXETXF": {
+            "priceDimensions": {
+              "XFKFYKTCXSEG2DMU.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.054 per GB-month of Throughput Optimized HDD (st1) provisioned storage - Asia Pacific (Tokyo)",
+                "appliesTo": [],
+                "rateCode": "XFKFYKTCXSEG2DMU.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0540000000"
+                }
+              }
+            },
+            "sku": "XFKFYKTCXSEG2DMU",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "500 MiB/s",
+          "volumeType": "Throughput Optimized HDD",
+          "maxIopsvolume": "500 - based on 1 MiB I/O size",
+          "usagetype": "USW2-EBS:VolumeUsage.st1",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "HDD-backed",
+          "regionCode": "us-west-2",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "st1",
+          "location": "US West (Oregon)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "Y87WPNXVYWJCJ5ZM"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "Y87WPNXVYWJCJ5ZM.JRTCKXETXF": {
+            "priceDimensions": {
+              "Y87WPNXVYWJCJ5ZM.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.045 per GB-month of Throughput Optimized HDD (st1) provisioned storage - US West (Oregon)",
+                "appliesTo": [],
+                "rateCode": "Y87WPNXVYWJCJ5ZM.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0450000000"
+                }
+              }
+            },
+            "sku": "Y87WPNXVYWJCJ5ZM",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "500 MiB/s",
+          "volumeType": "Throughput Optimized HDD",
+          "maxIopsvolume": "500 - based on 1 MiB I/O size",
+          "usagetype": "APS3-EBS:VolumeUsage.st1",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "HDD-backed",
+          "regionCode": "ap-south-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "st1",
+          "location": "Asia Pacific (Mumbai)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "Y9KEBT7HGZCUFQB3"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "Y9KEBT7HGZCUFQB3.JRTCKXETXF": {
+            "priceDimensions": {
+              "Y9KEBT7HGZCUFQB3.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.051 per GB-month of Throughput Optimized HDD (st1) provisioned storage - Asia Pacific (Mumbai)",
+                "appliesTo": [],
+                "rateCode": "Y9KEBT7HGZCUFQB3.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0510000000"
+                }
+              }
+            },
+            "sku": "Y9KEBT7HGZCUFQB3",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "500 MiB/s",
+          "volumeType": "Throughput Optimized HDD",
+          "maxIopsvolume": "500 - based on 1 MiB I/O size",
+          "usagetype": "EBS:VolumeUsage.st1",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "HDD-backed",
+          "regionCode": "us-east-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "st1",
+          "location": "US East (N. Virginia)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "YQT3C842QHBG6XCU"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "YQT3C842QHBG6XCU.JRTCKXETXF": {
+            "priceDimensions": {
+              "YQT3C842QHBG6XCU.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.045 per GB-month of Throughput Optimized HDD (st1) provisioned storage - US East (Northern Virginia)",
+                "appliesTo": [],
+                "rateCode": "YQT3C842QHBG6XCU.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0450000000"
+                }
+              }
+            },
+            "sku": "YQT3C842QHBG6XCU",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "500 MiB/s",
+          "volumeType": "Throughput Optimized HDD",
+          "maxIopsvolume": "500 - based on 1 MiB I/O size",
+          "usagetype": "LAX1-EBS:VolumeUsage.st1",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "HDD-backed",
+          "regionCode": "us-west-2-lax-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "st1",
+          "location": "US West (Los Angeles)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "Z9SVASREB9H7YSHJ"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "Z9SVASREB9H7YSHJ.JRTCKXETXF": {
+            "priceDimensions": {
+              "Z9SVASREB9H7YSHJ.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "USD0.054 per GB-Mo for EBS:VolumeUsage.st1 in US West (Los Angeles)",
+                "appliesTo": [],
+                "rateCode": "Z9SVASREB9H7YSHJ.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0540000000"
+                }
+              }
+            },
+            "sku": "Z9SVASREB9H7YSHJ",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "500 MiB/s",
+          "volumeType": "Throughput Optimized HDD",
+          "maxIopsvolume": "500 - based on 1 MiB I/O size",
+          "usagetype": "CNW1-EBS:VolumeUsage.st1",
+          "locationType": "AWS Region",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "HDD-backed",
+          "regionCode": "cn-northwest-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "st1",
+          "location": "China (Ningxia)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "ZB65EYVSHZS6BMA2"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "ZB65EYVSHZS6BMA2.5Y9WH78GDR": {
+            "priceDimensions": {
+              "ZB65EYVSHZS6BMA2.5Y9WH78GDR.Q7UJUT2CE6": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "0.299 CNY per GB-month of Throughput Optimized HDD (st1) provisioned storage",
+                "appliesTo": [],
+                "rateCode": "ZB65EYVSHZS6BMA2.5Y9WH78GDR.Q7UJUT2CE6",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "CNY": "0.2990000000"
+                }
+              }
+            },
+            "sku": "ZB65EYVSHZS6BMA2",
+            "effectiveDate": "2023-11-01T00:00:00Z",
+            "offerTermCode": "5Y9WH78GDR",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231207201031",
+      "publicationDate": "2023-12-07T20:10:31Z"
+    },
+    {
+      "product": {
+        "productFamily": "Storage",
+        "attributes": {
+          "maxThroughputvolume": "500 MiB/s",
+          "volumeType": "Throughput Optimized HDD",
+          "maxIopsvolume": "500 - based on 1 MiB I/O size",
+          "usagetype": "PHX1-EBS:VolumeUsage.st1",
+          "locationType": "AWS Local Zone",
+          "maxVolumeSize": "16 TiB",
+          "storageMedia": "HDD-backed",
+          "regionCode": "us-west-2-phx-1",
+          "servicecode": "AmazonEC2",
+          "volumeApiName": "st1",
+          "location": "US West (Phoenix)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": ""
+        },
+        "sku": "ZT5ZM6G93NHP53N2"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "ZT5ZM6G93NHP53N2.JRTCKXETXF": {
+            "priceDimensions": {
+              "ZT5ZM6G93NHP53N2.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GB-Mo",
+                "endRange": "Inf",
+                "description": "$0.0675 per GB-month of Throughput Optimized HDD (st1) provisioned storage  - US West (Phoenix)",
+                "appliesTo": [],
+                "rateCode": "ZT5ZM6G93NHP53N2.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0675000000"
+                }
+              }
+            },
+            "sku": "ZT5ZM6G93NHP53N2",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    }
+  ]
+}

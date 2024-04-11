@@ -1,0 +1,135 @@
+{
+  "gp3": {
+    "m5dn.8xlarge": {
+      "seq-read-onefs": 845,
+      "seq-write-onefs": 192,
+      "unit-onefs": "MB/s/node",
+      "EbsInfo": {
+        "BaselineThroughputInMBps": 850.0,
+        "MaximumThroughputInMBps": 850.0
+      },
+      "NetworkInfo": {
+        "BaselineBandwidthInGbps": 25.0,
+        "PeakBandwidthInGbps": 25.0
+      }
+    },
+    "m5dn.12xlarge": {
+      "seq-read-onefs": 1168,
+      "seq-write-onefs": 310,
+      "unit-onefs": "MB/s/node",
+      "EbsInfo": {
+        "BaselineThroughputInMBps": 1187.5,
+        "MaximumThroughputInMBps": 1187.5
+      },
+      "NetworkInfo": {
+        "BaselineBandwidthInGbps": 50.0,
+        "PeakBandwidthInGbps": 50.0
+      }
+    },
+    "m5dn.16xlarge": {
+      "seq-read-onefs": 1680,
+      "seq-write-onefs": 315,
+      "unit-onefs": "MB/s/node",
+      "EbsInfo": {
+        "BaselineThroughputInMBps": 1700.0,
+        "MaximumThroughputInMBps": 1700.0
+      },
+      "NetworkInfo": {
+        "BaselineBandwidthInGbps": 75.0,
+        "PeakBandwidthInGbps": 75.0
+      }
+    },
+    "m5dn.24xlarge": {
+      "seq-read-onefs": 2321,
+      "seq-write-onefs": 322,
+      "unit-onefs": "MB/s/node",
+      "EbsInfo": {
+        "BaselineThroughputInMBps": 2375.0,
+        "MaximumThroughputInMBps": 2375.0
+      },
+      "NetworkInfo": {
+        "BaselineBandwidthInGbps": 100.0,
+        "PeakBandwidthInGbps": 100.0
+      }
+    },
+    "m6idn.8xlarge": {
+      "seq-read-onefs": 1500,
+      "seq-write-onefs": 445,
+      "unit-onefs": "MB/s/node",
+      "EbsInfo": {
+        "BaselineThroughputInMBps": 3125.0,
+        "MaximumThroughputInMBps": 3125.0
+      },
+      "NetworkInfo": {
+        "BaselineBandwidthInGbps": 50.0,
+        "PeakBandwidthInGbps": 50.0
+      }
+    },
+    "m6idn.12xlarge": {
+      "seq-read-onefs": 2700,
+      "seq-write-onefs": 345,
+      "unit-onefs": "MB/s/node",
+      "EbsInfo": {
+        "BaselineThroughputInMBps": 4687.5,
+        "MaximumThroughputInMBps": 4687.5
+      },
+      "NetworkInfo": {
+        "BaselineBandwidthInGbps": 75.0,
+        "PeakBandwidthInGbps": 75.0
+      }
+    },
+    "m6idn.16xlarge": {
+      "seq-read-onefs": 2700,
+      "seq-write-onefs": 345,
+      "unit-onefs": "MB/s/node",
+      "EbsInfo": {
+        "BaselineThroughputInMBps": 6250.0,
+        "MaximumThroughputInMBps": 6250.0
+      },
+      "NetworkInfo": {
+        "BaselineBandwidthInGbps": 100.0,
+        "PeakBandwidthInGbps": 100.0
+      }
+    },
+    "m6idn.24xlarge": {
+      "seq-read-onefs": 2700,
+      "seq-write-onefs": 345,
+      "unit-onefs": "MB/s/node",
+      "EbsInfo": {
+        "BaselineThroughputInMBps": 9375.0,
+        "MaximumThroughputInMBps": 9375.0
+      },
+      "NetworkInfo": {
+        "BaselineBandwidthInGbps": 150.0,
+        "PeakBandwidthInGbps": 150.0
+      }
+    },
+    "m5d.24xlarge": {
+      "seq-read-onefs": 1600,
+      "seq-write-onefs": 316,
+      "unit-onefs": "MB/s/node",
+      "EbsInfo": {
+        "BaselineThroughputInMBps": 2375.0,
+        "MaximumThroughputInMBps": 2375.0
+      },
+      "NetworkInfo": {
+        "BaselineBandwidthInGbps": 25.0,
+        "PeakBandwidthInGbps": 25.0
+      }
+    },
+    "i3en.12xlarge": {
+      "seq-read-onefs": 1162,
+      "seq-write-onefs": 390,
+      "unit-onefs": "MB/s/node",
+      "EbsInfo": {
+        "BaselineThroughputInMBps": 1187.5,
+        "MaximumThroughputInMBps": 1187.5
+      },
+      "NetworkInfo": {
+        "BaselineBandwidthInGbps": 50.0,
+        "PeakBandwidthInGbps": 50.0
+      }
+    }
+  },
+  "st1": {}
+}

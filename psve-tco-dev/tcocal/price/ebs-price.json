@@ -1,0 +1,674 @@
+{
+  "us-east-1": {
+    "gp3": {
+      "capacity_price_hourly": 0.000109589041096,
+      "thpt_price_hourly": 0.056109589,
+      "iops_price_hourly": 6.849315068493151e-06,
+      "capacity_price_per_unit": 0.08,
+      "thpt_price_per_unit": 40.96,
+      "iops_price_per_unit": 0.005,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "thpt_price_unit": "GiBps-mo",
+      "iops_price_unit": "IOPS-Mo",
+      "capacity_price_description": "$0.08 per GB-month of General Purpose (gp3) provisioned storage - US East (N. Virginia)",
+      "location": "US East (N. Virginia)"
+    },
+    "st1": {
+      "capacity_price_hourly": 6.1643835616e-05,
+      "capacity_price_per_unit": 0.045,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "capacity_price_description": "$0.045 per GB-month of Throughput Optimized HDD (st1) provisioned storage - US East (Northern Virginia)",
+      "location": "US East (N. Virginia)"
+    }
+  },
+  "us-east-2": {
+    "gp3": {
+      "capacity_price_hourly": 0.000109589041096,
+      "thpt_price_hourly": 0.056109589,
+      "iops_price_hourly": 6.849315068493151e-06,
+      "capacity_price_per_unit": 0.08,
+      "thpt_price_per_unit": 40.96,
+      "iops_price_per_unit": 0.005,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "thpt_price_unit": "GiBps-mo",
+      "iops_price_unit": "IOPS-Mo",
+      "capacity_price_description": "$0.08 per GB-month of General Purpose (gp3) provisioned storage - US East (Ohio)",
+      "location": "US East (Ohio)"
+    },
+    "st1": {
+      "capacity_price_hourly": 6.1643835616e-05,
+      "capacity_price_per_unit": 0.045,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "capacity_price_description": "$0.045 per GB-month of Throughput Optimized HDD (st1) provisioned storage - US East (Ohio)",
+      "location": "US East (Ohio)"
+    }
+  },
+  "us-west-2": {
+    "gp3": {
+      "capacity_price_hourly": 0.000109589041096,
+      "thpt_price_hourly": 0.056109589,
+      "iops_price_hourly": 6.849315068493151e-06,
+      "capacity_price_per_unit": 0.08,
+      "thpt_price_per_unit": 40.96,
+      "iops_price_per_unit": 0.005,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "thpt_price_unit": "GiBps-mo",
+      "iops_price_unit": "IOPS-Mo",
+      "capacity_price_description": "$0.08 per GB-month of General Purpose (gp3) provisioned storage - US West (Oregon)",
+      "location": "US West (Oregon)"
+    },
+    "st1": {
+      "capacity_price_hourly": 6.1643835616e-05,
+      "capacity_price_per_unit": 0.045,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "capacity_price_description": "$0.045 per GB-month of Throughput Optimized HDD (st1) provisioned storage - US West (Oregon)",
+      "location": "US West (Oregon)"
+    }
+  },
+  "eu-west-1": {
+    "gp3": {
+      "capacity_price_hourly": 0.000120547945205,
+      "thpt_price_hourly": 0.0617205479,
+      "iops_price_hourly": 7.5342465753424655e-06,
+      "capacity_price_per_unit": 0.088,
+      "thpt_price_per_unit": 45.056,
+      "iops_price_per_unit": 0.0055,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "thpt_price_unit": "GiBps-mo",
+      "iops_price_unit": "IOPS-Mo",
+      "capacity_price_description": "$0.088 per GB-month of General Purpose (gp3) provisioned storage - EU (Ireland)",
+      "location": "EU (Ireland)"
+    },
+    "st1": {
+      "capacity_price_hourly": 6.8493150685e-05,
+      "capacity_price_per_unit": 0.05,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "capacity_price_description": "$0.050 per GB-month of Throughput Optimized HDD (st1) provisioned storage  - EU (Ireland)",
+      "location": "EU (Ireland)"
+    }
+  },
+  "eu-central-1": {
+    "gp3": {
+      "capacity_price_hourly": 0.000130410958904,
+      "thpt_price_hourly": 0.066770411,
+      "iops_price_hourly": 8.219178082191782e-06,
+      "capacity_price_per_unit": 0.0952,
+      "thpt_price_per_unit": 48.7424,
+      "iops_price_per_unit": 0.006,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "thpt_price_unit": "GiBps-mo",
+      "iops_price_unit": "IOPS-Mo",
+      "capacity_price_description": "$0.0952 per GB-month of General Purpose (gp3) provisioned storage - EU (Frankfurt)",
+      "location": "EU (Frankfurt)"
+    },
+    "st1": {
+      "capacity_price_hourly": 7.397260274e-05,
+      "capacity_price_per_unit": 0.054,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "capacity_price_description": "$0.054 per GB-month of Throughput Optimized HDD (st1) provisioned storage - EU (F rankfurt)",
+      "location": "EU (Frankfurt)"
+    }
+  },
+  "ap-southeast-1": {
+    "gp3": {
+      "capacity_price_hourly": 0.000131506849315,
+      "thpt_price_hourly": 0.0673315068,
+      "iops_price_hourly": 8.219178082191782e-06,
+      "capacity_price_per_unit": 0.096,
+      "thpt_price_per_unit": 49.152,
+      "iops_price_per_unit": 0.006,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "thpt_price_unit": "GiBps-mo",
+      "iops_price_unit": "IOPS-Mo",
+      "capacity_price_description": "$0.096 per GB-month of General Purpose (gp3) provisioned storage - Asia Pacific (Singapore)",
+      "location": "Asia Pacific (Singapore)"
+    },
+    "st1": {
+      "capacity_price_hourly": 7.397260274e-05,
+      "capacity_price_per_unit": 0.054,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "capacity_price_description": "$0.054 per GB-month of Throughput Optimized HDD (st1) provisioned storage - Asia Pacific (Singapore)",
+      "location": "Asia Pacific (Singapore)"
+    }
+  },
+  "ap-northeast-1": {
+    "gp3": {
+      "capacity_price_hourly": 0.000131506849315,
+      "thpt_price_hourly": 0.0673315068,
+      "iops_price_hourly": 8.219178082191782e-06,
+      "capacity_price_per_unit": 0.096,
+      "thpt_price_per_unit": 49.152,
+      "iops_price_per_unit": 0.006,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "thpt_price_unit": "GiBps-mo",
+      "iops_price_unit": "IOPS-Mo",
+      "capacity_price_description": "$0.096 per GB-month of General Purpose (gp3) provisioned storage - Asia Pacific (Tokyo)",
+      "location": "Asia Pacific (Tokyo)"
+    },
+    "st1": {
+      "capacity_price_hourly": 7.397260274e-05,
+      "capacity_price_per_unit": 0.054,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "capacity_price_description": "$0.054 per GB-month of Throughput Optimized HDD (st1) provisioned storage - Asia Pacific (Tokyo)",
+      "location": "Asia Pacific (Tokyo)"
+    }
+  },
+  "us-west-1": {
+    "gp3": {
+      "capacity_price_hourly": 0.000131506849315,
+      "thpt_price_hourly": 0.0673315068,
+      "iops_price_hourly": 8.219178082191782e-06,
+      "capacity_price_per_unit": 0.096,
+      "thpt_price_per_unit": 49.152,
+      "iops_price_per_unit": 0.006,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "thpt_price_unit": "GiBps-mo",
+      "iops_price_unit": "IOPS-Mo",
+      "capacity_price_description": "$0.096 per GB-month of General Purpose (gp3) provisioned storage - US West (N. California)",
+      "location": "US West (N. California)"
+    },
+    "st1": {
+      "capacity_price_hourly": 7.397260274e-05,
+      "capacity_price_per_unit": 0.054,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "capacity_price_description": "$0.054 per GB-month of Throughput Optimized HDD (st1) provisioned storage - US West (Northern California)",
+      "location": "US West (N. California)"
+    }
+  },
+  "af-south-1": {
+    "gp3": {
+      "capacity_price_hourly": 0.000143424657534,
+      "thpt_price_hourly": 0.0735035616,
+      "iops_price_hourly": 8.904109589041095e-06,
+      "capacity_price_per_unit": 0.1047,
+      "thpt_price_per_unit": 53.6576,
+      "iops_price_per_unit": 0.0065,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "thpt_price_unit": "GiBps-mo",
+      "iops_price_unit": "IOPS-Mo",
+      "capacity_price_description": "$0.1047 per GB-month of General Purpose (gp3) provisioned storage - Africa (Cape Town)",
+      "location": "Africa (Cape Town)"
+    },
+    "st1": {
+      "capacity_price_hourly": 8.1506849315e-05,
+      "capacity_price_per_unit": 0.0595,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "capacity_price_description": "USD0.0595 per GB-Mo for EBS:VolumeUsage.st1 in Africa (Cape Town)",
+      "location": "Africa (Cape Town)"
+    }
+  },
+  "ap-east-1": {
+    "gp3": {
+      "capacity_price_hourly": 0.000144657534247,
+      "thpt_price_hourly": 0.0740646575,
+      "iops_price_hourly": 9.041095890410958e-06,
+      "capacity_price_per_unit": 0.1056,
+      "thpt_price_per_unit": 54.0672,
+      "iops_price_per_unit": 0.0066,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "thpt_price_unit": "GiBps-mo",
+      "iops_price_unit": "IOPS-Mo",
+      "capacity_price_description": "$0.1056 per GB-month of General Purpose (gp3) provisioned storage - Asia Pacific (Hong Kong)",
+      "location": "Asia Pacific (Hong Kong)"
+    },
+    "st1": {
+      "capacity_price_hourly": 8.1369863014e-05,
+      "capacity_price_per_unit": 0.0594,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "capacity_price_description": "USD0.0594 per GB-Mo for EBS:VolumeUsage.st1 in Asia Pacific (Hong Kong)",
+      "location": "Asia Pacific (Hong Kong)"
+    }
+  },
+  "ap-south-2": {
+    "gp3": {
+      "capacity_price_hourly": 0.000124931506849,
+      "thpt_price_hourly": 0.0639649315,
+      "iops_price_hourly": 7.808219178082192e-06,
+      "capacity_price_per_unit": 0.0912,
+      "thpt_price_per_unit": 46.6944,
+      "iops_price_per_unit": 0.0057,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "thpt_price_unit": "GiBps-mo",
+      "iops_price_unit": "IOPS-Mo",
+      "capacity_price_description": "$0.0912 per GB-month of General Purpose (gp3) provisioned storage - Asia Pacific (Hyderabad)",
+      "location": "Asia Pacific (Hyderabad)"
+    },
+    "st1": {
+      "capacity_price_hourly": 6.9863013699e-05,
+      "capacity_price_per_unit": 0.051,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "capacity_price_description": "$0.051 per GB-month of Throughput Optimized HDD (st1) provisioned storage - Asia Pacific (Hyderabad)",
+      "location": "Asia Pacific (Hyderabad)"
+    }
+  },
+  "ap-southeast-3": {
+    "gp3": {
+      "capacity_price_hourly": 0.000131506849315,
+      "thpt_price_hourly": 0.0673315068,
+      "iops_price_hourly": 8.219178082191782e-06,
+      "capacity_price_per_unit": 0.096,
+      "thpt_price_per_unit": 49.152,
+      "iops_price_per_unit": 0.006,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "thpt_price_unit": "GiBps-mo",
+      "iops_price_unit": "IOPS-Mo",
+      "capacity_price_description": "$0.096 per GB-month of General Purpose (gp3) provisioned storage - Asia Pacific (Jakarta)",
+      "location": "Asia Pacific (Jakarta)"
+    },
+    "st1": {
+      "capacity_price_hourly": 7.397260274e-05,
+      "capacity_price_per_unit": 0.054,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "capacity_price_description": "$0.054 per GB-month of Throughput Optimized HDD (st1) provisioned storage - Asia Pacific (Jakarta)",
+      "location": "Asia Pacific (Jakarta)"
+    }
+  },
+  "ap-southeast-4": {
+    "gp3": {
+      "capacity_price_hourly": 0.000131506849315,
+      "thpt_price_hourly": 0.0673315068,
+      "iops_price_hourly": 8.219178082191782e-06,
+      "capacity_price_per_unit": 0.096,
+      "thpt_price_per_unit": 49.152,
+      "iops_price_per_unit": 0.006,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "thpt_price_unit": "GiBps-mo",
+      "iops_price_unit": "IOPS-Mo",
+      "capacity_price_description": "$0.096 per GB-month of General Purpose (gp3) provisioned storage - Asia Pacific (Melbourne)",
+      "location": "Asia Pacific (Melbourne)"
+    },
+    "st1": {
+      "capacity_price_hourly": 7.397260274e-05,
+      "capacity_price_per_unit": 0.054,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "capacity_price_description": "$0.054 per GB-month of Throughput Optimized HDD (st1) provisioned storage  - Asia Pacific (Melbourne)",
+      "location": "Asia Pacific (Melbourne)"
+    }
+  },
+  "ap-south-1": {
+    "gp3": {
+      "capacity_price_hourly": 0.000124931506849,
+      "thpt_price_hourly": 0.0639649315,
+      "iops_price_hourly": 7.808219178082192e-06,
+      "capacity_price_per_unit": 0.0912,
+      "thpt_price_per_unit": 46.6944,
+      "iops_price_per_unit": 0.0057,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "thpt_price_unit": "GiBps-mo",
+      "iops_price_unit": "IOPS-Mo",
+      "capacity_price_description": "$0.0912 per GB-month of General Purpose (gp3) provisioned storage - Asia Pacific (Mumbai)",
+      "location": "Asia Pacific (Mumbai)"
+    },
+    "st1": {
+      "capacity_price_hourly": 6.9863013699e-05,
+      "capacity_price_per_unit": 0.051,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "capacity_price_description": "$0.051 per GB-month of Throughput Optimized HDD (st1) provisioned storage - Asia Pacific (Mumbai)",
+      "location": "Asia Pacific (Mumbai)"
+    }
+  },
+  "ap-northeast-3": {
+    "gp3": {
+      "capacity_price_hourly": 0.000131506849315,
+      "thpt_price_hourly": 0.0673315068,
+      "iops_price_hourly": 8.219178082191782e-06,
+      "capacity_price_per_unit": 0.096,
+      "thpt_price_per_unit": 49.152,
+      "iops_price_per_unit": 0.006,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "thpt_price_unit": "GiBps-mo",
+      "iops_price_unit": "IOPS-Mo",
+      "capacity_price_description": "$0.096 per GB-month of General Purpose (gp3) provisioned storage - Asia Pacific (Osaka)",
+      "location": "Asia Pacific (Osaka)"
+    },
+    "st1": {
+      "capacity_price_hourly": 7.397260274e-05,
+      "capacity_price_per_unit": 0.054,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "capacity_price_description": "$0.054 per GB-month of Throughput Optimized HDD (st1) provisioned storage",
+      "location": "Asia Pacific (Osaka)"
+    }
+  },
+  "ap-northeast-2": {
+    "gp3": {
+      "capacity_price_hourly": 0.000124931506849,
+      "thpt_price_hourly": 0.0639649315,
+      "iops_price_hourly": 7.808219178082192e-06,
+      "capacity_price_per_unit": 0.0912,
+      "thpt_price_per_unit": 46.6944,
+      "iops_price_per_unit": 0.0057,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "thpt_price_unit": "GiBps-mo",
+      "iops_price_unit": "IOPS-Mo",
+      "capacity_price_description": "$0.0912 per GB-month of General Purpose (gp3) provisioned storage - Asia Pacific (Seoul)",
+      "location": "Asia Pacific (Seoul)"
+    },
+    "st1": {
+      "capacity_price_hourly": 6.9863013699e-05,
+      "capacity_price_per_unit": 0.051,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "capacity_price_description": "$0.051 per GB-month of Throughput Optimized HDD (st1) provisioned storage - Asia Pacific (Seoul)",
+      "location": "Asia Pacific (Seoul)"
+    }
+  },
+  "ap-southeast-2": {
+    "gp3": {
+      "capacity_price_hourly": 0.000131506849315,
+      "thpt_price_hourly": 0.0673315068,
+      "iops_price_hourly": 8.219178082191782e-06,
+      "capacity_price_per_unit": 0.096,
+      "thpt_price_per_unit": 49.152,
+      "iops_price_per_unit": 0.006,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "thpt_price_unit": "GiBps-mo",
+      "iops_price_unit": "IOPS-Mo",
+      "capacity_price_description": "$0.096 per GB-month of General Purpose (gp3) provisioned storage - Asia Pacific (Sydney)",
+      "location": "Asia Pacific (Sydney)"
+    },
+    "st1": {
+      "capacity_price_hourly": 7.397260274e-05,
+      "capacity_price_per_unit": 0.054,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "capacity_price_description": "$0.054 per GB-month of Throughput Optimized HDD (st1) provisioned storage  - Asia Pacific (Sydney)",
+      "location": "Asia Pacific (Sydney)"
+    }
+  },
+  "ca-central-1": {
+    "gp3": {
+      "capacity_price_hourly": 0.000120547945205,
+      "thpt_price_hourly": 0.0617205479,
+      "iops_price_hourly": 7.5342465753424655e-06,
+      "capacity_price_per_unit": 0.088,
+      "thpt_price_per_unit": 45.056,
+      "iops_price_per_unit": 0.0055,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "thpt_price_unit": "GiBps-mo",
+      "iops_price_unit": "IOPS-Mo",
+      "capacity_price_description": "$0.088 per GB-month of General Purpose (gp3) provisioned storage - Canada (Central)",
+      "location": "Canada (Central)"
+    },
+    "st1": {
+      "capacity_price_hourly": 6.8493150685e-05,
+      "capacity_price_per_unit": 0.05,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "capacity_price_description": "$0.05 per GB-month of Throughput Optimized HDD (st1) provisioned storage - Canada (Central)",
+      "location": "Canada (Central)"
+    }
+  },
+  "eu-west-2": {
+    "gp3": {
+      "capacity_price_hourly": 0.000127123287671,
+      "thpt_price_hourly": 0.0650871233,
+      "iops_price_hourly": 7.945205479452055e-06,
+      "capacity_price_per_unit": 0.0928,
+      "thpt_price_per_unit": 47.5136,
+      "iops_price_per_unit": 0.0058,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "thpt_price_unit": "GiBps-mo",
+      "iops_price_unit": "IOPS-Mo",
+      "capacity_price_description": "$0.0928 per GB-month of General Purpose (gp3) provisioned storage - EU (London)",
+      "location": "EU (London)"
+    },
+    "st1": {
+      "capacity_price_hourly": 7.2602739726e-05,
+      "capacity_price_per_unit": 0.053,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "capacity_price_description": "$0.053 per GB-month of Throughput Optimized HDD (st1) provisioned storage - EU (London)",
+      "location": "EU (London)"
+    }
+  },
+  "eu-south-1": {
+    "gp3": {
+      "capacity_price_hourly": 0.000126575342466,
+      "thpt_price_hourly": 0.0648065753,
+      "iops_price_hourly": 7.945205479452055e-06,
+      "capacity_price_per_unit": 0.0924,
+      "thpt_price_per_unit": 47.3088,
+      "iops_price_per_unit": 0.0058,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "thpt_price_unit": "GiBps-mo",
+      "iops_price_unit": "IOPS-Mo",
+      "capacity_price_description": "$0.0924 per GB-month of General Purpose (gp3) provisioned storage - EU (Milan)",
+      "location": "EU (Milan)"
+    },
+    "st1": {
+      "capacity_price_hourly": 7.1917808219e-05,
+      "capacity_price_per_unit": 0.0525,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "capacity_price_description": "USD0.0525 per GB-Mo for EBS:VolumeUsage.st1 in EU (Milan)",
+      "location": "EU (Milan)"
+    }
+  },
+  "eu-west-3": {
+    "gp3": {
+      "capacity_price_hourly": 0.000127123287671,
+      "thpt_price_hourly": 0.0650871233,
+      "iops_price_hourly": 7.945205479452055e-06,
+      "capacity_price_per_unit": 0.0928,
+      "thpt_price_per_unit": 47.5136,
+      "iops_price_per_unit": 0.0058,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "thpt_price_unit": "GiBps-mo",
+      "iops_price_unit": "IOPS-Mo",
+      "capacity_price_description": "$0.0928 per GB-month of General Purpose (gp3) provisioned storage - EU (Paris)",
+      "location": "EU (Paris)"
+    },
+    "st1": {
+      "capacity_price_hourly": 7.2602739726e-05,
+      "capacity_price_per_unit": 0.053,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "capacity_price_description": "$0.053 per GB-month of Throughput Optimized HDD (st1) provisioned storage",
+      "location": "EU (Paris)"
+    }
+  },
+  "eu-south-2": {
+    "gp3": {
+      "capacity_price_hourly": 0.000120547945205,
+      "thpt_price_hourly": 0.0617205479,
+      "iops_price_hourly": 7.5342465753424655e-06,
+      "capacity_price_per_unit": 0.088,
+      "thpt_price_per_unit": 45.056,
+      "iops_price_per_unit": 0.0055,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "thpt_price_unit": "GiBps-mo",
+      "iops_price_unit": "IOPS-Mo",
+      "capacity_price_description": "$0.088 per GB-month of General Purpose (gp3) provisioned storage - Europe (Spain)",
+      "location": "Europe (Spain)"
+    },
+    "st1": {
+      "capacity_price_hourly": 6.8493150685e-05,
+      "capacity_price_per_unit": 0.05,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "capacity_price_description": "$0.050 per GB-month of Throughput Optimized HDD (st1) provisioned storage  - Europe (Spain)",
+      "location": "Europe (Spain)"
+    }
+  },
+  "eu-north-1": {
+    "gp3": {
+      "capacity_price_hourly": 0.000114520547945,
+      "thpt_price_hourly": 0.0586345205,
+      "iops_price_hourly": 7.123287671232876e-06,
+      "capacity_price_per_unit": 0.0836,
+      "thpt_price_per_unit": 42.8032,
+      "iops_price_per_unit": 0.0052,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "thpt_price_unit": "GiBps-mo",
+      "iops_price_unit": "IOPS-Mo",
+      "capacity_price_description": "$0.0836 per GB-month of General Purpose (gp3) provisioned storage - EU (Stockholm)",
+      "location": "EU (Stockholm)"
+    },
+    "st1": {
+      "capacity_price_hourly": 6.5068493151e-05,
+      "capacity_price_per_unit": 0.0475,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "capacity_price_description": "$0.0475 per GB-month of Throughput Optimized HDD (st1) provisioned storage  - EU (Stockholm)",
+      "location": "EU (Stockholm)"
+    }
+  },
+  "eu-central-2": {
+    "gp3": {
+      "capacity_price_hourly": 0.000156438356164,
+      "thpt_price_hourly": 0.0801245205,
+      "iops_price_hourly": 9.589041095890411e-06,
+      "capacity_price_per_unit": 0.1142,
+      "thpt_price_per_unit": 58.4909,
+      "iops_price_per_unit": 0.007,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "thpt_price_unit": "GiBps-mo",
+      "iops_price_unit": "IOPS-Mo",
+      "capacity_price_description": "$0.1142 per GB-month of General Purpose (gp3) provisioned storage - EU (Zurich)",
+      "location": "Europe (Zurich)"
+    },
+    "st1": {
+      "capacity_price_hourly": 8.904109589e-05,
+      "capacity_price_per_unit": 0.065,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "capacity_price_description": "$0.065 per GB-month of Throughput Optimized HDD (st1) provisioned storage - EU (Zurich)",
+      "location": "Europe (Zurich)"
+    }
+  },
+  "me-south-1": {
+    "gp3": {
+      "capacity_price_hourly": 0.000132602739726,
+      "thpt_price_hourly": 0.0678926027,
+      "iops_price_hourly": 8.356164383561644e-06,
+      "capacity_price_per_unit": 0.0968,
+      "thpt_price_per_unit": 49.5616,
+      "iops_price_per_unit": 0.0061,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "thpt_price_unit": "GiBps-mo",
+      "iops_price_unit": "IOPS-Mo",
+      "capacity_price_description": "$0.0968 per GB-month of General Purpose (gp3) provisioned storage - Middle East (Bahrain)",
+      "location": "Middle East (Bahrain)"
+    },
+    "st1": {
+      "capacity_price_hourly": 7.5342465753e-05,
+      "capacity_price_per_unit": 0.055,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "capacity_price_description": "USD0.055 per GB-Mo for EBS:VolumeUsage.st1 in Middle East (Bahrain)",
+      "location": "Middle East (Bahrain)"
+    }
+  },
+  "me-central-1": {
+    "gp3": {
+      "capacity_price_hourly": 0.000132602739726,
+      "thpt_price_hourly": 0.0678926027,
+      "iops_price_hourly": 8.356164383561644e-06,
+      "capacity_price_per_unit": 0.0968,
+      "thpt_price_per_unit": 49.5616,
+      "iops_price_per_unit": 0.0061,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "thpt_price_unit": "GiBps-mo",
+      "iops_price_unit": "IOPS-Mo",
+      "capacity_price_description": "$0.0968 per GB-month of General Purpose (gp3) provisioned storage - Middle East (UAE)",
+      "location": "Middle East (UAE)"
+    },
+    "st1": {
+      "capacity_price_hourly": 7.5342465753e-05,
+      "capacity_price_per_unit": 0.055,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "capacity_price_description": "USD0.055 per GB-Mo for EBS:VolumeUsage.st1 in Middle East (UAE)",
+      "location": "Middle East (UAE)"
+    }
+  },
+  "il-central-1": {
+    "gp3": {
+      "capacity_price_hourly": 0.000144657534247,
+      "thpt_price_hourly": 0.0740646575,
+      "iops_price_hourly": 9.041095890410958e-06,
+      "capacity_price_per_unit": 0.1056,
+      "thpt_price_per_unit": 54.0672,
+      "iops_price_per_unit": 0.0066,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "thpt_price_unit": "GiBps-mo",
+      "iops_price_unit": "IOPS-Mo",
+      "capacity_price_description": "$0.1056 per GB-month of General Purpose (gp3) provisioned storage - Israel (Tel Aviv)",
+      "location": "Israel (Tel Aviv)"
+    },
+    "st1": {
+      "capacity_price_hourly": 8.2191780822e-05,
+      "capacity_price_per_unit": 0.06,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "capacity_price_description": "$0.06 per GB-month of Throughput Optimized HDD (st1) provisioned storage  - Israel (Tel Aviv)",
+      "location": "Israel (Tel Aviv)"
+    }
+  },
+  "sa-east-1": {
+    "gp3": {
+      "capacity_price_hourly": 0.000208219178082,
+      "thpt_price_hourly": 0.1066082192,
+      "iops_price_hourly": 1.3013698630136986e-05,
+      "capacity_price_per_unit": 0.152,
+      "thpt_price_per_unit": 77.824,
+      "iops_price_per_unit": 0.0095,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "thpt_price_unit": "GiBps-mo",
+      "iops_price_unit": "IOPS-Mo",
+      "capacity_price_description": "$0.152 per GB-month of General Purpose (gp3) provisioned storage - South America (Sao Paulo)",
+      "location": "South America (Sao Paulo)"
+    },
+    "st1": {
+      "capacity_price_hourly": 0.000117808219178,
+      "capacity_price_per_unit": 0.086,
+      "currency": "USD",
+      "capacity_price_unit": "GB-Mo",
+      "capacity_price_description": "$0.086 per GB-month of Throughput Optimized HDD (st1) provisioned storage - South America (Sao Paulo)",
+      "location": "South America (Sao Paulo)"
+    }
+  }
+}

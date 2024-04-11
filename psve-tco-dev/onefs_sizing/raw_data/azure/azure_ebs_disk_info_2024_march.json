@@ -1,0 +1,172 @@
+{
+    "premium-ssd": {
+        "p20": {
+            "volume-size-support-type": "fixed",
+            "volume-size-fixed-tib": 0.5,
+            "volume-base-iops": 2300,
+            "volume-expanded-iops": "N/A",
+            "volume-base-tput-mb-per-sec": 150,
+            "volume-expanded-tput-mb-per-sec": "N/A",
+            "volume-max-burst-iops": 3500,
+            "volume-max-burst-tput": 170,
+            "volume-max-burst-duration-minute": "30"
+        },
+        "p30": {
+            "volume-size-support-type": "fixed",
+            "volume-size-fixed-tib": 1,
+            "volume-base-iops": 5000,
+            "volume-expanded-iops": 8000,
+            "volume-base-tput-mb-per-sec": 200,
+            "volume-expanded-tput-mb-per-sec": 300,
+            "volume-max-burst-iops": 30000,
+            "volume-max-burst-tput": 1000,
+            "volume-max-burst-duration-minute": "unlimited"
+        },
+        "p40": {
+            "volume-size-support-type": "fixed",
+            "volume-size-fixed-tib": 2,
+            "volume-base-iops": 7500,
+            "volume-expanded-iops": 16000,
+            "volume-base-tput-mb-per-sec": 250,
+            "volume-expanded-tput-mb-per-sec": 600,
+            "volume-max-burst-iops": 30000,
+            "volume-max-burst-tput": 1000,
+            "volume-max-burst-duration-minute": "unlimited"
+        },
+        "p50": {
+            "volume-size-support-type": "fixed",
+            "volume-size-fixed-tib": 4,
+            "volume-base-iops": 7500,
+            "volume-expanded-iops": 20000,
+            "volume-base-tput-mb-per-sec": 250,
+            "volume-expanded-tput-mb-per-sec": 900,
+            "volume-max-burst-iops": 30000,
+            "volume-max-burst-tput": 1000,
+            "volume-max-burst-duration-minute": "unlimited"
+        },
+        "p60": {
+            "volume-size-support-type": "fixed",
+            "volume-size-fixed-tib": 8,
+            "volume-base-iops": 16000,
+            "volume-expanded-iops": 20000,
+            "volume-base-tput-mb-per-sec": 500,
+            "volume-expanded-tput-mb-per-sec": 900,
+            "volume-max-burst-iops": 30000,
+            "volume-max-burst-tput": 1000,
+            "volume-max-burst-duration-minute": "unlimited"
+        },
+        "p70": {
+            "volume-size-support-type": "fixed",
+            "volume-size-fixed-tib": 16,
+            "volume-base-iops": 18000,
+            "volume-expanded-iops": 20000,
+            "volume-base-tput-mb-per-sec": 750,
+            "volume-expanded-tput-mb-per-sec": 900,
+            "volume-max-burst-iops": 30000,
+            "volume-max-burst-tput": 1000,
+            "volume-max-burst-duration-minute": "unlimited"
+        }
+    }, 
+    "standard-ssd": {
+        "e20": {
+            "volume-size-support-type": "fixed",
+            "volume-size-fixed-tib": 0.5,
+            "volume-base-iops-upto": 500,
+            "volume-expanded-iops-upto": "N/A",
+            "volume-base-tput-mb-per-sec-upto": 60,
+            "volume-expanded-tput-mb-per-sec-upto": "N/A",
+            "volume-max-burst-iops": 600,
+            "volume-max-burst-tput": 150,
+            "volume-max-burst-duration-minute": 30
+        },
+        "e30": {
+            "volume-size-support-type": "fixed",
+            "volume-size-fixed-tib": 1,
+            "volume-base-iops-upto": 500,
+            "volume-expanded-iops-upto": 1500,
+            "volume-base-tput-mb-per-sec-upto": 60,
+            "volume-expanded-tput-mb-per-sec-upto": 150,
+            "volume-max-burst-iops": 1000,
+            "volume-max-burst-tput": 250,
+            "volume-max-burst-duration-minute": 30
+        },
+        "e40": {
+            "volume-size-support-type": "fixed",
+            "volume-size-fixed-tib": 2,
+            "volume-base-iops-upto": 500,
+            "volume-expanded-iops-upto": 3000,
+            "volume-base-tput-mb-per-sec-upto": 60,
+            "volume-expanded-tput-mb-per-sec-upto": 300,
+            "volume-max-burst-iops": "N/A",
+            "volume-max-burst-tput": "N/A",
+            "volume-max-burst-duration-minute": "N/A"
+        },
+        "e50": {
+            "volume-size-support-type": "fixed",
+            "volume-size-fixed-tib": 4,
+            "volume-base-iops-upto": 500,
+            "volume-expanded-iops-upto": 6000,
+            "volume-base-tput-mb-per-sec-upto": 60,
+            "volume-expanded-tput-mb-per-sec-upto": 600,
+            "volume-max-burst-iops": "N/A",
+            "volume-max-burst-tput": "N/A",
+            "volume-max-burst-duration-minute": "N/A"
+        },
+        "e60": {
+            "volume-size-support-type": "fixed",
+            "volume-size-fixed-tib": 8,
+            "volume-base-iops-upto": 2000,
+            "volume-expanded-iops-upto": 6000,
+            "volume-base-tput-mb-per-sec-upto": 400,
+            "volume-expanded-tput-mb-per-sec-upto": 750,
+            "volume-max-burst-iops": "N/A",
+            "volume-max-burst-tput": "N/A",
+            "volume-max-burst-duration-minute": "N/A"
+        },
+        "e70": {
+            "volume-size-support-type": "fixed",
+            "volume-size-fixed-tib": 16,
+            "volume-base-iops-upto": 4000,
+            "volume-expanded-iops-upto": 6000,
+            "volume-base-tput-mb-per-sec-upto": 600,
+            "volume-expanded-tput-mb-per-sec-upto": 750,
+            "volume-max-burst-iops": "N/A",
+            "volume-max-burst-tput": "N/A",
+            "volume-max-burst-duration-minute": "N/A"
+        }
+    },
+    "standard-hdd": {
+        "s40": {
+            "volume-size-support-type": "fixed",
+            "volume-size-fixed-tib": 2,
+            "volume-base-iops-upto": 500,
+            "volume-expanded-iops-upto": 3000,
+            "volume-base-tput-mb-per-sec-upto": 60,
+            "volume-expanded-tput-mb-per-sec-upto": 300
+        },
+        "s50": {
+            "volume-size-support-type": "fixed",
+            "volume-size-fixed-tib": 4,
+            "volume-base-iops-upto": 500,
+            "volume-expanded-iops-upto": 3000,
+            "volume-base-tput-mb-per-sec-upto": 60,
+            "volume-expanded-tput-mb-per-sec-upto": 500
+        },
+        "s60": {
+            "volume-size-support-type": "fixed",
+            "volume-size-fixed-tib": 8,
+            "volume-base-iops-upto": 1300,
+            "volume-expanded-iops-upto": 3000,
+            "volume-base-tput-mb-per-sec-upto": 300,
+            "volume-expanded-tput-mb-per-sec-upto": 500
+        },
+        "s70": {
+            "volume-size-support-type": "fixed",
+            "volume-size-fixed-tib": 16,
+            "volume-base-iops-upto": 2000,
+            "volume-expanded-iops-upto": 3000,
+            "volume-base-tput-mb-per-sec-upto": 500,
+            "volume-expanded-tput-mb-per-sec-upto": 500
+        }
+    }
+}

@@ -1,0 +1,178 @@
+{
+    "OneFS 9.8": {
+        "supported-regions": ["southcentralus"],
+        "cluster-node-amount": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18],
+        "supported-vm-size": [
+            "Standard_D32d_v5", "Standard_D48d_v5", "Standard_D64d_v5", "Standard_D96d_v5", 
+            "Standard_D32ds_v5", "Standard_D48ds_v5", "Standard_D64ds_v5", "Standard_D96ds_v5", 
+            "Standard_E32d_v5", "Standard_E48d_v5", "Standard_E64d_v5", "Standard_E96d_v5", "Standard_E104id_v5",
+            "Standard_E32ds_v5", "Standard_E48ds_v5", "Standard_E64ds_v5", "Standard_E96ds_v5", "Standard_E104ids_v5"
+        ],
+        "supported-node-disk-amount": [5, 6, 10, 12, 15, 18, 20, 24, 25, 30],
+        "premium-ssd-cluster": {           
+            "supported-node-disk-perf-tier": ["P20", "P30", "P40", "P50", "P60", "P70"],
+            "supported-cluster-protection-level": {
+                "2n": {
+                    "P20":{
+                        "supported-cluster-raw-capacity-min": 10, 
+                        "supported-cluster-raw-capacity-max": 270,
+                        "disk-size": 0.5,
+                        "raw-capacity-unit": "TiB"
+                    },
+                    "P30":{
+                        "supported-cluster-raw-capacity-min": 20, 
+                        "supported-cluster-raw-capacity-max": 540,
+                        "disk-size": 1,
+                        "raw-capacity-unit": "TiB"
+                    },
+                    "P40":{
+                        "supported-cluster-raw-capacity-min": 40, 
+                        "supported-cluster-raw-capacity-max": 840,
+                        "disk-size": 2,
+                        "raw-capacity-unit": "TiB"
+                    },
+                    "P50":{
+                        "supported-cluster-raw-capacity-min": 80, 
+                        "supported-cluster-raw-capacity-max": 840,
+                        "disk-size": 4,
+                        "raw-capacity-unit": "TiB"
+                    },
+                    "P60":{
+                        "supported-cluster-raw-capacity-min": 160, 
+                        "supported-cluster-raw-capacity-max": 1440,
+                        "disk-size": 8,
+                        "raw-capacity-unit": "TiB"
+                    },
+                    "P70":{
+                        "supported-cluster-raw-capacity-min": 320, 
+                        "supported-cluster-raw-capacity-max": 1440,
+                        "disk-size": 16,
+                        "raw-capacity-unit": "TiB"
+                    }
+                },
+                "2d:1n":{
+                    "P20":{
+                        "supported-cluster-raw-capacity-min": 10, 
+                        "supported-cluster-raw-capacity-max": 270,
+                        "disk-size": 0.5,
+                        "raw-capacity-unit": "TiB"
+                    },
+                    "P30":{
+                        "supported-cluster-raw-capacity-min": 20, 
+                        "supported-cluster-raw-capacity-max": 540,
+                        "disk-size": 1,
+                        "raw-capacity-unit": "TiB"
+                    },
+                    "P40":{
+                        "supported-cluster-raw-capacity-min": 40, 
+                        "supported-cluster-raw-capacity-max": 1080,
+                        "disk-size": 2,
+                        "raw-capacity-unit": "TiB"
+                    },
+                    "P50":{
+                        "supported-cluster-raw-capacity-min": 80, 
+                        "supported-cluster-raw-capacity-max": 2160,
+                        "disk-size": 4,
+                        "raw-capacity-unit": "TiB"
+                    },
+                    "P60":{
+                        "supported-cluster-raw-capacity-min": 160, 
+                        "supported-cluster-raw-capacity-max": 4320,
+                        "disk-size": 8,
+                        "raw-capacity-unit": "TiB"
+                    },
+                    "P70":{
+                        "supported-cluster-raw-capacity-min": 320, 
+                        "supported-cluster-raw-capacity-max": 5760,
+                        "disk-size": 16,
+                        "raw-capacity-unit": "TiB"
+                    }
+                }
+            }
+        },
+        "standard-ssd-cluster": {            
+            "supported-node-disk-perf-tier": ["E20", "E30", "E40", "E50", "E60", "E70"],
+            "supported-cluster-protection-level": {
+                "2n": {
+                    "E20":{
+                        "supported-cluster-raw-capacity-min": 10, 
+                        "supported-cluster-raw-capacity-max": 240,
+                        "disk-size": 0.5,
+                        "raw-capacity-unit": "TiB"
+                    },
+                    "E30":{
+                        "supported-cluster-raw-capacity-min": 20, 
+                        "supported-cluster-raw-capacity-max": 240,
+                        "disk-size": 1,
+                        "raw-capacity-unit": "TiB"
+                    },
+                    "E40":{
+                        "supported-cluster-raw-capacity-min": 40, 
+                        "supported-cluster-raw-capacity-max": 240,
+                        "disk-size": 2,
+                        "raw-capacity-unit": "TiB"
+                    },
+                    "E50":{
+                        "supported-cluster-raw-capacity-min": 80, 
+                        "supported-cluster-raw-capacity-max": 240,
+                        "disk-size": 4,
+                        "raw-capacity-unit": "TiB"
+                    },
+                    "E60":{
+                        "supported-cluster-raw-capacity-min": 160, 
+                        "supported-cluster-raw-capacity-max": 800,
+                        "disk-size": 8,
+                        "raw-capacity-unit": "TiB"
+                    },
+                    "E70":{
+                        "supported-cluster-raw-capacity-min": 320, 
+                        "supported-cluster-raw-capacity-max": 1600,
+                        "disk-size": 16,
+                        "raw-capacity-unit": "TiB"
+                    }
+                },
+                "2d:1n":{
+                    "E20":{
+                        "supported-cluster-raw-capacity-min": 10, 
+                        "supported-cluster-raw-capacity-max": 270,
+                        "disk-size": 0.5,
+                        "raw-capacity-unit": "TiB"
+                    },
+                    "E30":{
+                        "supported-cluster-raw-capacity-min": 20, 
+                        "supported-cluster-raw-capacity-max": 540,
+                        "disk-size": 1,
+                        "raw-capacity-unit": "TiB"
+                    },
+                    "E40":{
+                        "supported-cluster-raw-capacity-min": 40, 
+                        "supported-cluster-raw-capacity-max": 1080,
+                        "disk-size": 2,
+                        "raw-capacity-unit": "TiB"
+                    },
+                    "E50":{
+                        "supported-cluster-raw-capacity-min": 80, 
+                        "supported-cluster-raw-capacity-max": 2160,
+                        "disk-size": 4,
+                        "raw-capacity-unit": "TiB"
+                    },
+                    "E60":{
+                        "supported-cluster-raw-capacity-min": 160, 
+                        "supported-cluster-raw-capacity-max": 4320,
+                        "disk-size": 8,
+                        "raw-capacity-unit": "TiB"
+                    },
+                    "E70":{
+                        "supported-cluster-raw-capacity-min": 320, 
+                        "supported-cluster-raw-capacity-max": 5760,
+                        "disk-size": 16,
+                        "raw-capacity-unit": "TiB"
+                    }
+                }
+            }
+        },
+        "standard-hdd-cluster": {
+           
+        }
+    }
+}

@@ -1,0 +1,1579 @@
+{
+  "PriceList": [
+    {
+      "product": {
+        "productFamily": "Provisioned Throughput",
+        "attributes": {
+          "regionCode": "eu-south-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "Charge per Provisioned mbps",
+          "usagetype": "EUS1-EBS:VolumeP-Throughput.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "EU (Milan)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS Throughput"
+        },
+        "sku": "3AS2QEQ3D9BTTS8G"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "3AS2QEQ3D9BTTS8G.JRTCKXETXF": {
+            "priceDimensions": {
+              "3AS2QEQ3D9BTTS8G.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GiBps-mo",
+                "endRange": "Inf",
+                "description": "$0.0462 per provisioned MiBps-month of gp3 - EU (Milan)",
+                "appliesTo": [],
+                "rateCode": "3AS2QEQ3D9BTTS8G.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "47.3088000000"
+                }
+              }
+            },
+            "sku": "3AS2QEQ3D9BTTS8G",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Provisioned Throughput",
+        "attributes": {
+          "regionCode": "us-west-2",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "Charge per Provisioned mbps",
+          "usagetype": "USW2-EBS:VolumeP-Throughput.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "US West (Oregon)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS Throughput"
+        },
+        "sku": "3MQHJKUUZSKTF82F"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "3MQHJKUUZSKTF82F.JRTCKXETXF": {
+            "priceDimensions": {
+              "3MQHJKUUZSKTF82F.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GiBps-mo",
+                "endRange": "Inf",
+                "description": "$0.04 per provisioned MiBps-month of gp3 - US West (Oregon)",
+                "appliesTo": [],
+                "rateCode": "3MQHJKUUZSKTF82F.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "40.9600000000"
+                }
+              }
+            },
+            "sku": "3MQHJKUUZSKTF82F",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Provisioned Throughput",
+        "attributes": {
+          "regionCode": "eu-central-2",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "Charge per Provisioned mbps",
+          "usagetype": "EUC2-EBS:VolumeP-Throughput.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "Europe (Zurich)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS Throughput"
+        },
+        "sku": "4DKUVHYMTW8GQVWE"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "4DKUVHYMTW8GQVWE.JRTCKXETXF": {
+            "priceDimensions": {
+              "4DKUVHYMTW8GQVWE.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GiBps-mo",
+                "endRange": "Inf",
+                "description": "$0.0571 per provisioned MiBps-month of gp3 - EU (Zurich)",
+                "appliesTo": [],
+                "rateCode": "4DKUVHYMTW8GQVWE.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "58.4909000000"
+                }
+              }
+            },
+            "sku": "4DKUVHYMTW8GQVWE",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Provisioned Throughput",
+        "attributes": {
+          "regionCode": "eu-north-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "Charge per Provisioned mbps",
+          "usagetype": "EUN1-EBS:VolumeP-Throughput.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "EU (Stockholm)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS Throughput"
+        },
+        "sku": "5S36SXRUX9DP4FTA"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "5S36SXRUX9DP4FTA.JRTCKXETXF": {
+            "priceDimensions": {
+              "5S36SXRUX9DP4FTA.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GiBps-mo",
+                "endRange": "Inf",
+                "description": "$0.0418 per provisioned MiBps-month of gp3 - EU (Stockholm)",
+                "appliesTo": [],
+                "rateCode": "5S36SXRUX9DP4FTA.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "42.8032000000"
+                }
+              }
+            },
+            "sku": "5S36SXRUX9DP4FTA",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Provisioned Throughput",
+        "attributes": {
+          "regionCode": "ap-southeast-3",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "Charge per Provisioned mbps",
+          "usagetype": "APS4-EBS:VolumeP-Throughput.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "Asia Pacific (Jakarta)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS Throughput"
+        },
+        "sku": "7SHTRUYFC89W7MDR"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "7SHTRUYFC89W7MDR.JRTCKXETXF": {
+            "priceDimensions": {
+              "7SHTRUYFC89W7MDR.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GiBps-mo",
+                "endRange": "Inf",
+                "description": "$0.048 per provisioned MiBps-month of gp3 - Asia Pacific (Jakarta)",
+                "appliesTo": [],
+                "rateCode": "7SHTRUYFC89W7MDR.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "49.1520000000"
+                }
+              }
+            },
+            "sku": "7SHTRUYFC89W7MDR",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Provisioned Throughput",
+        "attributes": {
+          "regionCode": "eu-south-2",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "Charge per Provisioned mbps",
+          "usagetype": "EUS2-EBS:VolumeP-Throughput.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "Europe (Spain)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS Throughput"
+        },
+        "sku": "8PJX6TYWPQTW3NG8"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "8PJX6TYWPQTW3NG8.JRTCKXETXF": {
+            "priceDimensions": {
+              "8PJX6TYWPQTW3NG8.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GiBps-mo",
+                "endRange": "Inf",
+                "description": "$0.044 per provisioned MiBps-month of gp3 - Europe (Spain)",
+                "appliesTo": [],
+                "rateCode": "8PJX6TYWPQTW3NG8.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "45.0560000000"
+                }
+              }
+            },
+            "sku": "8PJX6TYWPQTW3NG8",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Provisioned Throughput",
+        "attributes": {
+          "regionCode": "us-gov-east-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "Charge per Provisioned mbps",
+          "usagetype": "UGE1-EBS:VolumeP-Throughput.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "AWS GovCloud (US-East)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS Throughput"
+        },
+        "sku": "BYNCF9P5MCG8CJFT"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "BYNCF9P5MCG8CJFT.JRTCKXETXF": {
+            "priceDimensions": {
+              "BYNCF9P5MCG8CJFT.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GiBps-mo",
+                "endRange": "Inf",
+                "description": "$0.048 per provisioned MiBps-month of gp3 - AWS GovCloud (US-East)",
+                "appliesTo": [],
+                "rateCode": "BYNCF9P5MCG8CJFT.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "49.1520000000"
+                }
+              }
+            },
+            "sku": "BYNCF9P5MCG8CJFT",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Provisioned Throughput",
+        "attributes": {
+          "regionCode": "eu-west-3",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "Charge per Provisioned mbps",
+          "usagetype": "EUW3-EBS:VolumeP-Throughput.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "EU (Paris)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS Throughput"
+        },
+        "sku": "ECCXY6W938GADUAR"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "ECCXY6W938GADUAR.JRTCKXETXF": {
+            "priceDimensions": {
+              "ECCXY6W938GADUAR.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GiBps-mo",
+                "endRange": "Inf",
+                "description": "$0.0464 per provisioned MiBps-month of gp3 - EU (Paris)",
+                "appliesTo": [],
+                "rateCode": "ECCXY6W938GADUAR.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "47.5136000000"
+                }
+              }
+            },
+            "sku": "ECCXY6W938GADUAR",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Provisioned Throughput",
+        "attributes": {
+          "regionCode": "cn-northwest-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "Charge per Provisioned mbps",
+          "usagetype": "CNW1-EBS:VolumeP-Throughput.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "China (Ningxia)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS Throughput"
+        },
+        "sku": "FBPXJ443XKJSEZYB"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "FBPXJ443XKJSEZYB.5Y9WH78GDR": {
+            "priceDimensions": {
+              "FBPXJ443XKJSEZYB.5Y9WH78GDR.Q7UJUT2CE6": {
+                "unit": "GiBps-mo",
+                "endRange": "Inf",
+                "description": "0.2656 CNY per provisioned MiBps-month of gp3 - China (Ningxia)",
+                "appliesTo": [],
+                "rateCode": "FBPXJ443XKJSEZYB.5Y9WH78GDR.Q7UJUT2CE6",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "CNY": "271.9744000000"
+                }
+              }
+            },
+            "sku": "FBPXJ443XKJSEZYB",
+            "effectiveDate": "2023-11-01T00:00:00Z",
+            "offerTermCode": "5Y9WH78GDR",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231207201031",
+      "publicationDate": "2023-12-07T20:10:31Z"
+    },
+    {
+      "product": {
+        "productFamily": "Provisioned Throughput",
+        "attributes": {
+          "regionCode": "af-south-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "Charge per Provisioned mbps",
+          "usagetype": "AFS1-EBS:VolumeP-Throughput.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "Africa (Cape Town)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS Throughput"
+        },
+        "sku": "FWHQXWN7NJCUZGA8"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "FWHQXWN7NJCUZGA8.JRTCKXETXF": {
+            "priceDimensions": {
+              "FWHQXWN7NJCUZGA8.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GiBps-mo",
+                "endRange": "Inf",
+                "description": "$0.0524 per provisioned MiBps-month of gp3 - Africa (Cape Town)",
+                "appliesTo": [],
+                "rateCode": "FWHQXWN7NJCUZGA8.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "53.6576000000"
+                }
+              }
+            },
+            "sku": "FWHQXWN7NJCUZGA8",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Provisioned Throughput",
+        "attributes": {
+          "regionCode": "ap-south-2",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "Charge per Provisioned mbps",
+          "usagetype": "APS5-EBS:VolumeP-Throughput.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "Asia Pacific (Hyderabad)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS Throughput"
+        },
+        "sku": "G9JPGUB59TASMHPQ"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "G9JPGUB59TASMHPQ.JRTCKXETXF": {
+            "priceDimensions": {
+              "G9JPGUB59TASMHPQ.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GiBps-mo",
+                "endRange": "Inf",
+                "description": "$0.0456 per provisioned MiBps-month of gp3 - Asia Pacific (Hyderabad)",
+                "appliesTo": [],
+                "rateCode": "G9JPGUB59TASMHPQ.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "46.6944000000"
+                }
+              }
+            },
+            "sku": "G9JPGUB59TASMHPQ",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Provisioned Throughput",
+        "attributes": {
+          "regionCode": "us-gov-west-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "Charge per Provisioned mbps",
+          "usagetype": "UGW1-EBS:VolumeP-Throughput.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "AWS GovCloud (US-West)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS Throughput"
+        },
+        "sku": "GDN4U5CUQSYN48S4"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "GDN4U5CUQSYN48S4.JRTCKXETXF": {
+            "priceDimensions": {
+              "GDN4U5CUQSYN48S4.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GiBps-mo",
+                "endRange": "Inf",
+                "description": "$0.048 per provisioned MiBps-month of gp3 - AWS GovCloud (US-West)",
+                "appliesTo": [],
+                "rateCode": "GDN4U5CUQSYN48S4.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "49.1520000000"
+                }
+              }
+            },
+            "sku": "GDN4U5CUQSYN48S4",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Provisioned Throughput",
+        "attributes": {
+          "regionCode": "eu-central-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "Charge per Provisioned mbps",
+          "usagetype": "EUC1-EBS:VolumeP-Throughput.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "EU (Frankfurt)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS Throughput"
+        },
+        "sku": "GRZF7WF5ECWS5FS2"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "GRZF7WF5ECWS5FS2.JRTCKXETXF": {
+            "priceDimensions": {
+              "GRZF7WF5ECWS5FS2.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GiBps-mo",
+                "endRange": "Inf",
+                "description": "$0.0476 per provisioned MiBps-month of gp3 - EU (Frankfurt)",
+                "appliesTo": [],
+                "rateCode": "GRZF7WF5ECWS5FS2.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "48.7424000000"
+                }
+              }
+            },
+            "sku": "GRZF7WF5ECWS5FS2",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Provisioned Throughput",
+        "attributes": {
+          "regionCode": "me-central-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "Charge per Provisioned mbps",
+          "usagetype": "MEC1-EBS:VolumeP-Throughput.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "Middle East (UAE)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS Throughput"
+        },
+        "sku": "H97ZGASNKRE2ZX9T"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "H97ZGASNKRE2ZX9T.JRTCKXETXF": {
+            "priceDimensions": {
+              "H97ZGASNKRE2ZX9T.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GiBps-mo",
+                "endRange": "Inf",
+                "description": "$0.0484 per provisioned MiBps-month of gp3 - Middle East (UAE)",
+                "appliesTo": [],
+                "rateCode": "H97ZGASNKRE2ZX9T.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "49.5616000000"
+                }
+              }
+            },
+            "sku": "H97ZGASNKRE2ZX9T",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Provisioned Throughput",
+        "attributes": {
+          "regionCode": "us-west-2-lax-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "Charge per Provisioned mbps",
+          "usagetype": "LAX1-EBS:VolumeP-Throughput.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "US West (Los Angeles)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS Throughput"
+        },
+        "sku": "HDAHKACCQCWGRVXD"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "HDAHKACCQCWGRVXD.JRTCKXETXF": {
+            "priceDimensions": {
+              "HDAHKACCQCWGRVXD.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GiBps-mo",
+                "endRange": "Inf",
+                "description": "$0.048 per provisioned MiBps-month of gp3 - US West (Los Angeles)",
+                "appliesTo": [],
+                "rateCode": "HDAHKACCQCWGRVXD.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "49.1520000000"
+                }
+              }
+            },
+            "sku": "HDAHKACCQCWGRVXD",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Provisioned Throughput",
+        "attributes": {
+          "regionCode": "ap-south-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "Charge per Provisioned mbps",
+          "usagetype": "APS3-EBS:VolumeP-Throughput.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "Asia Pacific (Mumbai)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS Throughput"
+        },
+        "sku": "HGAVKXXEGDAUDG37"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "HGAVKXXEGDAUDG37.JRTCKXETXF": {
+            "priceDimensions": {
+              "HGAVKXXEGDAUDG37.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GiBps-mo",
+                "endRange": "Inf",
+                "description": "$0.0456 per provisioned MiBps-month of gp3 - Asia Pacific (Mumbai)",
+                "appliesTo": [],
+                "rateCode": "HGAVKXXEGDAUDG37.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "46.6944000000"
+                }
+              }
+            },
+            "sku": "HGAVKXXEGDAUDG37",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Provisioned Throughput",
+        "attributes": {
+          "regionCode": "sa-east-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "Charge per Provisioned mbps",
+          "usagetype": "SAE1-EBS:VolumeP-Throughput.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "South America (Sao Paulo)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS Throughput"
+        },
+        "sku": "JEM6BW8EWZ5J2NU6"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "JEM6BW8EWZ5J2NU6.JRTCKXETXF": {
+            "priceDimensions": {
+              "JEM6BW8EWZ5J2NU6.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GiBps-mo",
+                "endRange": "Inf",
+                "description": "$0.076 per provisioned MiBps-month of gp3 - South America (Sao Paulo)",
+                "appliesTo": [],
+                "rateCode": "JEM6BW8EWZ5J2NU6.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "77.8240000000"
+                }
+              }
+            },
+            "sku": "JEM6BW8EWZ5J2NU6",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Provisioned Throughput",
+        "attributes": {
+          "regionCode": "ap-southeast-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "Charge per Provisioned mbps",
+          "usagetype": "APS1-EBS:VolumeP-Throughput.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "Asia Pacific (Singapore)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS Throughput"
+        },
+        "sku": "KCVPP3N98SG7VR3P"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "KCVPP3N98SG7VR3P.JRTCKXETXF": {
+            "priceDimensions": {
+              "KCVPP3N98SG7VR3P.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GiBps-mo",
+                "endRange": "Inf",
+                "description": "$0.048 per provisioned MiBps-month of gp3 - Asia Pacific (Singapore)",
+                "appliesTo": [],
+                "rateCode": "KCVPP3N98SG7VR3P.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "49.1520000000"
+                }
+              }
+            },
+            "sku": "KCVPP3N98SG7VR3P",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Provisioned Throughput",
+        "attributes": {
+          "regionCode": "us-east-2",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "Charge per Provisioned mbps",
+          "usagetype": "USE2-EBS:VolumeP-Throughput.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "US East (Ohio)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS Throughput"
+        },
+        "sku": "KZJJ34U6VU5DJ9CM"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "KZJJ34U6VU5DJ9CM.JRTCKXETXF": {
+            "priceDimensions": {
+              "KZJJ34U6VU5DJ9CM.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GiBps-mo",
+                "endRange": "Inf",
+                "description": "$0.04 per provisioned MiBps-month of gp3 - US East (Ohio)",
+                "appliesTo": [],
+                "rateCode": "KZJJ34U6VU5DJ9CM.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "40.9600000000"
+                }
+              }
+            },
+            "sku": "KZJJ34U6VU5DJ9CM",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Provisioned Throughput",
+        "attributes": {
+          "regionCode": "ap-southeast-4",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "Charge per Provisioned mbps",
+          "usagetype": "APS6-EBS:VolumeP-Throughput.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "Asia Pacific (Melbourne)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS Throughput"
+        },
+        "sku": "MHAYZZVFKDRG5GPG"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "MHAYZZVFKDRG5GPG.JRTCKXETXF": {
+            "priceDimensions": {
+              "MHAYZZVFKDRG5GPG.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GiBps-mo",
+                "endRange": "Inf",
+                "description": "$0.048 per provisioned MiBps-month of gp3 - Asia Pacific (Melbourne)",
+                "appliesTo": [],
+                "rateCode": "MHAYZZVFKDRG5GPG.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "49.1520000000"
+                }
+              }
+            },
+            "sku": "MHAYZZVFKDRG5GPG",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Provisioned Throughput",
+        "attributes": {
+          "regionCode": "ap-southeast-2",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "Charge per Provisioned mbps",
+          "usagetype": "APS2-EBS:VolumeP-Throughput.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "Asia Pacific (Sydney)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS Throughput"
+        },
+        "sku": "NR674TZUSQXFCVM8"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "NR674TZUSQXFCVM8.JRTCKXETXF": {
+            "priceDimensions": {
+              "NR674TZUSQXFCVM8.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GiBps-mo",
+                "endRange": "Inf",
+                "description": "$0.048 per provisioned MiBps-month of gp3 - Asia Pacific (Sydney)",
+                "appliesTo": [],
+                "rateCode": "NR674TZUSQXFCVM8.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "49.1520000000"
+                }
+              }
+            },
+            "sku": "NR674TZUSQXFCVM8",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Provisioned Throughput",
+        "attributes": {
+          "regionCode": "ap-northeast-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "Charge per Provisioned mbps",
+          "usagetype": "APN1-EBS:VolumeP-Throughput.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "Asia Pacific (Tokyo)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS Throughput"
+        },
+        "sku": "PCKHHBTPD7TEQ3K4"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "PCKHHBTPD7TEQ3K4.JRTCKXETXF": {
+            "priceDimensions": {
+              "PCKHHBTPD7TEQ3K4.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GiBps-mo",
+                "endRange": "Inf",
+                "description": "$0.048 per provisioned MiBps-month of gp3 - Asia Pacific (Tokyo)",
+                "appliesTo": [],
+                "rateCode": "PCKHHBTPD7TEQ3K4.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "49.1520000000"
+                }
+              }
+            },
+            "sku": "PCKHHBTPD7TEQ3K4",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Provisioned Throughput",
+        "attributes": {
+          "regionCode": "ap-east-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "Charge per Provisioned mbps",
+          "usagetype": "APE1-EBS:VolumeP-Throughput.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "Asia Pacific (Hong Kong)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS Throughput"
+        },
+        "sku": "PNNBRM288GTNEN6C"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "PNNBRM288GTNEN6C.JRTCKXETXF": {
+            "priceDimensions": {
+              "PNNBRM288GTNEN6C.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GiBps-mo",
+                "endRange": "Inf",
+                "description": "$0.0528 per provisioned MiBps-month of gp3 - Asia Pacific (Hong Kong)",
+                "appliesTo": [],
+                "rateCode": "PNNBRM288GTNEN6C.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "54.0672000000"
+                }
+              }
+            },
+            "sku": "PNNBRM288GTNEN6C",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Provisioned Throughput",
+        "attributes": {
+          "regionCode": "me-south-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "Charge per Provisioned mbps",
+          "usagetype": "MES1-EBS:VolumeP-Throughput.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "Middle East (Bahrain)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS Throughput"
+        },
+        "sku": "Q26FCXHZSFFFH5DY"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "Q26FCXHZSFFFH5DY.JRTCKXETXF": {
+            "priceDimensions": {
+              "Q26FCXHZSFFFH5DY.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GiBps-mo",
+                "endRange": "Inf",
+                "description": "$0.0484 per provisioned MiBps-month of gp3 - Middle East (Bahrain)",
+                "appliesTo": [],
+                "rateCode": "Q26FCXHZSFFFH5DY.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "49.5616000000"
+                }
+              }
+            },
+            "sku": "Q26FCXHZSFFFH5DY",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Provisioned Throughput",
+        "attributes": {
+          "regionCode": "ap-northeast-2",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "Charge per Provisioned mbps",
+          "usagetype": "APN2-EBS:VolumeP-Throughput.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "Asia Pacific (Seoul)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS Throughput"
+        },
+        "sku": "Q48V7C4BM3UCSZMQ"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "Q48V7C4BM3UCSZMQ.JRTCKXETXF": {
+            "priceDimensions": {
+              "Q48V7C4BM3UCSZMQ.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GiBps-mo",
+                "endRange": "Inf",
+                "description": "$0.0456 per provisioned MiBps-month of gp3 - Asia Pacific (Seoul)",
+                "appliesTo": [],
+                "rateCode": "Q48V7C4BM3UCSZMQ.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "46.6944000000"
+                }
+              }
+            },
+            "sku": "Q48V7C4BM3UCSZMQ",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Provisioned Throughput",
+        "attributes": {
+          "regionCode": "ap-northeast-3",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "Charge per Provisioned mbps",
+          "usagetype": "APN3-EBS:VolumeP-Throughput.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "Asia Pacific (Osaka)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS Throughput"
+        },
+        "sku": "Q7JJVGKBJ8C7QZRF"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "Q7JJVGKBJ8C7QZRF.JRTCKXETXF": {
+            "priceDimensions": {
+              "Q7JJVGKBJ8C7QZRF.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GiBps-mo",
+                "endRange": "Inf",
+                "description": "$0.048 per provisioned MiBps-month of gp3 - Asia Pacific (Osaka)",
+                "appliesTo": [],
+                "rateCode": "Q7JJVGKBJ8C7QZRF.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "49.1520000000"
+                }
+              }
+            },
+            "sku": "Q7JJVGKBJ8C7QZRF",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Provisioned Throughput",
+        "attributes": {
+          "regionCode": "eu-west-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "Charge per Provisioned mbps",
+          "usagetype": "EU-EBS:VolumeP-Throughput.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "EU (Ireland)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS Throughput"
+        },
+        "sku": "RCDVGPFWPEZE4D4N"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "RCDVGPFWPEZE4D4N.JRTCKXETXF": {
+            "priceDimensions": {
+              "RCDVGPFWPEZE4D4N.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GiBps-mo",
+                "endRange": "Inf",
+                "description": "$0.044 per provisioned MiBps-month of gp3 - EU (Ireland)",
+                "appliesTo": [],
+                "rateCode": "RCDVGPFWPEZE4D4N.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "45.0560000000"
+                }
+              }
+            },
+            "sku": "RCDVGPFWPEZE4D4N",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Provisioned Throughput",
+        "attributes": {
+          "regionCode": "us-east-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "Charge per Provisioned mbps",
+          "usagetype": "EBS:VolumeP-Throughput.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "US East (N. Virginia)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS Throughput"
+        },
+        "sku": "SQUFRQX4K92S4SBB"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "SQUFRQX4K92S4SBB.JRTCKXETXF": {
+            "priceDimensions": {
+              "SQUFRQX4K92S4SBB.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GiBps-mo",
+                "endRange": "Inf",
+                "description": "$0.04 per provisioned MiBps-month of gp3 - US East (N. Virginia)",
+                "appliesTo": [],
+                "rateCode": "SQUFRQX4K92S4SBB.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "40.9600000000"
+                }
+              }
+            },
+            "sku": "SQUFRQX4K92S4SBB",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Provisioned Throughput",
+        "attributes": {
+          "regionCode": "il-central-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "Charge per Provisioned mbps",
+          "usagetype": "ILC1-EBS:VolumeP-Throughput.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "Israel (Tel Aviv)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS Throughput"
+        },
+        "sku": "SXQU5CT8JU26YA2P"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "SXQU5CT8JU26YA2P.JRTCKXETXF": {
+            "priceDimensions": {
+              "SXQU5CT8JU26YA2P.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GiBps-mo",
+                "endRange": "Inf",
+                "description": "$0.0528 per provisioned MiBps-month of gp3 - Israel (Tel Aviv)",
+                "appliesTo": [],
+                "rateCode": "SXQU5CT8JU26YA2P.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "54.0672000000"
+                }
+              }
+            },
+            "sku": "SXQU5CT8JU26YA2P",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Provisioned Throughput",
+        "attributes": {
+          "regionCode": "cn-north-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "Charge per Provisioned mbps",
+          "usagetype": "CNN1-EBS:VolumeP-Throughput.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "China (Beijing)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS Throughput"
+        },
+        "sku": "UDCG82VR5XFD2WP3"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "UDCG82VR5XFD2WP3.99YE2YK9UR": {
+            "priceDimensions": {
+              "UDCG82VR5XFD2WP3.99YE2YK9UR.Q7UJUT2CE6": {
+                "unit": "GiBps-mo",
+                "endRange": "Inf",
+                "description": "0.2984 CNY per provisioned MiBps-month of gp3 - China (Beijing)",
+                "appliesTo": [],
+                "rateCode": "UDCG82VR5XFD2WP3.99YE2YK9UR.Q7UJUT2CE6",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "CNY": "305.5616000000"
+                }
+              }
+            },
+            "sku": "UDCG82VR5XFD2WP3",
+            "effectiveDate": "2023-11-01T00:00:00Z",
+            "offerTermCode": "99YE2YK9UR",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231207201031",
+      "publicationDate": "2023-12-07T20:10:31Z"
+    },
+    {
+      "product": {
+        "productFamily": "Provisioned Throughput",
+        "attributes": {
+          "regionCode": "us-east-1-dfw-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "Charge per Provisioned mbps",
+          "usagetype": "DFW1-EBS:VolumeP-Throughput.gp3",
+          "locationType": "AWS Local Zone",
+          "volumeApiName": "gp3",
+          "location": "US East (Dallas)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS Throughput"
+        },
+        "sku": "UNCKMBTGVGGCNK8Z"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "UNCKMBTGVGGCNK8Z.JRTCKXETXF": {
+            "priceDimensions": {
+              "UNCKMBTGVGGCNK8Z.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GiBps-mo",
+                "endRange": "Inf",
+                "description": "$0.060 per provisioned MiBps-month of gp3 - US East (Dallas)",
+                "appliesTo": [],
+                "rateCode": "UNCKMBTGVGGCNK8Z.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "61.4400000000"
+                }
+              }
+            },
+            "sku": "UNCKMBTGVGGCNK8Z",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Provisioned Throughput",
+        "attributes": {
+          "regionCode": "eu-west-2",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "Charge per Provisioned mbps",
+          "usagetype": "EUW2-EBS:VolumeP-Throughput.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "EU (London)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS Throughput"
+        },
+        "sku": "URJN7Z499DZB27UN"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "URJN7Z499DZB27UN.JRTCKXETXF": {
+            "priceDimensions": {
+              "URJN7Z499DZB27UN.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GiBps-mo",
+                "endRange": "Inf",
+                "description": "$0.0464 per provisioned MiBps-month of gp3 - EU (London)",
+                "appliesTo": [],
+                "rateCode": "URJN7Z499DZB27UN.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "47.5136000000"
+                }
+              }
+            },
+            "sku": "URJN7Z499DZB27UN",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Provisioned Throughput",
+        "attributes": {
+          "regionCode": "us-west-2-phx-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "Charge per Provisioned mbps",
+          "usagetype": "PHX1-EBS:VolumeP-Throughput.gp3",
+          "locationType": "AWS Local Zone",
+          "volumeApiName": "gp3",
+          "location": "US West (Phoenix)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS Throughput"
+        },
+        "sku": "VYMJTDQJGH7NF6DP"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "VYMJTDQJGH7NF6DP.JRTCKXETXF": {
+            "priceDimensions": {
+              "VYMJTDQJGH7NF6DP.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GiBps-mo",
+                "endRange": "Inf",
+                "description": "$0.060 per provisioned MiBps-month of gp3 - US West (Phoenix)",
+                "appliesTo": [],
+                "rateCode": "VYMJTDQJGH7NF6DP.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "61.4400000000"
+                }
+              }
+            },
+            "sku": "VYMJTDQJGH7NF6DP",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Provisioned Throughput",
+        "attributes": {
+          "regionCode": "ca-central-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "Charge per Provisioned mbps",
+          "usagetype": "CAN1-EBS:VolumeP-Throughput.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "Canada (Central)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS Throughput"
+        },
+        "sku": "VZ2BZZ3HA56WFNDY"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "VZ2BZZ3HA56WFNDY.JRTCKXETXF": {
+            "priceDimensions": {
+              "VZ2BZZ3HA56WFNDY.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GiBps-mo",
+                "endRange": "Inf",
+                "description": "$0.044 per provisioned MiBps-month of gp3 - Canada (Central)",
+                "appliesTo": [],
+                "rateCode": "VZ2BZZ3HA56WFNDY.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "45.0560000000"
+                }
+              }
+            },
+            "sku": "VZ2BZZ3HA56WFNDY",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "Provisioned Throughput",
+        "attributes": {
+          "regionCode": "us-west-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "Charge per Provisioned mbps",
+          "usagetype": "USW1-EBS:VolumeP-Throughput.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "US West (N. California)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS Throughput"
+        },
+        "sku": "ZDC2V7MBY9Z73F7V"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "ZDC2V7MBY9Z73F7V.JRTCKXETXF": {
+            "priceDimensions": {
+              "ZDC2V7MBY9Z73F7V.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "GiBps-mo",
+                "endRange": "Inf",
+                "description": "$0.048 per provisioned MiBps-month of gp3 - US West (N. California)",
+                "appliesTo": [],
+                "rateCode": "ZDC2V7MBY9Z73F7V.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "49.1520000000"
+                }
+              }
+            },
+            "sku": "ZDC2V7MBY9Z73F7V",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    }
+  ]
+}

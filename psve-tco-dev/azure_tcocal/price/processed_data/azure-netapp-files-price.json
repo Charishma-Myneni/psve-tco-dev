@@ -1,0 +1,84 @@
+{
+    "southcentralus": {
+      "pay-as-you-go": {
+        "Ultra": {
+          "currencyCode": "USD",
+          "tierMinimumUnits": 0,
+          "retailPrice": 0.000538,
+          "unitPrice": 0.000538,
+          "armRegionName": "southcentralus",
+          "location": "US South Central",
+          "effectiveStartDate": "2019-05-28T00:00:00Z",
+          "meterId": "6ef1d812-7cea-45d5-b472-445115b58850",
+          "meterName": "Ultra Capacity",
+          "productId": "DZH318Z0BXV9",
+          "skuId": "DZH318Z0BXV9/001B",
+          "productName": "Azure NetApp Files",
+          "skuName": "Ultra",
+          "serviceName": "Azure NetApp Files",
+          "serviceId": "DZH3147RZ57L",
+          "serviceFamily": "Storage",
+          "unitOfMeasure": "1 GiB/Hour",
+          "type": "Consumption",
+          "isPrimaryMeterRegion": "Ture",
+          "armSkuName": ""
+        },
+        "Premium": {
+          "currencyCode": "USD",
+          "tierMinimumUnits": 0,
+          "retailPrice": 0.000403,
+          "unitPrice": 0.000403,
+          "armRegionName": "southcentralus",
+          "location": "US South Central",
+          "effectiveStartDate": "2019-05-28T00:00:00Z",
+          "meterId": "176561b7-1150-44a7-88f5-b3dac23ded1a",
+          "meterName": "Premium Capacity",
+          "productId": "DZH318Z0BXV9",
+          "skuId": "DZH318Z0BXV9/000V",
+          "productName": "Azure NetApp Files",
+          "skuName": "Premium",
+          "serviceName": "Azure NetApp Files",
+          "serviceId": "DZH3147RZ57L",
+          "serviceFamily": "Storage",
+          "unitOfMeasure": "1 GiB/Hour",
+          "type": "Consumption",
+          "isPrimaryMeterRegion": "Ture",
+          "armSkuName": ""
+        },
+        "Standard": {
+          "currencyCode": "USD",
+          "tierMinimumUnits": 0,
+          "retailPrice": 0.000202,
+          "unitPrice": 0.000202,
+          "armRegionName": "southcentralus",
+          "location": "US South Central",
+          "effectiveStartDate": "2019-05-28T00:00:00Z",
+          "meterId": "d3a78d5e-5532-42db-bab2-d433ea3ed649",
+          "meterName": "Standard Capacity",
+          "productId": "DZH318Z0BXV9",
+          "skuId": "DZH318Z0BXV9/0023",
+          "productName": "Azure NetApp Files",
+          "skuName": "Standard",
+          "serviceName": "Azure NetApp Files",
+          "serviceId": "DZH3147RZ57L",
+          "serviceFamily": "Storage",
+          "unitOfMeasure": "1 GiB/Hour",
+          "type": "Consumption",
+          "isPrimaryMeterRegion": "Ture",
+          "armSkuName": ""
+        }
+      },
+      "performance": {
+        "Ultra": {
+            "base_perf": "128MiB/s per TiB"
+        },
+        "Premium": {
+            "base_perf": "64MiB/s per TiB"
+        },
+        "Standard": {
+            "base_perf": "16MiB/s per TiB"
+        }
+      },
+      "location": "US South Central"  
+    }
+  }

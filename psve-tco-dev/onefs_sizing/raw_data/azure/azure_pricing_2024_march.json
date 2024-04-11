@@ -1,0 +1,42 @@
+{
+    "vm-hourly-cost": {
+        "ddsv5": {
+            "Standard_D32ds_v5": 1.808,
+            "Standard_D48ds_v5": 2.712, 
+            "Standard_D64ds_v5": 3.616, 
+            "Standard_D96ds_v5": 5.424
+        },
+        "edsv5": {
+            "Standard_E32ds_v5": 2.304, 
+            "Standard_E48ds_v5": 3.456, 
+            "Standard_E64ds_v5": 4.608, 
+            "Standard_E96ds_v5": 6.912, 
+            "Standard_E104ids_v5": 8.237
+        }    
+    },
+    "volume-hourly-cost": {
+        "premium-ssd": {
+            "p20": 0.1003, 
+            "p30": 0.1852,
+            "p40": 0.3549, 
+            "p50": 0.6789, 
+            "p60": 1.2960, 
+            "p70": 2.4686
+        },        
+        "standard-ssd": {
+            "e20": 0.0526, 
+            "e30": 0.1052, 
+            "e40": 0.2104, 
+            "e50": 0.4208, 
+            "e60": 0.8416, 
+            "e70": 1.6833
+        },
+        "standard-hdd": {
+            "s40": 0.1066, 
+            "s50": 0.1964, 
+            "s60": 0.3591, 
+            "s70": 0.6733
+        }
+    }
+}
+

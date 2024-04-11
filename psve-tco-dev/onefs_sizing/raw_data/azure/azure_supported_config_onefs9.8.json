@@ -1,0 +1,148 @@
+{
+    "instance-families": {
+        "ddv5": [
+            "Standard_D32d_v5", "Standard_D48d_v5", "Standard_D64d_v5", "Standard_D96d_v5"
+        ],
+        "edv5": [
+            "Standard_E32d_v5", "Standard_E48d_v5", "Standard_E64d_v5", "Standard_E96d_v5"
+        ],
+        "ddsv5": [
+            "Standard_D32ds_v5", "Standard_D48ds_v5", "Standard_D64ds_v5", "Standard_D96ds_v5"
+        ], 
+        "edsv5": [
+            "Standard_E32ds_v5", "Standard_E48ds_v5", "Standard_E64ds_v5", "Standard_E96ds_v5", "Standard_E104ids_v5"
+        ]
+    },
+    "node-count": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18],    
+    "volumn-count-per-node": [5, 6, 10, 12, 15, 18, 20, 24, 25, 30],
+    "protection-level": ["+2n", "+2d:1n"],
+    "efficiency": {
+        "+2n":{
+            "4": 0.5,
+            "5": 0.6,
+            "6": 0.67,
+            "7": 0.71,
+            "8": 0.75,
+            "9": 0.78,
+            "10": 0.8,
+            "11": 0.82,
+            "12": 0.83,
+            "13": 0.85,
+            "14": 0.86,
+            "15": 0.87,
+            "16": 0.87,
+            "17": 0.88,
+            "18": 0.89
+        },
+        "+2d:1n":{
+            "4": 0.75,
+            "5": 0.8,
+            "6": 0.83,
+            "7": 0.86,
+            "8": 0.87,
+            "9": 0.89,
+            "10": 0.89,
+            "11": 0.89,
+            "12": 0.89,
+            "13": 0.89,
+            "14": 0.89,
+            "15": 0.89,
+            "16": 0.89,
+            "17": 0.89,
+            "18": 0.89
+        }
+    },
+    "volumn-types": {
+        "premium-ssd": {
+            "p20": {
+                "min-cluster-size-tib": 10,
+                "max-cluster-size-2d1n-tib": 840,
+                "max-cluster-size-2n-tib": 2160
+            }, 
+            "p30": {
+                "min-cluster-size-tib": 10,
+                "max-cluster-size-2d1n-tib": 840,
+                "max-cluster-size-2n-tib": 2160
+            },
+            "p40":{
+                "min-cluster-size-tib": 10,
+                "max-cluster-size-2d1n-tib": 840,
+                "max-cluster-size-2n-tib": 2160
+            }, 
+            "p50": {
+                "min-cluster-size-tib": 10,
+                "max-cluster-size-2d1n-tib": 840,
+                "max-cluster-size-2n-tib": 2160
+            }, 
+            "p60": {
+                "min-cluster-size-tib": 160,
+                "max-cluster-size-2d1n-tib": 1440,
+                "max-cluster-size-2n-tib": 5760
+            }, 
+            "p70": {
+                "min-cluster-size-tib": 160,
+                "max-cluster-size-2d1n-tib": 1440,
+                "max-cluster-size-2n-tib": 5760
+            }
+        },        
+        "standard-ssd": {
+            "e20":{
+                "min-cluster-size-tib": 10,
+                "max-cluster-size-2d1n-tib": 240,
+                "max-cluster-size-2n-tib": 2160
+            }, 
+            "e30":{
+                "min-cluster-size-tib": 10,
+                "max-cluster-size-2d1n-tib": 240,
+                "max-cluster-size-2n-tib": 2160
+            }, 
+            "e40":{
+                "min-cluster-size-tib": 10,
+                "max-cluster-size-2d1n-tib": 240,
+                "max-cluster-size-2n-tib": 2160
+            }, 
+            "e50":{
+                "min-cluster-size-tib": 10,
+                "max-cluster-size-2d1n-tib": 240,
+                "max-cluster-size-2n-tib": 2160
+            }, 
+            "e60":{
+                "min-cluster-size-tib": 160,
+                "max-cluster-size-2d1n-tib": 800,
+                "max-cluster-size-2n-tib": 4320
+            }, 
+            "e70":{
+                "min-cluster-size-tib": 320,
+                "max-cluster-size-2d1n-tib": 1600,
+                "max-cluster-size-2n-tib": 5760
+            }
+        },
+        "standard-hdd": {
+            "s40":{
+                "min-cluster-size-tib": 40,
+                "max-cluster-size-2d1n-tib": 280,
+                "max-cluster-size-2n-tib": 2160
+            }, 
+            "s50":{
+                "min-cluster-size-tib": 40,
+                "max-cluster-size-2d1n-tib": 280,
+                "max-cluster-size-2n-tib": 2160
+            }, 
+            "s60":{
+                "min-cluster-size-tib": 160,
+                "max-cluster-size-2d1n-tib": 800,
+                "max-cluster-size-2n-tib": 4320
+            }, 
+            "s70":{
+                "min-cluster-size-tib": 320,
+                "max-cluster-size-2d1n-tib": 1120,
+                "max-cluster-size-2n-tib": 5760
+            }
+        }        
+    },
+    "minimum-cluster-size-tib": {
+        "premium-ssd": 10,
+        "standard-ssd": 10,
+        "standard-hdd": 40
+    }
+}

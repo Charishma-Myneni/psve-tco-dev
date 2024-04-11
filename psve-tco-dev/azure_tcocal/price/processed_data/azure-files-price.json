@@ -1,0 +1,18 @@
+{
+  "southcentralus": {
+    "premium_ssd_LRS": {
+      "pay-as-you-go": {},
+      "reservation": {
+        "1 Year": [
+          {"currencyCode": "USD", "tierMinimumUnits": 0.0, "reservationTerm": "1 Year", "retailPrice": 19346.0, "unitPrice": 19346.0, "armRegionName": "southcentralus", "location": "US South Central", "effectiveStartDate": "2021-03-01T00: 00: 00Z", "meterId": "18db673f-f697-46f8-9ce1-66dcd46a8034", "meterName": "Provisioned", "productId": "DZH318Z08WSD", "skuId": "DZH318Z08WSD/003G", "productName": "Premium Files Reserved Capacity", "skuName": "Premium LRS - 10 TB", "serviceName": "Storage", "serviceId": "DZH317F1HKN0", "serviceFamily": "Storage", "unitOfMeasure": "1 GB/Month", "type": "Reservation", "isPrimaryMeterRegion": "False", "armSkuName": "Premium_LRS_Provisioned_10 TB"},
+          {"currencyCode": "USD", "tierMinimumUnits": 0.0, "reservationTerm": "1 Year", "retailPrice": 184025.0, "unitPrice": 184025.0, "armRegionName": "southcentralus", "location": "US South Central", "effectiveStartDate": "2021-03-01T00: 00: 00Z", "meterId": "18db673f-f697-46f8-9ce1-66dcd46a8034", "meterName": "Provisioned", "productId": "DZH318Z08WSD", "skuId": "DZH318Z08WSD/0035", "productName": "Premium Files Reserved Capacity", "skuName": "Premium LRS - 100 TB", "serviceName": "Storage", "serviceId": "DZH317F1HKN0", "serviceFamily": "Storage", "unitOfMeasure": "1 GB/Month", "type": "Reservation", "isPrimaryMeterRegion": "False", "armSkuName": "Premium_LRS_Provisioned_100 TB"}
+        ],
+        "3 Years": [
+          {"currencyCode": "USD", "tierMinimumUnits": 0.0, "reservationTerm": "3 Years", "retailPrice": 46714.0, "unitPrice": 46714.0, "armRegionName": "southcentralus", "location": "US South Central", "effectiveStartDate": "2021-03-01T00: 00: 00Z", "meterId": "18db673f-f697-46f8-9ce1-66dcd46a8034", "meterName": "Provisioned", "productId": "DZH318Z08WSD", "skuId": "DZH318Z08WSD/003F", "productName": "Premium Files Reserved Capacity", "skuName": "Premium LRS - 10 TB", "serviceName": "Storage", "serviceId": "DZH317F1HKN0", "serviceFamily": "Storage", "unitOfMeasure": "1 GB/Month", "type": "Reservation", "isPrimaryMeterRegion": "False", "armSkuName": "Premium_LRS_Provisioned_10 TB"},
+          {"currencyCode": "USD", "tierMinimumUnits": 0.0, "reservationTerm": "3 Years", "retailPrice": 452985.0, "unitPrice": 452985.0, "armRegionName": "southcentralus", "location": "US South Central", "effectiveStartDate": "2021-03-01T00: 00: 00Z", "meterId": "18db673f-f697-46f8-9ce1-66dcd46a8034", "meterName": "Provisioned", "productId": "DZH318Z08WSD", "skuId": "DZH318Z08WSD/0031", "productName": "Premium Files Reserved Capacity", "skuName": "Premium LRS - 100 TB", "serviceName": "Storage", "serviceId": "DZH317F1HKN0", "serviceFamily": "Storage", "unitOfMeasure": "1 GB/Month", "type": "Reservation", "isPrimaryMeterRegion": "False", "armSkuName": "Premium_LRS_Provisioned_100 TB"}
+        ]
+      }
+    }, 
+    "location": "US South Central"  
+  }
+}

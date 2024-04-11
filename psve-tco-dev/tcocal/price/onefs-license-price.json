@@ -1,0 +1,10 @@
+{
+    "1-year" : {
+        "price" : 2.39,
+        "unit" : "GiB(raw)"
+    },
+    "3-years" : {
+        "price" : 5.87,
+        "unit" : "GiB(raw)"
+    }
+}

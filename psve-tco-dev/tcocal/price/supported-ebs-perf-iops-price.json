@@ -1,0 +1,1579 @@
+{
+  "PriceList": [
+    {
+      "product": {
+        "productFamily": "System Operation",
+        "attributes": {
+          "regionCode": "ap-southeast-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "IOPS",
+          "usagetype": "APS1-EBS:VolumeP-IOPS.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "Asia Pacific (Singapore)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS IOPS"
+        },
+        "sku": "2E2UPG87QNW3YXTR"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "2E2UPG87QNW3YXTR.JRTCKXETXF": {
+            "priceDimensions": {
+              "2E2UPG87QNW3YXTR.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "IOPS-Mo",
+                "endRange": "Inf",
+                "description": "$0.006 per provisioned IOPS-month of gp3 - Asia Pacific (Singapore)",
+                "appliesTo": [],
+                "rateCode": "2E2UPG87QNW3YXTR.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0060000000"
+                }
+              }
+            },
+            "sku": "2E2UPG87QNW3YXTR",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "System Operation",
+        "attributes": {
+          "regionCode": "me-south-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "IOPS",
+          "usagetype": "MES1-EBS:VolumeP-IOPS.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "Middle East (Bahrain)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS IOPS"
+        },
+        "sku": "2H496W5RURD42PD5"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "2H496W5RURD42PD5.JRTCKXETXF": {
+            "priceDimensions": {
+              "2H496W5RURD42PD5.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "IOPS-Mo",
+                "endRange": "Inf",
+                "description": "$0.0061 per provisioned IOPS-month of gp3 - Middle East (Bahrain)",
+                "appliesTo": [],
+                "rateCode": "2H496W5RURD42PD5.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0061000000"
+                }
+              }
+            },
+            "sku": "2H496W5RURD42PD5",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "System Operation",
+        "attributes": {
+          "regionCode": "eu-south-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "IOPS",
+          "usagetype": "EUS1-EBS:VolumeP-IOPS.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "EU (Milan)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS IOPS"
+        },
+        "sku": "34TC3ZKT34KT5JEH"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "34TC3ZKT34KT5JEH.JRTCKXETXF": {
+            "priceDimensions": {
+              "34TC3ZKT34KT5JEH.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "IOPS-Mo",
+                "endRange": "Inf",
+                "description": "$0.0058 per provisioned IOPS-month of gp3 - EU (Milan)",
+                "appliesTo": [],
+                "rateCode": "34TC3ZKT34KT5JEH.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0058000000"
+                }
+              }
+            },
+            "sku": "34TC3ZKT34KT5JEH",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "System Operation",
+        "attributes": {
+          "regionCode": "sa-east-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "IOPS",
+          "usagetype": "SAE1-EBS:VolumeP-IOPS.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "South America (Sao Paulo)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS IOPS"
+        },
+        "sku": "386BKJQFEC587KVG"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "386BKJQFEC587KVG.JRTCKXETXF": {
+            "priceDimensions": {
+              "386BKJQFEC587KVG.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "IOPS-Mo",
+                "endRange": "Inf",
+                "description": "$0.0095 per provisioned IOPS-month of gp3 - South America (Sao Paulo)",
+                "appliesTo": [],
+                "rateCode": "386BKJQFEC587KVG.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0095000000"
+                }
+              }
+            },
+            "sku": "386BKJQFEC587KVG",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "System Operation",
+        "attributes": {
+          "regionCode": "cn-north-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "IOPS",
+          "usagetype": "CNN1-EBS:VolumeP-IOPS.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "China (Beijing)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS IOPS"
+        },
+        "sku": "3UB4UJW49M96M7HQ"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "3UB4UJW49M96M7HQ.99YE2YK9UR": {
+            "priceDimensions": {
+              "3UB4UJW49M96M7HQ.99YE2YK9UR.Q7UJUT2CE6": {
+                "unit": "IOPS-Mo",
+                "endRange": "Inf",
+                "description": "0.0373 CNY per provisioned IOPS-month of gp3 - China (Beijing)",
+                "appliesTo": [],
+                "rateCode": "3UB4UJW49M96M7HQ.99YE2YK9UR.Q7UJUT2CE6",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "CNY": "0.0373000000"
+                }
+              }
+            },
+            "sku": "3UB4UJW49M96M7HQ",
+            "effectiveDate": "2023-11-01T00:00:00Z",
+            "offerTermCode": "99YE2YK9UR",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231207201031",
+      "publicationDate": "2023-12-07T20:10:31Z"
+    },
+    {
+      "product": {
+        "productFamily": "System Operation",
+        "attributes": {
+          "regionCode": "us-east-1-dfw-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "IOPS",
+          "usagetype": "DFW1-EBS:VolumeP-IOPS.gp3",
+          "locationType": "AWS Local Zone",
+          "volumeApiName": "gp3",
+          "location": "US East (Dallas)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS IOPS"
+        },
+        "sku": "5JVT8HPYTZQNMJ3A"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "5JVT8HPYTZQNMJ3A.JRTCKXETXF": {
+            "priceDimensions": {
+              "5JVT8HPYTZQNMJ3A.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "IOPS-Mo",
+                "endRange": "Inf",
+                "description": "$0.0075 per provisioned IOPS-month of gp3 - US East (Dallas)",
+                "appliesTo": [],
+                "rateCode": "5JVT8HPYTZQNMJ3A.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0075000000"
+                }
+              }
+            },
+            "sku": "5JVT8HPYTZQNMJ3A",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "System Operation",
+        "attributes": {
+          "regionCode": "ap-northeast-2",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "IOPS",
+          "usagetype": "APN2-EBS:VolumeP-IOPS.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "Asia Pacific (Seoul)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS IOPS"
+        },
+        "sku": "65V6R2HKUXFQ5VRV"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "65V6R2HKUXFQ5VRV.JRTCKXETXF": {
+            "priceDimensions": {
+              "65V6R2HKUXFQ5VRV.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "IOPS-Mo",
+                "endRange": "Inf",
+                "description": "$0.0057 per provisioned IOPS-month of gp3 - Asia Pacific (Seoul)",
+                "appliesTo": [],
+                "rateCode": "65V6R2HKUXFQ5VRV.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0057000000"
+                }
+              }
+            },
+            "sku": "65V6R2HKUXFQ5VRV",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "System Operation",
+        "attributes": {
+          "regionCode": "ap-southeast-2",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "IOPS",
+          "usagetype": "APS2-EBS:VolumeP-IOPS.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "Asia Pacific (Sydney)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS IOPS"
+        },
+        "sku": "69EGQ83GFYZBFNWU"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "69EGQ83GFYZBFNWU.JRTCKXETXF": {
+            "priceDimensions": {
+              "69EGQ83GFYZBFNWU.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "IOPS-Mo",
+                "endRange": "Inf",
+                "description": "$0.006 per provisioned IOPS-month of gp3 - Asia Pacific (Sydney)",
+                "appliesTo": [],
+                "rateCode": "69EGQ83GFYZBFNWU.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0060000000"
+                }
+              }
+            },
+            "sku": "69EGQ83GFYZBFNWU",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "System Operation",
+        "attributes": {
+          "regionCode": "us-east-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "IOPS",
+          "usagetype": "EBS:VolumeP-IOPS.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "US East (N. Virginia)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS IOPS"
+        },
+        "sku": "7Q58NR58VQEASA4W"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "7Q58NR58VQEASA4W.JRTCKXETXF": {
+            "priceDimensions": {
+              "7Q58NR58VQEASA4W.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "IOPS-Mo",
+                "endRange": "Inf",
+                "description": "$0.005 per provisioned IOPS-month of gp3 - US East (N. Virginia)",
+                "appliesTo": [],
+                "rateCode": "7Q58NR58VQEASA4W.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0050000000"
+                }
+              }
+            },
+            "sku": "7Q58NR58VQEASA4W",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "System Operation",
+        "attributes": {
+          "regionCode": "ap-northeast-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "IOPS",
+          "usagetype": "APN1-EBS:VolumeP-IOPS.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "Asia Pacific (Tokyo)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS IOPS"
+        },
+        "sku": "7TFGMV47Q2PEQ9W7"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "7TFGMV47Q2PEQ9W7.JRTCKXETXF": {
+            "priceDimensions": {
+              "7TFGMV47Q2PEQ9W7.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "IOPS-Mo",
+                "endRange": "Inf",
+                "description": "$0.006 per provisioned IOPS-month of gp3 - Asia Pacific (Tokyo)",
+                "appliesTo": [],
+                "rateCode": "7TFGMV47Q2PEQ9W7.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0060000000"
+                }
+              }
+            },
+            "sku": "7TFGMV47Q2PEQ9W7",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "System Operation",
+        "attributes": {
+          "regionCode": "eu-central-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "IOPS",
+          "usagetype": "EUC1-EBS:VolumeP-IOPS.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "EU (Frankfurt)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS IOPS"
+        },
+        "sku": "8AGS2P58KKNUHB49"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "8AGS2P58KKNUHB49.JRTCKXETXF": {
+            "priceDimensions": {
+              "8AGS2P58KKNUHB49.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "IOPS-Mo",
+                "endRange": "Inf",
+                "description": "$0.006 per provisioned IOPS-month of gp3 - EU (Frankfurt)",
+                "appliesTo": [],
+                "rateCode": "8AGS2P58KKNUHB49.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0060000000"
+                }
+              }
+            },
+            "sku": "8AGS2P58KKNUHB49",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "System Operation",
+        "attributes": {
+          "regionCode": "ca-central-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "IOPS",
+          "usagetype": "CAN1-EBS:VolumeP-IOPS.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "Canada (Central)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS IOPS"
+        },
+        "sku": "AWX392ZW72JQE3CB"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "AWX392ZW72JQE3CB.JRTCKXETXF": {
+            "priceDimensions": {
+              "AWX392ZW72JQE3CB.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "IOPS-Mo",
+                "endRange": "Inf",
+                "description": "$0.0055 per provisioned IOPS-month of gp3 - Canada (Central)",
+                "appliesTo": [],
+                "rateCode": "AWX392ZW72JQE3CB.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0055000000"
+                }
+              }
+            },
+            "sku": "AWX392ZW72JQE3CB",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "System Operation",
+        "attributes": {
+          "regionCode": "ap-southeast-4",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "IOPS",
+          "usagetype": "APS6-EBS:VolumeP-IOPS.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "Asia Pacific (Melbourne)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS IOPS"
+        },
+        "sku": "BNRXNKXWHJN79YUH"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "BNRXNKXWHJN79YUH.JRTCKXETXF": {
+            "priceDimensions": {
+              "BNRXNKXWHJN79YUH.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "IOPS-Mo",
+                "endRange": "Inf",
+                "description": "$0.006 per provisioned IOPS-month of gp3 - Asia Pacific (Melbourne)",
+                "appliesTo": [],
+                "rateCode": "BNRXNKXWHJN79YUH.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0060000000"
+                }
+              }
+            },
+            "sku": "BNRXNKXWHJN79YUH",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "System Operation",
+        "attributes": {
+          "regionCode": "ap-east-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "IOPS",
+          "usagetype": "APE1-EBS:VolumeP-IOPS.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "Asia Pacific (Hong Kong)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS IOPS"
+        },
+        "sku": "BRQGGCWRSER79VH7"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "BRQGGCWRSER79VH7.JRTCKXETXF": {
+            "priceDimensions": {
+              "BRQGGCWRSER79VH7.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "IOPS-Mo",
+                "endRange": "Inf",
+                "description": "$0.0066 per provisioned IOPS-month of gp3 - Asia Pacific (Hong Kong)",
+                "appliesTo": [],
+                "rateCode": "BRQGGCWRSER79VH7.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0066000000"
+                }
+              }
+            },
+            "sku": "BRQGGCWRSER79VH7",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "System Operation",
+        "attributes": {
+          "regionCode": "eu-south-2",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "IOPS",
+          "usagetype": "EUS2-EBS:VolumeP-IOPS.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "Europe (Spain)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS IOPS"
+        },
+        "sku": "BTGDVC8Y22Q99H89"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "BTGDVC8Y22Q99H89.JRTCKXETXF": {
+            "priceDimensions": {
+              "BTGDVC8Y22Q99H89.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "IOPS-Mo",
+                "endRange": "Inf",
+                "description": "$0.0055 per provisioned IOPS-month of gp3 - Europe (Spain)",
+                "appliesTo": [],
+                "rateCode": "BTGDVC8Y22Q99H89.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0055000000"
+                }
+              }
+            },
+            "sku": "BTGDVC8Y22Q99H89",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "System Operation",
+        "attributes": {
+          "regionCode": "eu-central-2",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "IOPS",
+          "usagetype": "EUC2-EBS:VolumeP-IOPS.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "Europe (Zurich)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS IOPS"
+        },
+        "sku": "C5HB9YMNEZXDTQT6"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "C5HB9YMNEZXDTQT6.JRTCKXETXF": {
+            "priceDimensions": {
+              "C5HB9YMNEZXDTQT6.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "IOPS-Mo",
+                "endRange": "Inf",
+                "description": "$0.007 per provisioned IOPS-month of gp3 - EU (Zurich)",
+                "appliesTo": [],
+                "rateCode": "C5HB9YMNEZXDTQT6.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0070000000"
+                }
+              }
+            },
+            "sku": "C5HB9YMNEZXDTQT6",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "System Operation",
+        "attributes": {
+          "regionCode": "me-central-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "IOPS",
+          "usagetype": "MEC1-EBS:VolumeP-IOPS.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "Middle East (UAE)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS IOPS"
+        },
+        "sku": "DEAG7TNKWKEHW3RZ"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "DEAG7TNKWKEHW3RZ.JRTCKXETXF": {
+            "priceDimensions": {
+              "DEAG7TNKWKEHW3RZ.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "IOPS-Mo",
+                "endRange": "Inf",
+                "description": "$0.0061 per provisioned IOPS-month of gp3 - Middle East (UAE)",
+                "appliesTo": [],
+                "rateCode": "DEAG7TNKWKEHW3RZ.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0061000000"
+                }
+              }
+            },
+            "sku": "DEAG7TNKWKEHW3RZ",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "System Operation",
+        "attributes": {
+          "regionCode": "eu-west-3",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "IOPS",
+          "usagetype": "EUW3-EBS:VolumeP-IOPS.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "EU (Paris)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS IOPS"
+        },
+        "sku": "DSR4UAJ4VGPWJF2T"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "DSR4UAJ4VGPWJF2T.JRTCKXETXF": {
+            "priceDimensions": {
+              "DSR4UAJ4VGPWJF2T.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "IOPS-Mo",
+                "endRange": "Inf",
+                "description": "$0.0058 per provisioned IOPS-month of gp3 - EU (Paris)",
+                "appliesTo": [],
+                "rateCode": "DSR4UAJ4VGPWJF2T.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0058000000"
+                }
+              }
+            },
+            "sku": "DSR4UAJ4VGPWJF2T",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "System Operation",
+        "attributes": {
+          "regionCode": "af-south-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "IOPS",
+          "usagetype": "AFS1-EBS:VolumeP-IOPS.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "Africa (Cape Town)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS IOPS"
+        },
+        "sku": "GDWTKUTUUYU3QQ96"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "GDWTKUTUUYU3QQ96.JRTCKXETXF": {
+            "priceDimensions": {
+              "GDWTKUTUUYU3QQ96.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "IOPS-Mo",
+                "endRange": "Inf",
+                "description": "$0.0065 per provisioned IOPS-month of gp3 - Africa (Cape Town)",
+                "appliesTo": [],
+                "rateCode": "GDWTKUTUUYU3QQ96.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0065000000"
+                }
+              }
+            },
+            "sku": "GDWTKUTUUYU3QQ96",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "System Operation",
+        "attributes": {
+          "regionCode": "ap-south-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "IOPS",
+          "usagetype": "APS3-EBS:VolumeP-IOPS.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "Asia Pacific (Mumbai)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS IOPS"
+        },
+        "sku": "M444T698V655Q9KM"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "M444T698V655Q9KM.JRTCKXETXF": {
+            "priceDimensions": {
+              "M444T698V655Q9KM.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "IOPS-Mo",
+                "endRange": "Inf",
+                "description": "$0.0057 per provisioned IOPS-month of gp3 - Asia Pacific (Mumbai)",
+                "appliesTo": [],
+                "rateCode": "M444T698V655Q9KM.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0057000000"
+                }
+              }
+            },
+            "sku": "M444T698V655Q9KM",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "System Operation",
+        "attributes": {
+          "regionCode": "us-east-2",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "IOPS",
+          "usagetype": "USE2-EBS:VolumeP-IOPS.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "US East (Ohio)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS IOPS"
+        },
+        "sku": "M7SNV383JPWT8MVX"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "M7SNV383JPWT8MVX.JRTCKXETXF": {
+            "priceDimensions": {
+              "M7SNV383JPWT8MVX.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "IOPS-Mo",
+                "endRange": "Inf",
+                "description": "$0.005 per provisioned IOPS-month of gp3 - US East (Ohio)",
+                "appliesTo": [],
+                "rateCode": "M7SNV383JPWT8MVX.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0050000000"
+                }
+              }
+            },
+            "sku": "M7SNV383JPWT8MVX",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "System Operation",
+        "attributes": {
+          "regionCode": "us-gov-west-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "IOPS",
+          "usagetype": "UGW1-EBS:VolumeP-IOPS.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "AWS GovCloud (US-West)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS IOPS"
+        },
+        "sku": "NRD7P87FFWN69MRA"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "NRD7P87FFWN69MRA.JRTCKXETXF": {
+            "priceDimensions": {
+              "NRD7P87FFWN69MRA.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "IOPS-Mo",
+                "endRange": "Inf",
+                "description": "$0.006 per provisioned IOPS-month of gp3 - AWS GovCloud (US-West)",
+                "appliesTo": [],
+                "rateCode": "NRD7P87FFWN69MRA.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0060000000"
+                }
+              }
+            },
+            "sku": "NRD7P87FFWN69MRA",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "System Operation",
+        "attributes": {
+          "regionCode": "ap-south-2",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "IOPS",
+          "usagetype": "APS5-EBS:VolumeP-IOPS.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "Asia Pacific (Hyderabad)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS IOPS"
+        },
+        "sku": "PGESGYQYYZPEARQK"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "PGESGYQYYZPEARQK.JRTCKXETXF": {
+            "priceDimensions": {
+              "PGESGYQYYZPEARQK.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "IOPS-Mo",
+                "endRange": "Inf",
+                "description": "$0.0057 per provisioned IOPS-month of gp3 - Asia Pacific (Hyderabad)",
+                "appliesTo": [],
+                "rateCode": "PGESGYQYYZPEARQK.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0057000000"
+                }
+              }
+            },
+            "sku": "PGESGYQYYZPEARQK",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "System Operation",
+        "attributes": {
+          "regionCode": "us-west-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "IOPS",
+          "usagetype": "USW1-EBS:VolumeP-IOPS.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "US West (N. California)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS IOPS"
+        },
+        "sku": "PW3FB23N3JWG2ZA2"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "PW3FB23N3JWG2ZA2.JRTCKXETXF": {
+            "priceDimensions": {
+              "PW3FB23N3JWG2ZA2.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "IOPS-Mo",
+                "endRange": "Inf",
+                "description": "$0.006 per provisioned IOPS-month of gp3 - US West (N. California)",
+                "appliesTo": [],
+                "rateCode": "PW3FB23N3JWG2ZA2.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0060000000"
+                }
+              }
+            },
+            "sku": "PW3FB23N3JWG2ZA2",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "System Operation",
+        "attributes": {
+          "regionCode": "ap-southeast-3",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "IOPS",
+          "usagetype": "APS4-EBS:VolumeP-IOPS.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "Asia Pacific (Jakarta)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS IOPS"
+        },
+        "sku": "R2KQJNB63GQQSV7F"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "R2KQJNB63GQQSV7F.JRTCKXETXF": {
+            "priceDimensions": {
+              "R2KQJNB63GQQSV7F.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "IOPS-Mo",
+                "endRange": "Inf",
+                "description": "$0.006 per provisioned IOPS-month of gp3 - Asia Pacific (Jakarta)",
+                "appliesTo": [],
+                "rateCode": "R2KQJNB63GQQSV7F.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0060000000"
+                }
+              }
+            },
+            "sku": "R2KQJNB63GQQSV7F",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "System Operation",
+        "attributes": {
+          "regionCode": "eu-west-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "IOPS",
+          "usagetype": "EU-EBS:VolumeP-IOPS.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "EU (Ireland)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS IOPS"
+        },
+        "sku": "RC6HKYUDYUP35XBV"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "RC6HKYUDYUP35XBV.JRTCKXETXF": {
+            "priceDimensions": {
+              "RC6HKYUDYUP35XBV.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "IOPS-Mo",
+                "endRange": "Inf",
+                "description": "$0.0055 per provisioned IOPS-month of gp3 - EU (Ireland)",
+                "appliesTo": [],
+                "rateCode": "RC6HKYUDYUP35XBV.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0055000000"
+                }
+              }
+            },
+            "sku": "RC6HKYUDYUP35XBV",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "System Operation",
+        "attributes": {
+          "regionCode": "cn-northwest-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "IOPS",
+          "usagetype": "CNW1-EBS:VolumeP-IOPS.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "China (Ningxia)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS IOPS"
+        },
+        "sku": "RPZHTFZ577GP8HS3"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "RPZHTFZ577GP8HS3.5Y9WH78GDR": {
+            "priceDimensions": {
+              "RPZHTFZ577GP8HS3.5Y9WH78GDR.Q7UJUT2CE6": {
+                "unit": "IOPS-Mo",
+                "endRange": "Inf",
+                "description": "0.0332 CNY per provisioned IOPS-month of gp3 - China (Ningxia)",
+                "appliesTo": [],
+                "rateCode": "RPZHTFZ577GP8HS3.5Y9WH78GDR.Q7UJUT2CE6",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "CNY": "0.0332000000"
+                }
+              }
+            },
+            "sku": "RPZHTFZ577GP8HS3",
+            "effectiveDate": "2023-11-01T00:00:00Z",
+            "offerTermCode": "5Y9WH78GDR",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231207201031",
+      "publicationDate": "2023-12-07T20:10:31Z"
+    },
+    {
+      "product": {
+        "productFamily": "System Operation",
+        "attributes": {
+          "regionCode": "us-west-2-phx-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "IOPS",
+          "usagetype": "PHX1-EBS:VolumeP-IOPS.gp3",
+          "locationType": "AWS Local Zone",
+          "volumeApiName": "gp3",
+          "location": "US West (Phoenix)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS IOPS"
+        },
+        "sku": "S9QSMCZKWWKVW7BP"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "S9QSMCZKWWKVW7BP.JRTCKXETXF": {
+            "priceDimensions": {
+              "S9QSMCZKWWKVW7BP.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "IOPS-Mo",
+                "endRange": "Inf",
+                "description": "$0.0075 per provisioned IOPS-month of gp3 - US West (Phoenix)",
+                "appliesTo": [],
+                "rateCode": "S9QSMCZKWWKVW7BP.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0075000000"
+                }
+              }
+            },
+            "sku": "S9QSMCZKWWKVW7BP",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "System Operation",
+        "attributes": {
+          "regionCode": "il-central-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "IOPS",
+          "usagetype": "ILC1-EBS:VolumeP-IOPS.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "Israel (Tel Aviv)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS IOPS"
+        },
+        "sku": "UEJHUP7YRGCJWWFD"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "UEJHUP7YRGCJWWFD.JRTCKXETXF": {
+            "priceDimensions": {
+              "UEJHUP7YRGCJWWFD.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "IOPS-Mo",
+                "endRange": "Inf",
+                "description": "$0.0066 per provisioned IOPS-month of gp3 - Israel (Tel Aviv)",
+                "appliesTo": [],
+                "rateCode": "UEJHUP7YRGCJWWFD.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0066000000"
+                }
+              }
+            },
+            "sku": "UEJHUP7YRGCJWWFD",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "System Operation",
+        "attributes": {
+          "regionCode": "eu-west-2",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "IOPS",
+          "usagetype": "EUW2-EBS:VolumeP-IOPS.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "EU (London)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS IOPS"
+        },
+        "sku": "VVGAXJC97QRV972T"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "VVGAXJC97QRV972T.JRTCKXETXF": {
+            "priceDimensions": {
+              "VVGAXJC97QRV972T.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "IOPS-Mo",
+                "endRange": "Inf",
+                "description": "$0.0058 per provisioned IOPS-month of gp3 - EU (London)",
+                "appliesTo": [],
+                "rateCode": "VVGAXJC97QRV972T.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0058000000"
+                }
+              }
+            },
+            "sku": "VVGAXJC97QRV972T",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "System Operation",
+        "attributes": {
+          "regionCode": "us-west-2-lax-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "IOPS",
+          "usagetype": "LAX1-EBS:VolumeP-IOPS.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "US West (Los Angeles)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS IOPS"
+        },
+        "sku": "WCQ3PUNRXECWA8N9"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "WCQ3PUNRXECWA8N9.JRTCKXETXF": {
+            "priceDimensions": {
+              "WCQ3PUNRXECWA8N9.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "IOPS-Mo",
+                "endRange": "Inf",
+                "description": "$0.006 per provisioned IOPS-month of gp3 - US West (Los Angeles)",
+                "appliesTo": [],
+                "rateCode": "WCQ3PUNRXECWA8N9.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0060000000"
+                }
+              }
+            },
+            "sku": "WCQ3PUNRXECWA8N9",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "System Operation",
+        "attributes": {
+          "regionCode": "ap-northeast-3",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "IOPS",
+          "usagetype": "APN3-EBS:VolumeP-IOPS.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "Asia Pacific (Osaka)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS IOPS"
+        },
+        "sku": "WMD8K9F842JE93TC"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "WMD8K9F842JE93TC.JRTCKXETXF": {
+            "priceDimensions": {
+              "WMD8K9F842JE93TC.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "IOPS-Mo",
+                "endRange": "Inf",
+                "description": "$0.006 per provisioned IOPS-month of gp3 - Asia Pacific (Osaka)",
+                "appliesTo": [],
+                "rateCode": "WMD8K9F842JE93TC.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0060000000"
+                }
+              }
+            },
+            "sku": "WMD8K9F842JE93TC",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "System Operation",
+        "attributes": {
+          "regionCode": "us-west-2",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "IOPS",
+          "usagetype": "USW2-EBS:VolumeP-IOPS.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "US West (Oregon)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS IOPS"
+        },
+        "sku": "XBTB827YUJSN6SSV"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "XBTB827YUJSN6SSV.JRTCKXETXF": {
+            "priceDimensions": {
+              "XBTB827YUJSN6SSV.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "IOPS-Mo",
+                "endRange": "Inf",
+                "description": "$0.005 per provisioned IOPS-month of gp3 - US West (Oregon)",
+                "appliesTo": [],
+                "rateCode": "XBTB827YUJSN6SSV.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0050000000"
+                }
+              }
+            },
+            "sku": "XBTB827YUJSN6SSV",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "System Operation",
+        "attributes": {
+          "regionCode": "us-gov-east-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "IOPS",
+          "usagetype": "UGE1-EBS:VolumeP-IOPS.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "AWS GovCloud (US-East)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS IOPS"
+        },
+        "sku": "XQ7R8HPSQYECGE6Q"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "XQ7R8HPSQYECGE6Q.JRTCKXETXF": {
+            "priceDimensions": {
+              "XQ7R8HPSQYECGE6Q.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "IOPS-Mo",
+                "endRange": "Inf",
+                "description": "$0.006 per provisioned IOPS-month of gp3 - AWS GovCloud (US-East)",
+                "appliesTo": [],
+                "rateCode": "XQ7R8HPSQYECGE6Q.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0060000000"
+                }
+              }
+            },
+            "sku": "XQ7R8HPSQYECGE6Q",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    },
+    {
+      "product": {
+        "productFamily": "System Operation",
+        "attributes": {
+          "regionCode": "eu-north-1",
+          "servicecode": "AmazonEC2",
+          "provisioned": "Yes",
+          "groupDescription": "IOPS",
+          "usagetype": "EUN1-EBS:VolumeP-IOPS.gp3",
+          "locationType": "AWS Region",
+          "volumeApiName": "gp3",
+          "location": "EU (Stockholm)",
+          "servicename": "Amazon Elastic Compute Cloud",
+          "operation": "",
+          "group": "EBS IOPS"
+        },
+        "sku": "XS8EGK3XM47WU7KN"
+      },
+      "serviceCode": "AmazonEC2",
+      "terms": {
+        "OnDemand": {
+          "XS8EGK3XM47WU7KN.JRTCKXETXF": {
+            "priceDimensions": {
+              "XS8EGK3XM47WU7KN.JRTCKXETXF.6YS6EN2CT7": {
+                "unit": "IOPS-Mo",
+                "endRange": "Inf",
+                "description": "$0.0052 per provisioned IOPS-month of gp3 - EU (Stockholm)",
+                "appliesTo": [],
+                "rateCode": "XS8EGK3XM47WU7KN.JRTCKXETXF.6YS6EN2CT7",
+                "beginRange": "0",
+                "pricePerUnit": {
+                  "USD": "0.0052000000"
+                }
+              }
+            },
+            "sku": "XS8EGK3XM47WU7KN",
+            "effectiveDate": "2023-12-01T00:00:00Z",
+            "offerTermCode": "JRTCKXETXF",
+            "termAttributes": {}
+          }
+        }
+      },
+      "version": "20231208003357",
+      "publicationDate": "2023-12-08T00:33:57Z"
+    }
+  ]
+}

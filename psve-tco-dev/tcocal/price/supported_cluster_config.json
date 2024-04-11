@@ -1,0 +1,60 @@
+{
+    "OneFS 9.6": {
+        "supported-regions": ["us-east-1", "us-east-2", "us-west-2", "eu-west-1", "eu-central-1", "ap-southeast-1", "ap-northeast-1"],
+        "cluster-node-amount": [4, 5, 6],
+        "supported-instance-type": ["m5dn.8xlarge", "m5dn.12xlarge", "m5dn.16xlarge", "m5dn.24xlarge"],
+        "ssd-cluster": {
+            "cluster-node-amount": [6, 5, 4],
+            "supported-instance-type": ["m5dn.8xlarge", "m5dn.12xlarge", "m5dn.16xlarge", "m5dn.24xlarge"],
+            "supported-node-ebs-type": ["gp3"],
+            "supported-node-disk-amount": [12, 5, 6, 10, 15, 18, 20],
+            "supported-node-disk-size-min": 1, 
+            "supported-node-disk-size-max": 16,
+            "supported-node-disk-size-step": 0.1,
+            "supported-cluster-raw-capacity-min": 20, 
+            "supported-cluster-raw-capacity-max": 1024, 
+            "supported-cluster-protection-level": "2n"
+        },
+        "hdd-cluster": {
+            "cluster-node-amount": [6, 5, 4],
+            "supported-instance-type": ["m5dn.8xlarge", "m5dn.12xlarge", "m5dn.16xlarge", "m5dn.24xlarge"],
+            "supported-node-ebs-type": ["st1"],
+            "supported-node-disk-amount": [5, 6],
+            "supported-node-disk-size-min": 4, 
+            "supported-node-disk-size-max": 10,
+            "supported-node-disk-size-step": 6,
+            "supported-cluster-raw-capacity-min": 80, 
+            "supported-cluster-raw-capacity-max": 360, 
+            "supported-cluster-protection-level": "2n"
+        }
+    },
+    "OneFS 9.7": {
+        "supported-regions": ["us-east-1", "us-east-2", "us-west-1", "us-west-2", "af-south-1", "ap-east-1", "ap-south-2", "ap-southeast-3", "ap-southeast-4", "ap-south-1", "ap-northeast-3", "ap-northeast-2", "ap-southeast-1", "ap-southeast-2", "ap-northeast-1", "ca-central-1", "eu-central-1", "eu-west-1", "eu-west-2", "eu-south-1", "eu-west-3", "eu-south-2", "eu-north-1", "eu-central-2", "me-south-1", "me-central-1", "il-central-1", "sa-east-1"],
+        "cluster-node-amount": [6, 5, 4],
+        "supported-instance-type": ["m5dn.8xlarge", "m5dn.12xlarge", "m5dn.16xlarge", "m5dn.24xlarge", "m6idn.8xlarge", "m6idn.12xlarge", "m6idn.16xlarge", "m6idn.24xlarge", "m5d.24xlarge", "i3en.12xlarge"],
+        "ssd-cluster": {
+            "cluster-node-amount": [6, 5, 4],
+            "supported-instance-type": ["m5dn.8xlarge", "m5dn.12xlarge", "m5dn.16xlarge", "m5dn.24xlarge", "m6idn.8xlarge", "m6idn.12xlarge", "m6idn.16xlarge", "m6idn.24xlarge", "m5d.24xlarge", "i3en.12xlarge"],
+            "supported-node-ebs-type": ["gp3"],
+            "supported-node-disk-amount": [12, 5, 6, 10, 15, 18, 20],
+            "supported-node-disk-size-min": 1, 
+            "supported-node-disk-size-max": 16,
+            "supported-node-disk-size-step": 0.001,
+            "supported-cluster-raw-capacity-min": 20, 
+            "supported-cluster-raw-capacity-max": 1638.4, 
+            "supported-cluster-protection-level": "2n"
+        },
+        "hdd-cluster": {
+            "cluster-node-amount": [6, 5, 4],
+            "supported-instance-type": ["m5dn.8xlarge", "m5dn.12xlarge", "m5dn.16xlarge", "m5dn.24xlarge", "m6idn.8xlarge", "m6idn.12xlarge", "m6idn.16xlarge", "m6idn.24xlarge", "m5d.24xlarge", "i3en.12xlarge"],
+            "supported-node-ebs-type": ["st1"],
+            "supported-node-disk-amount": [5, 6],
+            "supported-node-disk-size-min": 4, 
+            "supported-node-disk-size-max": 10,
+            "supported-node-disk-size-step": 6,
+            "supported-cluster-raw-capacity-min": 80, 
+            "supported-cluster-raw-capacity-max": 360, 
+            "supported-cluster-protection-level": "2n"
+        }
+    }   
+}
